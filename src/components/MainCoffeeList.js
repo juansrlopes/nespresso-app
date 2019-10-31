@@ -35,7 +35,7 @@ export const MainCoffeeList = () => {
                                     </Card.Text>
                                     <Button variant="dark">
                                         <Link
-                                            to={coffeeDataItem.machine_slug}
+                                            to={`/coffee/${coffeeDataItem.machine_slug}`}
                                             style={{ color: "#fff" }}
                                         >
                                             See More
