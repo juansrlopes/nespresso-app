@@ -4,6 +4,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
+import { Link } from "react-router-dom";
 import { mainCoffeeList } from "../coffee-data/mainCoffee";
 
 export const MainCoffeeList = () => {
@@ -13,7 +14,12 @@ export const MainCoffeeList = () => {
             <Row>
                 {coffeeDataList.map(coffeeDataItem => {
                     return (
-                        <Col xs={6} md={4} style={{ marginBottom: "20px" }}>
+                        <Col
+                            xs={6}
+                            md={4}
+                            style={{ marginBottom: "20px" }}
+                            key={coffeeDataItem.machine_slug}
+                        >
                             <Card>
                                 <Card.Header as="h5">
                                     {coffeeDataItem.machine_name}
@@ -27,7 +33,14 @@ export const MainCoffeeList = () => {
                                         Price: &euro;{" "}
                                         {coffeeDataItem.nesOAMachine_price}
                                     </Card.Text>
-                                    <Button variant="primary">See more</Button>
+                                    <Button variant="dark">
+                                        <Link
+                                            to={coffeeDataItem.machine_slug}
+                                            style={{ color: "#fff" }}
+                                        >
+                                            See More
+                                        </Link>
+                                    </Button>
                                 </Card.Body>
                             </Card>
                         </Col>
