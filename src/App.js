@@ -6,6 +6,7 @@ const App = () => {
     return (
         <div className="nespresso-app">
             <HeaderNav />
+            <br />
             <MainCoffeeList />
         </div>
     );
