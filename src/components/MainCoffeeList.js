@@ -13,7 +13,7 @@ export const MainCoffeeList = () => {
             <Row>
                 {coffeeDataList.map(coffeeDataItem => {
                     return (
-                        <Col xs={6} md={4}>
+                        <Col xs={6} md={4} style={{ marginBottom: "20px" }}>
                             <Card>
                                 <Card.Header as="h5">
                                     {coffeeDataItem.machine_name}
