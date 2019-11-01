@@ -5,7 +5,7 @@ import Navbar from "react-bootstrap/Navbar";
 
 export const HeaderNav = () => {
     return (
-        <Navbar bg="dark" variant="dark">
+        <Navbar bg="dark" variant="dark" style={{ marginBottom: "40px" }}>
             <Link to="/" style={{ color: "#fff" }}>
                 Nespresso App
             </Link>

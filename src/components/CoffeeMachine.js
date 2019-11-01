@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import axios from "axios";
 import Container from "react-bootstrap/Container";
+import { CoffeeMachineItem } from "./CoffeeMachineItem";
 
 export const CoffeeMachine = () => {
     let { coffeeSlug } = useParams();
@@ -30,8 +31,7 @@ export const CoffeeMachine = () => {
                 <div>No coffee yet...</div>
             ) : (
                 <div>
-                    Hello {coffeeSlug}
-                    <p>Machine : {machine.product_type}</p>
+                    <CoffeeMachineItem machine={machine} />
                 </div>
             )}
         </Container>
