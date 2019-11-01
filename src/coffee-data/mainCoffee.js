@@ -3,7 +3,7 @@ export const mainCoffeeList = {
         {
             id: 1,
             machine_name: "Essenza Mini",
-            machine_slug: "essenza-mini",
+            machine_slug: "essenza_mini",
             nesOAMachine_price: 99.0,
             nesOAInternationalProductId: "C30-EU-BK-KR",
             nesOAName: "Essenza Mini Piano Black Krups",
@@ -21,7 +21,7 @@ export const mainCoffeeList = {
         {
             id: 2,
             machine_name: "Citiz & Milk",
-            machine_slug: "citiz-milk",
+            machine_slug: "citiz_milk",
             nesOAMachine_price: 249.0,
             nesOAInternationalProductId: "D122-EU-BK-MX",
             nesOAName: "11317 - CitiZ & Milk Facelift Black",
@@ -56,7 +56,7 @@ export const mainCoffeeList = {
         {
             id: 4,
             machine_name: "Creatista Plus",
-            machine_slug: "creatista-plus",
+            machine_slug: "creatista_plus",
             nesOAMachine_price: 499.0,
             nesOAInternationalProductId: "J520-EU-ME-NE",
             nesOAName: "Creatista Plus Metallic Nespresso",
@@ -75,7 +75,7 @@ export const mainCoffeeList = {
         {
             id: 5,
             machine_name: "Creatista Uno",
-            machine_slug: "creatista-uno",
+            machine_slug: "creatista_uno",
             nesOAMachine_price: 399.0,
             nesOAInternationalProductId: "J320BK-S",
             nesOAName: "Creatista Uno Black Sesame",
@@ -126,7 +126,7 @@ export const mainCoffeeList = {
         {
             id: 7,
             machine_name: "Lattissima One",
-            machine_slug: "lattissima-one",
+            machine_slug: "lattissima_one",
             nesOAMachine_price: 249.0,
             nesOAInternationalProductId: "F111-EU-WH-DL",
             nesOAName: "Lattissima One White DLG",
@@ -145,7 +145,7 @@ export const mainCoffeeList = {
         {
             id: 8,
             machine_name: "Lattissima Touch",
-            machine_slug: "lattissima-touch",
+            machine_slug: "lattissima_touch",
             nesOAMachine_price: 279.0,
             nesOAInternationalProductId: "F511-EU-RE-DL",
             nesOAName: "EN 550.R - Lattissima Touch Red DLG",
@@ -162,7 +162,7 @@ export const mainCoffeeList = {
         {
             id: 9,
             machine_name: "Expert & Milk",
-            machine_slug: "expert-milk",
+            machine_slug: "expert_milk",
             nesOAMachine_price: 329.0,
             nesOAInternationalProductId: "D85-EU-GR-MX",
             nesOAName: "11380 - Expert & Milk Anthracite MGX",
@@ -181,7 +181,7 @@ export const mainCoffeeList = {
         {
             id: 3,
             machine_name: "Gran Lattissima",
-            machine_slug: "gran-lattissima",
+            machine_slug: "gran_lattissima",
             nesOAMachine_price: 349.0,
             nesOAInternationalProductId: "F531WH",
             nesOAName: "Gran Lattissima DLG",
