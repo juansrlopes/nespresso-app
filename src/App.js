@@ -4,6 +4,7 @@ import { HeaderNav } from "./components/HeaderNav";
 import { About } from "./components/About";
 import { MainCoffeeList } from "./components/MainCoffeeList";
 import { CoffeeMachine } from "./components/CoffeeMachine";
+import "./App.scss";
 
 const App = () => {
     return (

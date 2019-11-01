@@ -11,7 +11,7 @@ import "./CoffeeMachineItem.scss";
 export const CoffeeMachineItem = props => {
     const { machine } = props;
     const machineContent = machine.content[0];
-
+    const lifestyleImages = machine.lifestyle[0].machine_lifestylevisual;
     return (
         <>
             <Helmet>
@@ -44,6 +44,29 @@ export const CoffeeMachineItem = props => {
                     </Col>
                 </Row>
             </Container>
+            <Row style={{ marginTop: "40px" }}>
+                <Col md={6} className="machine-col">
+                    <div className="machine-photos-banner">
+                        {lifestyleImages.map(image => {
+                            return <Image src={image} />;
+                        })}
+                    </div>
+                </Col>
+                <Col
+                    md={6}
+                    className="machine-col machine-visualblock-text-wrap"
+                >
+                    <div className="machine-visualblock-text">
+                        <h3>{machineContent.visualblock.title}</h3>
+                        <p
+                            dangerouslySetInnerHTML={{
+                                __html: machineContent.visualblock.description
+                            }}
+                            className="machine-description"
+                        ></p>
+                    </div>
+                </Col>
+            </Row>
         </>
     );
 };

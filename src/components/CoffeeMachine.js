@@ -25,13 +25,11 @@ export const CoffeeMachine = () => {
 
     return (
         <>
-            <Container>
-                {noData ? (
-                    <div>No coffee yet...</div>
-                ) : (
-                    <CoffeeMachineItem machine={machine} />
-                )}
-            </Container>
+            {noData ? (
+                <div>No coffee yet...</div>
+            ) : (
+                <CoffeeMachineItem machine={machine} />
+            )}
         </>
     );
 };
