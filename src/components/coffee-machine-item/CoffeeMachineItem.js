@@ -5,10 +5,10 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Image from "react-bootstrap/Image";
 import Button from "react-bootstrap/Button";
+import "./CoffeeMachineItem.scss";
 
 export const CoffeeMachineItem = props => {
     const { machine } = props;
-    console.log("machine", machine);
     const machineContent = machine.content[0];
 
     return (
@@ -26,8 +26,15 @@ export const CoffeeMachineItem = props => {
                     />
                 </Col>
                 <Col md={{ span: 6, offset: 2 }}>
-                    <h1>{machineContent.machine_name}</h1>
-                    <p>{machineContent.machine_description_full}</p>
+                    <h1 className="machine-title">
+                        {machineContent.machine_name}
+                    </h1>
+                    <h2 className="machine-subtitle">
+                        {machineContent.machine_subline}
+                    </h2>
+                    <p className="machine-description">
+                        {machineContent.machine_description_full}
+                    </p>
                 </Col>
             </Row>
         </Container>
