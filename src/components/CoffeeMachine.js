@@ -29,9 +29,7 @@ export const CoffeeMachine = () => {
                 {noData ? (
                     <div>No coffee yet...</div>
                 ) : (
-                    <div>
-                        <CoffeeMachineItem machine={machine} />
-                    </div>
+                    <CoffeeMachineItem machine={machine} />
                 )}
             </Container>
         </>

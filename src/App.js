@@ -10,15 +10,12 @@ const App = () => {
         <Router>
             <HeaderNav />
             <Switch>
-                <Route path="/about">
-                    <About />
-                </Route>
-                <Route path={`/coffee/:coffeeSlug`}>
-                    <CoffeeMachine />
-                </Route>
-                <Route path="/">
-                    <MainCoffeeList />
-                </Route>
+                <Route path="/about" children={<About />} />
+                <Route
+                    path={`/coffee/:coffeeSlug`}
+                    children={<CoffeeMachine />}
+                />
+                <Route path="/" children={<MainCoffeeList />} />
             </Switch>
         </Router>
     );
