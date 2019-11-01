@@ -40,14 +40,13 @@ export const MainCoffeeList = () => {
                                             Price: &euro;{" "}
                                             {coffeeDataItem.nesOAMachine_price}
                                         </Card.Text>
-                                        <Button variant="dark">
-                                            <Link
-                                                to={`/coffee/${coffeeDataItem.machine_slug}`}
-                                                style={{ color: "#fff" }}
-                                            >
-                                                See More
-                                            </Link>
-                                        </Button>
+                                        <Link
+                                            to={`/coffee/${coffeeDataItem.machine_slug}`}
+                                        >
+                                            <Button variant="dark">
+                                                See more
+                                            </Button>
+                                        </Link>
                                     </Card.Body>
                                 </Card>
                             </Col>

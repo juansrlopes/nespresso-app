@@ -18,11 +18,9 @@ export const CoffeeMachineItem = props => {
                 <title>{machineContent.machine_name}</title>
             </Helmet>
             <Container>
-                <Button variant="dark">
-                    <Link to={"/"} style={{ color: "#fff" }}>
-                        Back to machines
-                    </Link>
-                </Button>
+                <Link to={"/"}>
+                    <Button variant="dark">Back to machines</Button>
+                </Link>
                 <Row style={{ marginTop: "40px" }}>
                     <Col md={4}>
                         <Image
