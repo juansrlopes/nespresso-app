@@ -1,0 +1,347 @@
+{
+    "machine": {
+      "machineclass": {
+        "lowend": true,
+        "minCapsulesAmount": 150,
+        "multiple_100": "Te bestellen per 50 capsules",
+        "boer": {
+          "id": [
+            "105840",
+            "105842",
+            ""
+          ],
+          "min": 150
+        }
+      },
+      "lifestyle": [
+        {
+          "machine_lifestyle_main": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-one/lifestyle/Lattissima_One_1_L.jpg",
+          "machine_lifestylevisual": [
+            "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-one/lifestyle/Lattissima_One_2_L.jpg",
+            "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-one/lifestyle/Lattissima_One_3_L.jpg",
+            "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-one/lifestyle/Lattissima_One_4_L.jpg",
+            "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-one/lifestyle/Lattissima_One_5_L.jpg"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "title": "Welke recepten kan ik met de machine bereiden?",
+          "answer": "Deze machine heeft slechts drie knoppen waarmee u verschillende melkrecepten kunt bereiden: espresso, lungo en de knop voor melkrecepten. De machine werkt volgens een eenkopssysteem en gebruikt alle melk in de kan voor uw melkrecept. Twee markeringen in de melkkan geven de juiste hoeveelheid melk aan voor een perfecte cappuccino of latte macchiato. Alle koffierecepten zijn voorgeprogrammeerd volgens fabrieksinstellingen, deze kunt u naar uw persoonlijke smaak aanpassen."
+        },
+        {
+          "title": "Hoe kan ik de geprogrammeerde hoeveelheid koffie aanpassen? Wat is de maximale hoeveelheid?",
+          "answer": "De geprogrammeerde hoeveelheid koffie aanpassen is eenvoudig. Houd de espresso- of lungo-knop tenminste drie seconden vast. Daarmee komt u in de programmeermodus. De koffie begint te lopen en het lampje knippert snel. Laat de knop los bij de gewenste hoeveelheid."
+        },
+        {
+          "title": "Hoe maak ik een latte macchiato met deze machine?",
+          "answer": "De machine is voorzien van een eenkopssysteem en gebruikt alle melk in de kan voor uw melkrecept. Twee markeringen in de melkkan geven de juiste hoeveelheid melk aan voor een perfecte cappuccino of latte macchiato. Een latte macchiato bereiden doet u door de melkkan te vullen tot het tweede icoontje, een capsule te plaatsen en op de melkknop te drukken. De machine laat het melkschuim automatisch in het glas lopen en stopt met schuimen als de melkkan leeg is."
+        },
+        {
+          "title": "Wat is de functie van het zwarte venstertje aan de voorkant van de machine?",
+          "answer": "Het zwarte venstertje is een sensor die de hoeveelheid melk in de melkkan detecteert. De sensor zorgt ervoor dat de machine automatisch stopt met schuimen als de melkkan leeg is."
+        },
+        {
+          "title": "Kan de melkkan in de vaatwasser?",
+          "answer": "De melkkan is opgebouwd uit 5 onderdelen en kan eenvoudig gedemonteerd worden. Alle onderdelen kunnen in de vaatwasser."
+        },
+        {
+          "title": "Is het mogelijk om een recept te selecteren als de machine aan het opwarmen is?",
+          "answer": "Ja, druk op een van de drie knoppen en het recept wordt bereid zodra de machine is opgewarmd."
+        }
+      ],
+      "campaign": {
+        "active": true,
+        "discount": 0,
+        "discount_accessory": 0.00,
+        "sticker_visible_on_overview": true,
+        "sticker": "https://dw0w4amzflayh.cloudfront.net/campaigns/lattissima-grande/new-lattisima-grande-button-50euro-NL.svg",
+        "tabimage": "https://dw0w4amzflayh.cloudfront.net/campaigns/coffee-houses/14890_1760a_PSD_NES_coffee_houses_2019_Banner_Button_Koffiekorting.svg",
+        "banner": {
+          "welcomeBanner": "https://dw0w4amzflayh.cloudfront.net/campaigns/lattissima-grande/14890_2090_PSD_NES_Machine_PDP_Gran_Lattissima_Banners_Topbanner_100E_996x115px_NL.jpg",
+          "imageDesktop": "https://dw0w4amzflayh.cloudfront.net/campaigns/lattissima-grande/14890_2090_PSD_NES_Machine_PDP_Gran_Lattissima_Banners_Topbanner_100E_996x115px_NL.jpg",
+          "imageMobile": "https://dw0w4amzflayh.cloudfront.net/campaigns/lattissima-grande/14890_1863a_PSD_NES_Machine_PDP_Gran_Lattissima_Banners_Topbanner_100E_835x449_NL.jpg",
+          "bb_package_desktop": "https://s3.eu-central-1.amazonaws.com/live-nes-b2c-887b-machinesplashpage/img/craftmanschip/14890_1547_NES_B2C_MachineSplash_Craftmanschip_banner_640x200px_30.jpg"
+        },
+        "package": {
+          "header": "Cadeaupakket + algemene voorwaarden",
+          "items": [
+            {
+              "title": "€50 koffiekorting",
+              "description": "Bij aanschaf van minimaal 150 capsules ontvang je €50 koffiekorting",
+              "image": "https://dw0w4amzflayh.cloudfront.net/campaigns/lattissima-grande/new-lattisima-grande-button-50euro-NL.svg"
+            }
+          ]
+        }
+      },
+      "content": [
+        {
+          "renewal": true,
+          "prospect": true,
+          "inStock": true,
+          "machine_name": "Lattissima One",
+          "machine_slug": "lattissima-one",
+          "milkfunction": true,
+          "machine_subline": "Dé machine voor espressoliefhebbers die ook genieten van een melkrecept op z'n tijd",
+          "machine_description": "Met de Lattissima One maakt u de espresso of lungo waar u zo van houdt, maar ook een overheerlijke cappuccino of latte macchiato als u daar zin in heeft.",
+          "machine_description_full": "Met de Lattissima One maakt u de espresso of lungo waar u zo van houdt, maar ook een overheerlijke cappuccino of latte macchiato als u daar zin in heeft. De Lattissima One is de meest compacte machine in de Lattissima serie en past dus perfect in elke keuken. Beschikbaar in de gedistingeerde kleuren Mocha Brown en Silky White.",
+          "nesOAMachine_price": 249.0,
+          "nesOAInternationalProductId": "F111-EU-WH-DL",
+          "nesOAName": "Lattissima One White DLG",
+          "usp": [
+            "0",
+            "14",
+            "16",
+            "4",
+            "3"
+          ],
+          "discover": {
+            "title": "Ontdek de voordelen van de Lattissima One",
+            "description": ""
+          },
+          "visualblock": {
+            "title": "BRENGT EENVOUD NAAR EEN HOGER NIVEAU",
+            "description": "Een nieuw en innovatief melksysteem met slechts één knop voor alle koffie- en melkrecepten. Bovendien zeer gemakkelijk schoon te maken: het melkcompartiment kan in de vaatwasser. Het hoogwaardige compacte design gaat mooi samen met de kwalitatieve materialen, zoals de verchroomde hendel en het subtiele patroon van glanzende en matte lijnen."
+          },
+          "machine_gallery": [
+            {
+              "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-one/silky-white/Lattissima_One_White_front.png"
+            },
+            {
+              "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-one/silky-white/Lattissima_One_White_quarter.png"
+            },
+            {
+              "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-one/silky-white/Lattissima_One_White_side.png"
+            },
+            {
+              "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-one/silky-white/Lattissima_One_White_top.png"
+            }
+          ],
+          "machine_colors": [
+            {
+              "inStock": true,
+              "color_id": "F111WH",
+              "color_slug": "silky-white",
+              "color_desc": "Silky White",
+              "color_compare": {
+                "id": "white",
+                "label": "white"
+              },
+              "color_EAN": "7640156776256",
+              "color_dash": "https://dw0w4amzflayh.cloudfront.net/resources/kleuren/color_white.png",
+              "color_show": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-one/silky-white/Machines_Lattissima_One_Silky_White.png",
+              "color_main": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-one/silky-white/Lattissima_One_White_front.png",
+              "color_extra_image": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-one/silky-white/large/lattissima-one_silky-white_600x600.png",
+              "color_price": 249,
+              "color_prospect_discount": 40,
+              "color_renewal_discount": 80,
+              "color_gallery": [
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-one/silky-white/Lattissima_One_White_front.png",
+                  "alt": "Nespresso_Machine_LattissimaOne_SilkyWhite_Vooraanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-one/silky-white/Lattissima_One_White_quarter.png",
+                  "alt": "Nespresso_Machine_LattissimaOne_SilkyWhite_Hoekaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-one/silky-white/Lattissima_One_White_side.png",
+                  "alt": "Nespresso_Machine_LattissimaOne_SilkyWhite_Zijaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-one/silky-white/Lattissima_One_White_top.png",
+                  "alt": "Nespresso_Machine_LattissimaOne_SilkyWhite_Bovenaanzicht"
+                }
+              ]
+            },
+            {
+              "inStock": true,
+              "color_id": "F111BW",
+              "color_slug": "mocha-brown",
+              "color_desc": "Mocha Brown",
+              "color_compare": {
+                "id": "brown",
+                "label": "brown"
+              },
+              "color_EAN": "7640156776256",
+              "color_dash": "https://dw0w4amzflayh.cloudfront.net/resources/kleuren/color_brown.png",
+              "color_show": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-one/mocha-brown/Machines_Lattissima_One_Mocha_Brown.png",
+              "color_main": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-one/mocha-brown/Lattissima_One_Mocha_Brown_front.png",
+              "color_extra_image": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-one/mocha-brown/large/lattissima-one_mocha-brown_600x600.png",
+              "color_price": 249,
+              "color_prospect_discount": 40,
+              "color_renewal_discount": 80,
+              "color_gallery": [
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-one/mocha-brown/Lattissima_One_Mocha_Brown_front.png",
+                  "alt": "Nespresso_Machine_LattissimaOne_MochaBrown_Vooraanzicht"
+                }
+              ]
+            },
+            {
+              "inStock": true,
+              "color_id": "F111BK",
+              "color_slug": "black",
+              "color_desc": "Black",
+              "color_compare": {
+                "id": "black",
+                "label": "black"
+              },
+              "color_EAN": "7630047654220",
+              "color_dash": "https://dw0w4amzflayh.cloudfront.net/resources/kleuren/color_black.png",
+              "color_show": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/machines/lattissima-one/black/Machines_Lattissima_One_Black.png",
+              "color_main": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/machines/lattissima-one/black/Lattissima_One_Mocha_Black_front.png",
+              "color_extra_image": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/machines/lattissima-one/black/lattissima-one_mocha-black_600x600.png",
+              "color_price": 249,
+              "color_prospect_discount": 40,
+              "color_renewal_discount": 80,
+              "color_gallery": [
+                {
+                  "thumbUrl": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/machines/lattissima-one/black/Lattissima_One_Mocha_Black_front.png",
+                  "alt": "Nespresso_Machine_LattissimaOne_MochaBlack_Vooraanzicht"
+                },
+                {
+                  "thumbUrl": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/machines/lattissima-one/black/Lattissima_One_Black_quarter.png",
+                  "alt": "Nespresso_Machine_LattissimaOne_MochaBlack_Hoekaanzicht"
+                },
+                {
+                  "thumbUrl": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/machines/lattissima-one/black/Lattissima_One_Black_side.png",
+                  "alt": "Nespresso_Machine_LattissimaOne_MochaBlack_Zijaanzicht"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "functionality": {
+        "uitgifte": {
+          "image": "",
+          "value": "Handmatige capsule inname en uitgifte",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "schakelaar": {
+          "image": "",
+          "value": "Automatische en programmeerbare aan/uit schakelaar",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "kopjesrooster": {
+          "image": "",
+          "value": "Draaibaar kopjesrooster voor latte macchiato-glazen",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "ontkalking": {
+          "image": "",
+          "value": "Automatische melding voor ontkalking",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "kopgroottes": {
+          "image": "",
+          "value": "Programmeerbare kopgroottes",
+          "label": "",
+          "splash": true,
+          "compare": false
+        }
+      },
+      "specifications": {
+        "gewicht": {
+          "image": "",
+          "value": "4.3 Kilogram",
+          "label": "Gewicht",
+          "splash": true,
+          "compare": true
+        },
+        "verwijderbaar_waterreservoir": {
+          "image": "",
+          "value": "1 Liter",
+          "label": "Verwijderbaar waterreservoir",
+          "splash": true,
+          "compare": true
+        },
+        "capaciteit_capsules": {
+          "image": "",
+          "value": "10 Capsules",
+          "label": "Capaciteit van gebruikte capsules",
+          "splash": true,
+          "compare": false
+        },
+        "vermogen": {
+          "image": "",
+          "value": "1560 Watt",
+          "label": "Vermogen",
+          "splash": true,
+          "compare": false
+        },
+        "afmetingen": {
+          "image": "",
+          "value": "15.4 cm x 32.4 cm x 25.6 cm",
+          "value_compare": "15.4 cm <br />x<br /> 25.6 cm <br />x<br />32.4 cm",
+          "label": "Afmetingen (BxHxD)",
+          "splash": true,
+          "compare": true
+        },
+        "druk": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/druk_bar.svg",
+          "value": "19 Bar",
+          "label": "Druk",
+          "splash": true,
+          "compare": true
+        },
+        "water": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/water_opwarmen.svg",
+          "value": "35 Seconden",
+          "label": "Warmt water op in slechts",
+          "splash": true,
+          "compare": true
+        },
+        "kopgrootte": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/kopgrootte_cups.svg",
+          "value": "",
+          "label": "Kopgrootte",
+          "splash": false,
+          "compare": true
+        },
+        "melk": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/melk_geintegreerd.svg",
+          "value": "Geïntegreerde melkfunctie",
+          "label": "Melk",
+          "splash": false,
+          "compare": true
+        }
+      },
+      "video": {
+        "available": true,
+        "poster": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-one/lifestyle/Lattissima_One_1_L.jpg",
+        "yt": "xespP9f5et0",
+        "loop": "xespP9f5et0"
+      },
+      "product_type": "machines",
+      "product_group": "BTOC",
+      "product_quantity": 1,
+      "exclusive": {
+        "active": false,
+        "badge": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/resources/badges/exclusief_voordeel.svg"
+      },
+      "exclusive_loggedout": {
+        "colors_visible": [
+          "black"
+        ],
+        "active": false,
+        "badge": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/resources/badges/moederdag-actie.svg"
+      },
+      "exclusive_loggedin": {
+        "colors_visible": [
+          "black"
+        ],
+        "active": false,
+        "badge": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/resources/badges/exclusief_voordeel_no_arrow.svg"
+      }
+    }
+  }

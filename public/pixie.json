@@ -1,0 +1,331 @@
+{
+    "machine": {
+      "machineclass": {
+        "lowend": true,
+        "minCapsulesAmount": 100,
+        "multiple_100": "Te bestellen per 50 capsules",
+        "boer": {
+          "id": [
+            "105833",
+            "105834",
+            "105835"
+          ],
+          "min": 100
+        }
+      },
+      "lifestyle": [
+        {
+          "machine_lifestyle_main": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/lifestyle/Pixie_1_L.jpg",
+          "machine_lifestylevisual": [
+            "https://dw0w4amzflayh.cloudfront.net/machines/pixie/lifestyle/Pixie_2_L.jpg",
+            "https://dw0w4amzflayh.cloudfront.net/machines/pixie/lifestyle/Pixie_3_L.jpg",
+            "https://dw0w4amzflayh.cloudfront.net/machines/pixie/lifestyle/Pixie_4_L.jpg",
+            "https://dw0w4amzflayh.cloudfront.net/machines/pixie/lifestyle/Pixie_5_L.jpg"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "title": "Hoe onderhoud ik mijn machine?",
+          "answer": "<ol><li>Ontkalk uw machine minstens één keer per jaar als u gebruik maakt van zacht water. Let op: voor hard water wordt het aangeraden om twee keer per jaar te ontkalken. </li><li>Verwijder de capsule na gebruik.</li><li>Voor een goede espresso of lungo is de waterkwaliteit essentieel. Daarom raden wij u aan het water in het reservoir dagelijks te verversen.</li><li>Leeg en maak het opvangbakje voor gebruikte capsules en de lekbak regelmatig schoon.</li><li>Laat water door de uitstroomtuit lopen voordat u koffie gaat zetten (zonder een capsule in de machine) door op een willekeurige koffie knop te drukken. Hiermee spoelt u op effectieve wijze het koffiezetgedeelte, stijgt de temperatuur en zorgt u voor een perfect afgemeten hoeveelheid koffie.</li></ol>"
+        },
+        {
+          "title": "Wat betekent 19 bar?",
+          "answer": "Alle <strong>Nespresso</strong> machines zijn uitgerust met een hogedrukpomp van 19 bar voor de kracht die nodig is om de capsule te doorboren en zo de 900 verschillende koffiearoma's vrij te laten komen. De vorm van de <strong>Nespresso</strong> capsule is speciaal ontworpen om ervoor te zorgen dat het water tijdens de extractie onder druk en gelijkmatig door de gemalen koffie stroomt. Ook de temperatuur en doorstroomtijd zijn essentieel om ervoor te zorgen dat elk kostbaar aroma vrijkomt."
+        },
+        {
+          "title": "Mijn Pixie machine heeft een slechte of geen koffiedoorstroming?",
+          "answer": "Dit kan voorkomen bij het eerste gebruik, na het legen of na een lange periode van niet-gebruik.<br/><br/><ol><li>Zorg dat het waterreservoir voldoende gevuld en goed geplaatst is</li><li>Druk een aantal keer op de koffievolumeknop (bijv. de lungo- of espressoknop) totdat de koffie/het water eruit stroomt</li>Bij een ongebruikelijke koffiedoorstroming controleert u het volgende:<br/>Het waterreservoir is goed geplaatst.<br/>De koffie-uitloop is schoon."
+        },
+        {
+          "title": "Wat is de grootte van de Pixie watertank?",
+          "answer": "In het verwijderbare waterreservoir van de Pixie machines kan 0,7 liter water. Verlichtingsindicatoren detecteren wanneer het waterreservoir moet worden bijgevuld (blauw/grijs lampje als het waterreservoir vol is, rood lampje als het waterreservoir leeg is). Het is ook mogelijk om het waterreservoir direct op de machine te vullen zonder dat u het waterreservoir verwijdert."
+        }
+      ],
+      "campaign": {
+        "active": true,
+        "discount": 0,
+        "discount_accessory": 0.00,
+        "sticker_visible_on_overview": true,
+        "sticker": "https://dw0w4amzflayh.cloudfront.net/campaigns/coffee-houses/14890_1760a_PSD_NES_coffee_houses_2019_Banner_Button_30.svg",
+        "tabimage": "https://dw0w4amzflayh.cloudfront.net/campaigns/coffee-houses/14890_1760a_PSD_NES_coffee_houses_2019_Banner_Button_Koffiekorting.svg",
+        "banner": {
+          "welcomeBanner": "https://dw0w4amzflayh.cloudfront.net/campaigns/the-milky-world/14890_1863a_NES_Machine_PDP_Creatista_Banners_Topbanner_PDP_30E_996x115px_NL_HRDEF.jpg",
+          "imageDesktop": "https://dw0w4amzflayh.cloudfront.net/campaigns/the-milky-world/14890_1863a_NES_Machine_PDP_Creatista_Banners_Topbanner_PDP_30E_996x115px_NL_HRDEF.jpg",
+          "imageMobile": "https://dw0w4amzflayh.cloudfront.net/campaigns/coffee-houses/14890_1760a_NES_coffee_houses_2019_Banner_835x449_E30_NL_DEF.jpg",
+          "bb_package_desktop": "https://s3.eu-central-1.amazonaws.com/live-nes-b2c-887b-machinesplashpage/img/craftmanschip/14890_1547_NES_B2C_MachineSplash_Craftmanschip_banner_640x200px_30.jpg"
+        },
+        "package": {
+          "header": "Cadeaupakket + algemene voorwaarden",
+          "items": [
+            {
+              "title": "€30 koffiekorting",
+              "description": "Bij aanschaf van minimaal 100 capsules ontvang je €30 koffiekorting",
+              "image": "https://dw0w4amzflayh.cloudfront.net/campaigns/coffee-houses/14890_1760a_PSD_NES_coffee_houses_2019_Banner_Button_30.svg"
+            }
+          ]
+        }
+      },
+      "content": [
+        {
+          "renewal": true,
+          "prospect": true,
+          "inStock": true,
+          "machine_name": "Pixie",
+          "machine_slug": "pixie",
+          "milkfunction": false,
+          "machine_subline": "Industriële look voor heerlijke koffie",
+          "machine_description": "Hou jij van een industriële stijl? Dan hou je van de Pixie machine, met zijn metalen zijkanten. Dankzij de hogedrukpomp en het versnelde verhittingssysteem zet je in een handomdraai koffie van de kwaliteit die bij <strong>Nespresso</strong> hoort.",
+          "machine_description_full": "Hou jij van een industriële stijl? Dan hou je van de Pixie machine, met zijn metalen zijkanten. Dankzij de hogedrukpomp en het versnelde verhittingssysteem zet je in een handomdraai koffie van de kwaliteit die bij <strong>Nespresso</strong> hoort.",
+          "nesOAMachine_price": 149.0,
+          "nesOAInternationalProductId": "C60-EU-TI-KR",
+          "nesOAName": "XN3005 - Pixie Electric Titan",
+          "usp": [
+            "0",
+            "7",
+            "2",
+            "3",
+            "4"
+          ],
+          "discover": {
+            "title": "Ontdek de voordelen van de Pixie koffiemachine",
+            "description": ""
+          },
+          "visualblock": {
+            "title": "Iconisch design",
+            "description": "Je houdt van de Pixie machine als je van de industriële stijl houdt. Met zijn metalen zijkanten is deze machine ontworpen voor mensen die niet alleen goede koffie willen drinken, maar het uiterlijk van hun machine ook belangrijk vinden. De Pixie machine heeft twee knoppen, een hogedrukpomp en een versneld verhittingssysteem. Met één beweging bereid je koffie in welke smaak je maar wilt. Doordat de machine zowel espresso’s als lungo’s kan bereiden, is de Pixie dé machine voor onze koffiemakers.",
+            "image": "https://www.nespresso.com/shared_res/mos/free_html/nl/value_pack_2/img/shop/citiz/silver/nes_prospect_machines_citiz_silver_front.png"
+          },
+          "machine_gallery": [
+            {
+              "url": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/electric-aluminium/nes_prospect_machines_pixie_electricaluminium_front.png",
+              "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/electric-aluminium/nes_prospect_machines_pixie_electricaluminium_front.png"
+            },
+            {
+              "url": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/electric-aluminium/nes_prospect_machines_pixie_electricaluminium_quarter.png",
+              "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/electric-aluminium/nes_prospect_machines_pixie_electricaluminium_quarter.png"
+            },
+            {
+              "url": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/electric-aluminium/nes_prospect_machines_pixie_electricaluminium_side.png",
+              "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/electric-aluminium/nes_prospect_machines_pixie_electricaluminium_side.png"
+            },
+            {
+              "url": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/electric-aluminium/nes_prospect_machines_pixie_electricaluminium_top.png",
+              "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/electric-aluminium/nes_prospect_machines_pixie_electricaluminium_top.png"
+            }
+          ],
+          "machine_colors": [
+            {
+              "inStock": true,
+              "color_id": "D61AL-N",
+              "color_slug": "electric-aluminium",
+              "color_desc": "Electric Aluminium",
+              "color_compare": {
+                "id": "silver",
+                "label": "silver"
+              },
+              "color_EAN": "7630047658693",
+              "color_dash": "https://dw0w4amzflayh.cloudfront.net/resources/kleuren/color_silver.png",
+              "color_show": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/electric-aluminium/Machines_Pixie_Aliminium.png",
+              "color_main": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/electric-aluminium/nes_prospect_machines_pixie_electricaluminium_front.png",
+              "color_extra_image": "",
+              "color_price": 149,
+              "color_prospect_discount": 30,
+              "color_renewal_discount": 30,
+              "color_gallery": [
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/electric-aluminium/nes_prospect_machines_pixie_electricaluminium_front.png",
+                  "alt": "Nespresso_Machine_Pixie_Silver_Vooraanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/electric-aluminium/nes_prospect_machines_pixie_electricaluminium_quarter.png",
+                  "alt": "Nespresso_Machine_Pixie_Silver_Hoekaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/electric-aluminium/nes_prospect_machines_pixie_electricaluminium_side.png",
+                  "alt": "Nespresso_Machine_Pixie_Silver_Zijaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/electric-aluminium/nes_prospect_machines_pixie_electricaluminium_top.png",
+                  "alt": "Nespresso_Machine_Pixie_Silver_Bovenaanzicht"
+                }
+              ]
+            },
+            {
+              "inStock": true,
+              "color_id": "C61TI-N",
+              "color_slug": "electric-titanium",
+              "color_desc": "Electric Titanium",
+              "color_compare": {
+                "id": "brown",
+                "label": "brown"
+              },
+              "color_EAN": "7630047657979",
+              "color_dash": "https://dw0w4amzflayh.cloudfront.net/resources/kleuren/color_titan.png",
+              "color_show": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/electric-titanium/Machines_Pixie_Titanium.png",
+              "color_main": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/electric-titanium/nes_prospect_machines_pixie_electrictitan_front.png",
+              "color_extra_image": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/electric-titanium/large/pixie_electric-titanium_600x600.png",
+              "color_price": 149,
+              "color_prospect_discount": 30,
+              "color_renewal_discount": 30,
+              "color_gallery": [
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/electric-titanium/nes_prospect_machines_pixie_electrictitan_front.png",
+                  "alt": "Nespresso_Machine_Pixie_ElectricTitanium_Vooraanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/electric-titanium/nes_prospect_machines_pixie_electrictitan_quarter.png",
+                  "alt": "Nespresso_Machine_Pixie_ElectricTitanium_Hoekaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/electric-titanium/nes_prospect_machines_pixie_electrictitan_side.png",
+                  "alt": "Nespresso_Machine_Pixie_ElectricTitanium_Zijaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/electric-titanium/nes_prospect_machines_pixie_electrictitan_top.png",
+                  "alt": "Nespresso_Machine_Pixie_ElectricTitanium_Bovenaanzicht"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "functionality": {
+        "award": {
+          "image": "",
+          "value": "Red Dot Design Award 2011",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "snel": {
+          "image": "",
+          "value": "Pixie is snel",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "klein": {
+          "image": "",
+          "value": "Pixie is klein",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "milieuvriendelijk": {
+          "image": "",
+          "value": "Pixie is milieuvriendelijk",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "intelligent": {
+          "image": "",
+          "value": "Pixie is intelligent",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "uitschakeling": {
+          "image": "",
+          "value": "Automatische uitschakeling na 9 minuten",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "kopjesrooster": {
+          "image": "",
+          "value": "Draaibaar kopjesrooster voor latte macchiato-glazen",
+          "label": "",
+          "splash": true,
+          "compare": false
+        }
+      },
+      "specifications": {
+        "gewicht": {
+          "image": "",
+          "value": "2.8 Kilogram",
+          "label": "Gewicht",
+          "splash": true,
+          "compare": true
+        },
+        "verwijderbaar_waterreservoir": {
+          "image": "",
+          "value": "0.7 Liter",
+          "label": "Verwijderbaar waterreservoir",
+          "splash": true,
+          "compare": true
+        },
+        "capaciteit_capsules": {
+          "image": "",
+          "value": "10 Capsules",
+          "label": "Capaciteit van gebruikte capsules",
+          "splash": true,
+          "compare": false
+        },
+        "afmetingen": {
+          "image": "",
+          "value": "11,1 cm x 23,5 cm x 32,6 cm",
+          "value_compare": "11,1 cm <br />x<br /> 23,5 cm <br />x<br />32,6 cm",
+          "label": "Afmetingen (BxHxD)",
+          "splash": true,
+          "compare": true
+        },
+        "druk": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/druk_bar.svg",
+          "value": "19 Bar",
+          "label": "Druk",
+          "splash": true,
+          "compare": true
+        },
+        "water": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/water_opwarmen.svg",
+          "value": "25 Seconden",
+          "label": "Warmt water op in slechts",
+          "splash": true,
+          "compare": true
+        },
+        "kopgrootte": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/kopgrootte_espresso_lungo.svg",
+          "value": "",
+          "label": "Kopgrootte",
+          "splash": false,
+          "compare": true
+        },
+        "melk": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/empty.svg",
+          "value": "",
+          "label": "",
+          "splash": false,
+          "compare": true
+        }
+      },
+      "video": {
+        "available": true,
+        "poster": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/lifestyle/Pixie_1_L.jpg",
+        "yt": "r1XeGWyQGUQ",
+        "loop": "ne1xJJRqhq8"
+      },
+      "product_type": "machines",
+      "product_group": "BTOC",
+      "product_quantity": 1,
+      "exclusive": {
+        "active": false,
+        "badge": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/resources/badges/exclusief_voordeel.svg"
+      },
+      "exclusive_loggedout": {
+        "colors_visible": [
+          "black"
+        ],
+        "active": false,
+        "badge": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/resources/badges/moederdag-actie.svg"
+      },
+      "exclusive_loggedin": {
+        "colors_visible": [
+          "black"
+        ],
+        "active": false,
+        "badge": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/resources/badges/exclusief_voordeel_no_arrow.svg"
+      }
+    }
+  }

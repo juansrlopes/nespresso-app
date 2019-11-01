@@ -1,0 +1,349 @@
+{
+    "machine": {
+      "machineclass": {
+        "lowend": true,
+        "minCapsulesAmount": 150,
+        "multiple_100": "Te bestellen per 50 capsules",
+        "boer": {
+          "id": [
+            "105840",
+            "105842",
+            ""
+          ],
+          "min": 150
+        }
+      },
+      "lifestyle": [
+        {
+          "machine_lifestyle_main": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/lifestyle/Lattissima_touch_lifestyle_comp_01.jpg",
+          "machine_lifestylevisual": [
+            "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/lifestyle/Lattissima_touch_lifestyle_comp_02.jpg",
+            "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/lifestyle/Lattissima_touch_lifestyle_comp_03.jpg",
+            "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/lifestyle/Lattissima_touch_lifestyle_comp_04.jpg",
+            "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/lifestyle/Lattissima_touch_lifestyle_comp_05.jpg"
+          ],
+          "machine_lifestyle_singleton": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/lifestyle/Lattissima_touch_1_L_facelift.jpg"
+        }
+      ],
+      "faq": [
+        {
+          "title": "Welke koffies kan ik bereiden met de Lattissima Touch?",
+          "answer": "De Lattissima Touch biedt 6 mogelijke koffies via 6 handige knoppen (Ristretto, Espresso, Lungo, Cappuccino, Latte macchiato, Warme melkschuim). Alle koffies zijn voorgeprogrammeerd met fabriekinstellingen, maar kunnen worden aangepast naar uw persoonlijke voorkeur."
+        },
+        {
+          "title": "Wat betekenen de onderhouds- en <strong>Nespresso</strong> onderhoudslampjes op mijn machine?",
+          "answer": "Het onderhoudslampje heeft verschillende betekenissen: ontkalking is nodig (raadpleeg uw app), de onderhoudsmodule staat uit, het capsule-opvangbakje is vol of het waterreservoir is leeg. Het <strong>Nespresso</strong> onderhoudslampje waarschuwt u wanneer uw capsulevoorraad bijna leeg is en u nieuwe kunt bestellen."
+        },
+        {
+          "title": "Wat betekent 19 bar?",
+          "answer": "Alle <strong>Nespresso</strong> machines zijn uitgerust met een hogedrukpomp van 19 bar voor de kracht die nodig is om de capsule te doorboren en zo de 900 verschillende koffiearoma's vrij te laten komen. De vorm van de <strong>Nespresso</strong> capsule is speciaal ontworpen om ervoor te zorgen dat het water tijdens de extractie onder druk en gelijkmatig door de gemalen koffie stroomt. Ook de temperatuur en doorstroomtijd zijn essentieel om ervoor te zorgen dat alle kostbare aroma's vrijkomen."
+        }
+      ],
+      "campaign": {
+        "active": true,
+        "discount": 0,
+        "discount_accessory": 0.00,
+        "sticker_visible_on_overview": true,
+        "sticker": "https://dw0w4amzflayh.cloudfront.net/campaigns/lattissima-grande/new-lattisima-grande-button-50euro-NL.svg",
+        "tabimage": "https://dw0w4amzflayh.cloudfront.net/campaigns/coffee-houses/14890_1760a_PSD_NES_coffee_houses_2019_Banner_Button_Koffiekorting.svg",
+        "banner": {
+          "welcomeBanner": "https://dw0w4amzflayh.cloudfront.net/campaigns/lattissima-grande/14890_2090_PSD_NES_Machine_PDP_Gran_Lattissima_Banners_Topbanner_100E_996x115px_NL.jpg",
+          "imageDesktop": "https://dw0w4amzflayh.cloudfront.net/campaigns/lattissima-grande/14890_2090_PSD_NES_Machine_PDP_Gran_Lattissima_Banners_Topbanner_100E_996x115px_NL.jpg",
+          "imageMobile": "https://dw0w4amzflayh.cloudfront.net/campaigns/lattissima-grande/14890_1863a_PSD_NES_Machine_PDP_Gran_Lattissima_Banners_Topbanner_100E_835x449_NL.jpg",
+          "bb_package_desktop": "https://s3.eu-central-1.amazonaws.com/live-nes-b2c-887b-machinesplashpage/img/craftmanschip/14890_1547_NES_B2C_MachineSplash_Craftmanschip_banner_640x200px_30.jpg"
+        },
+        "package": {
+          "header": "Cadeaupakket + algemene voorwaarden",
+          "items": [
+            {
+              "title": "€50 koffiekorting",
+              "description": "Bij aanschaf van minimaal 150 capsules ontvang je €50 koffiekorting",
+              "image": "https://dw0w4amzflayh.cloudfront.net/campaigns/lattissima-grande/new-lattisima-grande-button-50euro-NL.svg"
+            }
+          ]
+        }
+      },
+      "content": [
+        {
+          "renewal": true,
+          "prospect": true,
+          "inStock": true,
+          "machine_name": "Lattissima Touch",
+          "machine_slug": "lattissima-touch",
+          "milkfunction": true,
+          "machine_subline": "Geef je koffie jouw eigen touch",
+          "machine_description": "De <strong>Nespresso</strong> Lattissima Touch is een must-have voor de echte koffieliefhebber. Zes verschillende bereidingen met één druk op de knop maken de mogelijkheden voor koffie- en melkrecepten oneindig.",
+          "machine_description_full": "De <strong>Nespresso</strong> Lattissima Touch is een must-have voor de echte koffieliefhebber. Zes verschillende bereidingen met één druk op de knop maken de mogelijkheden voor koffie- en melkrecepten oneindig.",
+          "nesOAMachine_price": 279.0,
+          "nesOAInternationalProductId": "F511-EU-RE-DL",
+          "nesOAName": "EN 550.R - Lattissima Touch Red DLG",
+          "usp": [
+            "0",
+            "14",
+            "4",
+            "15",
+            "16"
+          ],
+          "discover": {
+            "title": "Ontdek de voordelen van de Lattissima Touch koffiemachine",
+            "description": ""
+          },
+          "visualblock": {
+            "title": "Personaliseer uw melkrecept",
+            "description": "De Lattissima Touch is een must-have voor de echte koffieliefhebber. Met één druk op de knop creëer je zes verschillende bereidingen die de mogelijkheden voor koffie- en melkrecepten oneindig maken. Je bereidt snel en makkelijk een ristretto, espresso, lungo cappuccino, latte macchiato of warm melkschuim die je voor de vele verschillende koffie- en melkrecepten kunt gebruiken. De textuur van het melkschuim kun je daarbij zelf aanpassen. De houder biedt ruimte aan glazen en kopjes van verschillende formaten en de melkkan kun je met melk in de koelkast zetten of na gebruik in de vaatwasser afwassen. Dankzij de pomp met hogedruk komen alle aroma’s tot hun recht en ontstaat er een prachtig dik crema. Het versnelde verhittingssysteem bereikt binnen 40 seconden de ideale temperatuur (25 seconden voor alleen koffie) en de ontkalkingsfunctie waarschuwt als de machine ontkalkt moet worden. De energiebesparingsfunctie schakelt de machine automatisch uit na een inactiviteit van 9 minuten. De moderne Lattissima Touch is beschikbaar in vijf kleuren."
+          },
+          "machine_gallery": [
+            {
+              "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/black/Machines_Latissima_touch_2018_black_front.png"
+            },
+            {
+              "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/black/Machines_Latissima_touch_2018_black_side.png"
+            },
+            {
+              "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/black/Machines_Latissima_touch_2018_black_top.png"
+            }
+          ],
+          "machine_colors": [
+            {
+              "inStock": true,
+              "color_id": "F521SI",
+              "color_slug": "silver",
+              "color_desc": "Silver",
+              "color_compare": {
+                "id": "silver",
+                "label": "silver"
+              },
+              "color_EAN": "7630047614507",
+              "color_dash": "https://dw0w4amzflayh.cloudfront.net/resources/kleuren/color_silver.png",
+              "color_show": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/silver/Machines_Latissima_touch_2018_silver.png",
+              "color_main": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/silver/Machines_Latissima_touch_2018_silver_front.png",
+              "color_extra_image": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/silver/large/lattissima-touch_silver_600x600.png",
+              "color_price": 279,
+              "color_prospect_discount": 50,
+              "color_renewal_discount": 80,
+              "color_gallery": [
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/silver/Machines_Latissima_touch_2018_silver_front.png",
+                  "alt": "Nespresso_Machine_LattissimaTouch_Silver_Vooraanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/silver/Machines_Latissima_touch_2018_silver_side.png",
+                  "alt": "Nespresso_Machine_LattissimaTouch_Silver_Zijaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/silver/Machines_Latissima_touch_2018_silver_top.png",
+                  "alt": "Nespresso_Machine_LattissimaTouch_Silver_Bovenaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/silver/Machines_Latissima_touch_2018_silver_skew.png",
+                  "alt": "Nespresso_Machine_LattissimaTouch_Silver_Hoekaanzicht"
+                }
+              ]
+            },
+            {
+              "inStock": true,
+              "color_id": "F521WH",
+              "color_slug": "white",
+              "color_desc": "White",
+              "color_compare": {
+                "id": "white",
+                "label": "white"
+              },
+              "color_EAN": "7630047614460",
+              "color_dash": "https://dw0w4amzflayh.cloudfront.net/resources/kleuren/color_white.png",
+              "color_show": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/white/Machines_Latissima_touch_2018_white.png",
+              "color_main": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/white/Machines_Latissima_touch_2018_white_front.png",
+              "color_extra_image": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/white/large/lattissima-touch_white_600x600.png",
+              "color_price": 279,
+              "color_prospect_discount": 50,
+              "color_renewal_discount": 80,
+              "color_gallery": [
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/white/Machines_Latissima_touch_2018_white_front.png",
+                  "alt": "Nespresso_Machine_LattissimaTouch_White_Vooraanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/white/Machines_Latissima_touch_2018_white_side.png",
+                  "alt": "Nespresso_Machine_LattissimaTouch_White_Zijaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/white/Machines_Latissima_touch_2018_white_top.png",
+                  "alt": "Nespresso_Machine_LattissimaTouch_White_Bovenaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/white/Machines_Latissima_touch_2018_white_skew.png",
+                  "alt": "Nespresso_Machine_LattissimaTouch_White_Hoekaanzicht"
+                }
+              ]
+            },
+            {
+              "inStock": true,
+              "color_id": "F521BK",
+              "color_slug": "black",
+              "color_desc": "Black",
+              "color_compare": {
+                "id": "black",
+                "label": "black"
+              },
+              "color_EAN": "7630047614484",
+              "color_dash": "https://dw0w4amzflayh.cloudfront.net/resources/kleuren/color_black.png",
+              "color_show": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/black/Machines_Latissima_touch_2018_black.png",
+              "color_main": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/black/Machines_Latissima_touch_2018_black_front.png",
+              "color_extra_image": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/black/large/lattissima-touch_black_600x600.png",
+              "color_price": 279,
+              "color_prospect_discount": 50,
+              "color_renewal_discount": 80,
+              "color_gallery": [
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/black/Machines_Latissima_touch_2018_black_front.png",
+                  "alt": "Nespresso_Machine_LattissimaTouch_Black_Vooraanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/black/Machines_Latissima_touch_2018_black_side.png",
+                  "alt": "Nespresso_Machine_LattissimaTouch_Black_Zijaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/black/Machines_Latissima_touch_2018_black_top.png",
+                  "alt": "Nespresso_Machine_LattissimaTouch_Black_Bovenaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/black/Machines_Latissima_touch_2018_black_skew.png",
+                  "alt": "Nespresso_Machine_LattissimaTouch_Black_Hoekaanzicht"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "functionality": {
+        "uitgifte": {
+          "image": "",
+          "value": "Handmatige capsule inname en uitgifte",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "schakelaar": {
+          "image": "",
+          "value": "Automatische en programmeerbare aan/uit schakelaar",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "kopjesrooster": {
+          "image": "",
+          "value": "3 melkopties: Cappuccino, Latte Macchiato en Latte",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "ontkalking": {
+          "image": "",
+          "value": "Automatische melding voor ontkalking",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "kopgroottes": {
+          "image": "",
+          "value": "Programmeerbare kopgroottes",
+          "label": "",
+          "splash": true,
+          "compare": false
+        }
+      },
+      "specifications": {
+        "gewicht": {
+          "image": "",
+          "value": "5.6 Kilogram",
+          "label": "Gewicht",
+          "splash": true,
+          "compare": true
+        },
+        "verwijderbaar_waterreservoir": {
+          "image": "",
+          "value": "0.9 Liter",
+          "label": "Verwijderbaar waterreservoir",
+          "splash": true,
+          "compare": true
+        },
+        "capaciteit_capsules": {
+          "image": "",
+          "value": "9-11 Capsules",
+          "label": "Capaciteit van gebruikte capsules",
+          "splash": true,
+          "compare": false
+        },
+        "vermogen": {
+          "image": "",
+          "value": "1400 Watt",
+          "label": "Vermogen",
+          "splash": true,
+          "compare": false
+        },
+        "afmetingen": {
+          "image": "",
+          "value": "16.7 cm x 31.9 cm x 25.3 cm",
+          "value_compare": "16.7 cm <br />x<br /> 31.9 cm <br />x<br />25.3 cm",
+          "label": "Afmetingen (BxDxH)",
+          "splash": true,
+          "compare": true
+        },
+        "druk": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/druk_bar.svg",
+          "value": "19 Bar",
+          "label": "Druk",
+          "splash": true,
+          "compare": true
+        },
+        "water": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/water_opwarmen.svg",
+          "value": "25 Seconden",
+          "label": "Warmt water op in slechts",
+          "splash": true,
+          "compare": true
+        },
+        "kopgrootte": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/kopgrootte_espresso_lungo.svg",
+          "value": "",
+          "label": "Kopgrootte",
+          "splash": false,
+          "compare": true
+        },
+        "melk": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/melk_geintegreerd.svg",
+          "value": "Geïntegreerde melkfunctie",
+          "label": "melk",
+          "splash": false,
+          "compare": true
+        }
+      },
+      "video": {
+        "available": false,
+        "poster": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/lifestyle/Lattissima_touch_1_L_facelift.jpg",
+        "yt": "pm3usfaSiuE",
+        "loop": "xZ-1YH91RtU"
+      },
+      "product_type": "machines",
+      "product_group": "BTOC",
+      "product_quantity": 1,
+      "exclusive": {
+        "active": false,
+        "badge": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/resources/badges/exclusief_voordeel.svg"
+      },
+      "exclusive_loggedout": {
+        "colors_visible": [
+          "black"
+        ],
+        "active": false,
+        "badge": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/resources/badges/moederdag-actie.svg"
+      },
+      "exclusive_loggedin": {
+        "colors_visible": [
+          "black"
+        ],
+        "active": false,
+        "badge": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/resources/badges/exclusief_voordeel_no_arrow.svg"
+      }
+    }
+  }

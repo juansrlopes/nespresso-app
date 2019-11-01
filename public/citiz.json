@@ -1,0 +1,391 @@
+{
+    "machine": {
+      "machineclass": {
+        "lowend": true,
+        "minCapsulesAmount": 100,
+        "multiple_100": "Te bestellen per 50 capsules",
+        "boer": {
+          "id": [
+            "105833",
+            "105834",
+            "105835"
+          ],
+          "min": 100
+        }
+      },
+      "lifestyle": [
+        {
+          "machine_lifestyle_main": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/lifestyle/citiz_1_L.jpg",
+          "machine_lifestylevisual": [
+            "https://dw0w4amzflayh.cloudfront.net/machines/citiz/lifestyle/citiz_2_L.jpg",
+            "https://dw0w4amzflayh.cloudfront.net/machines/citiz/lifestyle/citiz_3_L.jpg",
+            "https://dw0w4amzflayh.cloudfront.net/machines/citiz/lifestyle/citiz_4_L.jpg",
+            "https://dw0w4amzflayh.cloudfront.net/machines/citiz/lifestyle/citiz_5_L.jpg"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "title": "Hoe onderhoud ik mijn machine?",
+          "answer": "<ol><li>Ontkalk uw machine ten minste eenmaal per jaar bij zacht water N.B.: als u hard water heeft, ontkalkt u tweemaal per jaar. (Als u niet weet welk type water u heeft, heeft u waarschijnlijk hard water. Dit laat over het algemeen witte sporen na in het waterreservoir) <li>Werp de capsules uit na elk gebruik</li><li>Ververs het water in het waterreservoir regelmatig</li><li>Leeg en reinig het capsule-opvangbakje en de lekbak regelmatig</li><li>Voordat u uw eerste kop koffie zet, drukt u op een willekeurige koffievolumeknop (bijv. de lungo- of espressoknop) en laat u water door de machine lopen zonder capsule. Hierdoor verwarmt u uw koffiekopje en reinigt u het extractiesysteem voor een nog lekkerder kopje koffie"
+        },
+        {
+          "title": "Wat betekent 19 bar?",
+          "answer": "Alle <strong>Nespresso</strong> machines zijn uitgerust met een hogedrukpomp van 19 bar voor de kracht die nodig is om de capsule te doorboren en zo de 900 verschillende koffiearoma's vrij te laten komen. De vorm van de <strong>Nespresso</strong> capsule is speciaal ontworpen om ervoor te zorgen dat het water tijdens de extractie onder druk en gelijkmatig door de gemalen koffie stroomt. Ook de temperatuur en doorstroomtijd zijn essentieel om ervoor te zorgen dat elk kostbaar aroma vrijkomt."
+        },
+        {
+          "title": "Mijn <i>Citiz</i> machine heeft een slechte of geen koffiedoorstroming?",
+          "answer": "Als er geen koffiedoorstroming is, controleert u het volgende:<ul><li>Het netsnoer zit niet klem tussen het waterreservoir en de machine.</li><li>De machine staat aan (het lampje brandt).</li><li>Als de koffie slecht doorstroomt, is het verstandig om uw machine te ontkalken.</li></ul>"
+        },
+        {
+          "title": "Wat betekenen de knipperende lampjes op mijn Citiz machine?",
+          "answer": "<ol><li>Als de lampjes regelmatig en snel knipperen, kan dat betekenen dat de machine in de ontkalkingsstand staat of dat het leegsysteem is ingeschakeld</li><li>Als de lampjes langzaam en om en om knipperen (elke 2 seconden) betekent dit dat de machine in de energiebesparende modus staat (stand-by). Deze modus wordt geactiveerd als de machine 9 minuten niet gebruikt is. Voor het afsluiten van deze modus drukt u op een willekeurige knop (wijziging van knipperritme). De machine is klaar wanneer de knoppen niet meer knipperen.</li><li>Als het lampje onregelmatig knippert, belt u dan alstublieft onze klantenservice op 0800 022 23 20</li></ol>"
+        }
+      ],
+      "campaign": {
+        "active": true,
+        "discount": 0,
+        "discount_accessory": 0.00,
+        "sticker_visible_on_overview": true,
+        "sticker": "https://dw0w4amzflayh.cloudfront.net/campaigns/coffee-houses/14890_1760a_PSD_NES_coffee_houses_2019_Banner_Button_30.svg",
+        "tabimage": "https://dw0w4amzflayh.cloudfront.net/campaigns/coffee-houses/14890_1760a_PSD_NES_coffee_houses_2019_Banner_Button_Koffiekorting.svg",
+        "banner": {
+          "welcomeBanner": "https://dw0w4amzflayh.cloudfront.net/campaigns/the-milky-world/14890_1863a_NES_Machine_PDP_Creatista_Banners_Topbanner_PDP_30E_996x115px_NL_HRDEF.jpg",
+          "imageDesktop": "https://dw0w4amzflayh.cloudfront.net/campaigns/the-milky-world/14890_1863a_NES_Machine_PDP_Creatista_Banners_Topbanner_PDP_30E_996x115px_NL_HRDEF.jpg",
+          "imageMobile": "https://dw0w4amzflayh.cloudfront.net/campaigns/coffee-houses/14890_1760a_NES_coffee_houses_2019_Banner_835x449_E30_NL_DEF.jpg",
+          "bb_package_desktop": "https://s3.eu-central-1.amazonaws.com/live-nes-b2c-887b-machinesplashpage/img/craftmanschip/14890_1547_NES_B2C_MachineSplash_Craftmanschip_banner_640x200px_30.jpg"
+        },
+        "package": {
+          "header": "Cadeaupakket + algemene voorwaarden",
+          "items": [
+            {
+              "title": "€30 koffiekorting",
+              "description": "Bij aanschaf van minimaal 100 capsules ontvang je €30 koffiekorting",
+              "image": "https://dw0w4amzflayh.cloudfront.net/campaigns/coffee-houses/14890_1760a_PSD_NES_coffee_houses_2019_Banner_Button_30.svg"
+            }
+          ]
+        }
+      },
+      "content": [
+        {
+          "renewal": true,
+          "prospect": true,
+          "inStock": true,
+          "machine_name": "Citiz",
+          "machine_slug": "citiz",
+          "milkfunction": false,
+          "machine_subline": "Citiz combineert technologie met retro-moderne vormgeving",
+          "machine_description": "De Nespresso CitiZ koffiemachine spreekt iedereen aan. Met zijn strakke lijnen, verfijnde kleuren en bijzondere details vormt deze machine een mooie mix van stijl en materialen. Hij maakt zowel espresso’s als lungo’s en beschikt over een versneld verhittingssysteem en een energiebesparende functie.",
+          "machine_description_full": "De Nespresso CitiZ koffiemachine spreekt iedereen aan. Met zijn strakke lijnen, verfijnde kleuren en bijzondere details vormt deze machine een mooie mix van stijl en materialen. Hij maakt zowel espresso’s als lungo’s en beschikt over een versneld verhittingssysteem en een energiebesparende functie.",
+          "nesOAMachine_price": 179.0,
+          "nesOAInternationalProductId": "C112-EU-SI-KR",
+          "nesOAName": "XN740B - CitiZ Facelift Silver",
+          "usp": [
+            "0",
+            "1",
+            "2",
+            "4",
+            "6"
+          ],
+          "discover": {
+            "title": "Ontdek de voordelen van de Citiz koffiemachine",
+            "description": ""
+          },
+          "visualblock": {
+            "title": "Retro-modern design",
+            "description": "Alle wegen leiden naar de Nespresso CitiZ koffiemachine met zijn krachtige vormgeving, geïnspireerd op de architectuur van een grote stad. Hij is stabiel, elegant en heeft een retro-moderne uitstraling. De CitiZ is gemakkelijk te bedienen, met twee programmeerbare knoppen voor espresso en lungo. De kophouder kun je inklappen voor grotere koffies of melkrecepten. De hogedrukpomp zorgt dat de smaken en aroma’s volledig tot hun recht komen, inclusief de kenmerkende Nespresso crema. Dankzij de energiebesparende functie schakelt de machine automatisch uit als je de hele dag weg bent. Kortom: een mooie mix van stijl en materialen."
+          },
+          "machine_gallery": [
+            {
+              "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/silver/nes_prospect_machines_citiz_silver_front.png"
+            },
+            {
+              "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/silver/nes_prospect_machines_citiz_silver_quarter.png"
+            },
+            {
+              "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/silver/nes_prospect_machines_citiz_silver_side.png"
+            },
+            {
+              "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/silver/nes_prospect_machines_citiz_silver_top.png"
+            }
+          ],
+          "machine_colors": [
+            {
+              "inStock": true,
+              "color_id": "D112WH-N",
+              "color_slug": "white",
+              "color_desc": "White",
+              "color_compare": {
+                "id": "white",
+                "label": "white"
+              },
+              "color_EAN": "7630047624001",
+              "color_dash": "https://dw0w4amzflayh.cloudfront.net/resources/kleuren/color_white.png",
+              "color_show": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/white/Machines_Citiz_white.png",
+              "color_main": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/white/nes_prospect_machines_citiz_white_front.png",
+              "color_extra_image": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/white/large/citiz_white_600x600.png",
+              "color_price": 179,
+              "color_prospect_discount": 0,
+              "color_renewal_discount": 30,
+              "color_gallery": [
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/white/nes_prospect_machines_citiz_white_front.png",
+                  "alt": "Nespresso_Machine_Citiz_White_Vooraanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/white/nes_prospect_machines_citiz_white_quarter.png",
+                  "alt": "Nespresso_Machine_Citiz_White_Hoekaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/white/nes_prospect_machines_citiz_white_side.png",
+                  "alt": "Nespresso_Machine_Citiz_White_Zijaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/white/nes_prospect_machines_citiz_white_top.png",
+                  "alt": "Nespresso_Machine_Citiz_White_Bovenaanzicht"
+                }
+              ]
+            },
+            {
+              "inStock": true,
+              "color_id": "C112SI-N",
+              "color_slug": "silver",
+              "color_desc": "Silver",
+              "color_compare": {
+                "id": "silver",
+                "label": "silver"
+              },
+              "color_EAN": "7630047623806",
+              "color_dash": "https://dw0w4amzflayh.cloudfront.net/resources/kleuren/color_silver.png",
+              "color_show": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/silver/Machines_Citiz_Silver.png",
+              "color_main": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/silver/nes_prospect_machines_citiz_silver_front.png",
+              "color_extra_image": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/silver/large/citiz_silver_600x600.png",
+              "color_price": 179,
+              "color_prospect_discount": 0,
+              "color_renewal_discount": 30,
+              "color_gallery": [
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/silver/nes_prospect_machines_citiz_silver_front.png",
+                  "alt": "Nespresso_Machine_Citiz_Silver_Vooraanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/silver/nes_prospect_machines_citiz_silver_quarter.png",
+                  "alt": "Nespresso_Machine_Citiz_Silver_Hoekaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/silver/nes_prospect_machines_citiz_silver_side.png",
+                  "alt": "Nespresso_Machine_Citiz_Silver_Zijaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/silver/nes_prospect_machines_citiz_silver_top.png",
+                  "alt": "Nespresso_Machine_Citiz_Silver_Bovenaanzicht"
+                }
+              ]
+            },
+            {
+              "inStock": true,
+              "color_id": "D112BK-N",
+              "color_slug": "limousine-black",
+              "color_desc": "Limousine Black",
+              "color_compare": {
+                "id": "black",
+                "label": "black"
+              },
+              "color_EAN": "7630047623981",
+              "color_dash": "https://dw0w4amzflayh.cloudfront.net/resources/kleuren/color_black.png",
+              "color_show": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/limousine-black/Machines_Citiz_Black.png",
+              "color_main": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/limousine-black/nes_prospect_machines_citiz_black_front.png",
+              "color_extra_image": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/limousine-black/large/citiz_limousine-black_600x600.png",
+              "color_price": 179,
+              "color_prospect_discount": 0,
+              "color_renewal_discount": 30,
+              "color_gallery": [
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/limousine-black/nes_prospect_machines_citiz_black_front.png",
+                  "alt": "Nespresso_Machine_Citiz_LimousineBlack_Vooraanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/limousine-black/nes_prospect_machines_citiz_black_quarter.png",
+                  "alt": "Nespresso_Machine_Citiz_LimousineBlack_Hoekaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/limousine-black/nes_prospect_machines_citiz_black_side.png",
+                  "alt": "Nespresso_Machine_Citiz_LimousineBlack_Zijaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/limousine-black/nes_prospect_machines_citiz_black_top.png",
+                  "alt": "Nespresso_Machine_Citiz_LimousineBlack_Bovenaanzicht"
+                }
+              ]
+            },
+            {
+              "inStock": true,
+              "color_id": "C112CR-N",
+              "color_slug": "cherryred",
+              "color_desc": "Cherry Red",
+              "color_compare": {
+                "id": "red",
+                "label": "red"
+              },
+              "color_EAN": "7630047623820",
+              "color_dash": "https://dw0w4amzflayh.cloudfront.net/resources/kleuren/color_red.png",
+              "color_show": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/cherry-red/Machines_Citiz_Cherry_Red.png",
+              "color_main": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/cherry-red/nes_prospect_machines_citiz_cherryred_front.png",
+              "color_extra_image": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/cherry-red/large/citiz_cherry-red_600x600.png",
+              "color_price": 179,
+              "color_prospect_discount": 0,
+              "color_renewal_discount": 30,
+              "color_gallery": [
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/cherry-red/nes_prospect_machines_citiz_cherryred_front.png",
+                  "alt": "Nespresso_Machine_Citiz_CherryRed_Vooraanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/cherry-red/nes_prospect_machines_citiz_cherryred_quarter.png",
+                  "alt": "Nespresso_Machine_Citiz_CherryRed_Hoekaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/cherry-red/nes_prospect_machines_citiz_cherryred_side.png",
+                  "alt": "Nespresso_Machine_Citiz_CherryRed_Zijaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/cherry-red/nes_prospect_machines_citiz_cherryred_top.png",
+                  "alt": "Nespresso_Machine_Citiz_CherryRed_Bovenaanzicht"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "functionality": {
+        "handmatige": {
+          "image": "",
+          "value": "Handmatige capsule inname en uitgifte",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "schakelaar": {
+          "image": "",
+          "value": "Automatische en programmeerbare aan/uit schakelaar",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "kopjesrooster": {
+          "image": "",
+          "value": "Draaibaar kopjesrooster voor latte macchiato-glazen",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "ontkalking": {
+          "image": "",
+          "value": "Automatische melding voor ontkalking",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "programmeerbare": {
+          "image": "",
+          "value": "Programmeerbare kopgroottes",
+          "label": "",
+          "splash": true,
+          "compare": false
+        }
+      },
+      "specifications": {
+        "gewicht": {
+          "image": "",
+          "value": "3.3 Kilogram",
+          "label": "Gewicht",
+          "splash": true,
+          "compare": true
+        },
+        "verwijderbaar_waterreservoir": {
+          "image": "",
+          "value": "1 Liter",
+          "label": "Verwijderbaar waterreservoir",
+          "splash": true,
+          "compare": true
+        },
+        "capaciteit_capsules": {
+          "image": "",
+          "value": "10 Capsules",
+          "label": "Capaciteit van gebruikte capsules",
+          "splash": true,
+          "compare": false
+        },
+        "vermogen": {
+          "image": "",
+          "value": "1260 Watt",
+          "label": "Vermogen",
+          "splash": true,
+          "compare": false
+        },
+        "afmetingen": {
+          "image": "",
+          "value": "13 cm x 37.2 cm x 27.8 cm",
+          "value_compare": "13 cm <br />x<br /> 37.2 cm <br />x<br />27.8 cm",
+          "label": "Afmetingen (BxDxH)",
+          "splash": true,
+          "compare": true
+        },
+        "druk": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/druk_bar.svg",
+          "value": "19 Bar",
+          "label": "Druk",
+          "splash": true,
+          "compare": true
+        },
+        "water": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/water_opwarmen.svg",
+          "value": "25 Seconden",
+          "label": "Warmt water op in slechts",
+          "splash": true,
+          "compare": true
+        },
+        "kopgrootte": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/kopgrootte_espresso_lungo.svg",
+          "value": "",
+          "label": "Kopgrootte",
+          "splash": false,
+          "compare": true
+        },
+        "melk": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/empty.svg",
+          "value": "",
+          "label": "Melk",
+          "splash": false,
+          "compare": true
+        }
+      },
+      "video": {
+        "available": true,
+        "poster": "https://dw0w4amzflayh.cloudfront.net/machines/citiz/lifestyle/citiz_1_L.jpg",
+        "yt": "5UEP5RdwymE",
+        "loop": "h2JXfaJvRE8"
+      },
+      "product_type": "machines",
+      "product_group": "BTOC",
+      "product_quantity": 1,
+      "exclusive": {
+        "active": false,
+        "badge": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/resources/badges/exclusief_voordeel_no_arrow.svg"
+      },
+      "exclusive_loggedout": {
+        "colors_visible": [
+          "black"
+        ],
+        "active": false,
+        "badge": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/resources/badges/moederdag-actie.svg"
+      },
+      "exclusive_loggedin": {
+        "colors_visible": [
+          "black"
+        ],
+        "active": false,
+        "badge": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/resources/badges/exclusief_voordeel_no_arrow.svg"
+      }
+    }
+  }

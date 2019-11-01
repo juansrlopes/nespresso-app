@@ -15,20 +15,19 @@ export const MainCoffeeList = () => {
                 {coffeeDataList.map(coffeeDataItem => {
                     return (
                         <Col
-                            xs={6}
-                            md={4}
+                            md={3}
                             style={{ marginBottom: "20px" }}
                             key={coffeeDataItem.machine_slug}
                         >
                             <Card>
-                                <Card.Header as="h5">
-                                    {coffeeDataItem.machine_name}
-                                </Card.Header>
                                 <Card.Img
                                     variant="top"
-                                    src="https://via.placeholder.com/300"
+                                    src={coffeeDataItem.machine_show}
                                 />
                                 <Card.Body>
+                                    <Card.Title>
+                                        {coffeeDataItem.machine_name}
+                                    </Card.Title>
                                     <Card.Text>
                                         Price: &euro;{" "}
                                         {coffeeDataItem.nesOAMachine_price}

@@ -1,0 +1,339 @@
+{
+    "machine": {
+      "machineclass": {
+        "lowend": true,
+        "minCapsulesAmount": 150,
+        "multiple_100": "Te bestellen per 50 capsules",
+        "boer": {
+          "id": [
+            "105840",
+            "105842",
+            ""
+          ],
+          "min": 150
+        }
+      },
+      "lifestyle": [
+        {
+          "machine_lifestyle_main": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/lifestyle/Lattissima_Grande_1_L.jpg",
+          "machine_lifestylevisual": [
+            "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/lifestyle/Lattissima_Grande_2_L.jpg",
+            "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/lifestyle/Lattissima_Grande_3_L.jpg",
+            "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/lifestyle/Lattissima_Grande_4_L.jpg",
+            "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/lifestyle/Lattissima_Grande_5_L.jpg"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "title": "Welke dranken kan ik bereiden met mijn machine?",
+          "answer": [
+            "Met de Gran Lattissima kun je 6 koffies bereiden: Een cappuccino is een koffie met melk met een dikke laag melkschuim er bovenop. Bij een latte macchiato bereid je de koffie in een glas vol opgeschuimde melk. Een flat white is een espresso met een royale hoeveelheid warme licht geschuimde melk. Een caffè latte is een grote koffie waaraan een royale hoeveelheid licht geschuimde melk is toegevoegd. Je kunt de warme melk ook zonder koffie bereiden of alleen wat melkschuim aan je koffie toevoegen."
+          ]
+        },
+        {
+          "title": "Welke onderdelen van mijn koffiemachine kan ik in de vaatwasser stoppen?",
+          "answer": "Je kunt alleen de 6 componenten van het Rapid Cappuccino System in de vaatwasser stoppen:  lekbakje, koffiehouder, druppelvanger en capsulereservoir. Kijk altijd eerst of het component geschikt is voor de vaatwasser."
+        },
+        {
+          "title": "Hoe kan ik het Rapid Cappuccino System reinigen zonder het in de vaatwasser te stoppen?",
+          "answer": "Je kunt de componenten van het Rapid Cappuccino System ook met de hand wassen. Als je het systeem uit elkaar hebt gehaald kun je de melkresten wegspoelen met heet water. Verwijder al het zichtbare vuil met een spons. Leg alle componenten minstens 30 minuten in heet water (40°C) met een mild afwasmiddel en spoel ze daarna grondig af met heet water. Reinig de  componenten van het Rapid Cappuccino System met een mild afwasmiddel en spoel af met heet water. Gebruik geen schuurmiddelen die het oppervlak van de onderdelen kunnen beschadigen."
+        },
+        {
+          "title": "Wanneer moet ik mijn machine ontkalken?",
+          "answer": "Op de bovenkant van de machine verschijnt een melding als je moet ontkalken. Dit is afhankelijk van je consumptieprofiel en de hardheid van het water. Om de ontkalkingsfrequentie te optimaliseren en de machine goed te onderhouden, raden we je aan om de waterhardheid in jouw regio in de instellingen op te slaan. Als je consumptieprofiel vooral bestaat uit melkrecepten, ontvang je de melding voor ontkalken eerder dan wanneer je alleen koffie drinkt."
+        },
+        {
+          "title": "Hoe werkt het makkelijke spoelsysteem? ",
+          "answer": "Aan het einde van de bereiding gaat het reinigingslampje branden, om je eraan te herinneren het Rapid Cappuccino System te reinigen met het makkelijke spoelsysteem. Plaats een bak onder de koffieuitloop en draai de knop van het melkschuim in de reinigingsstand. Het doorspoelen begint nu en er stroomt heet water in combinatie met stoom uit het melkpijpje. Het spoelen stopt automatisch. Als het spoelproces klaar is, kun je de knop terugdraaien naar de positie voor melkschuim. "
+        },
+        {
+          "title": "Alle knoppen voor koffie en melkrecepten knipperen. Wat moet ik doen?",
+          "answer": "Je machine is oververhit. Wacht tot hij is afgekoeld. "
+        },
+        {
+          "title": "De kwaliteit van het melkschuim is niet goed. Hoe komt dat?",
+          "answer": "Wij raden je aan om gekoelde magere of halfvolle koemelk te gebruiken (4°C). Gebruik geen bevroren melk. Controleer of de knop in de juiste stand voor melkschuim staat. Gebruik het makkelijke spoelsysteem na elke melkbereiding. Controleer of de ventilatiedelen schoon zijn. Controleer of alle componenten van het Rapid Cappuccino System goed zijn aangesloten."
+        },
+        {
+          "title": "Wat betekent 19 bar?",
+          "answer": "Alle machines van Nespresso zijn uitgerust met een drukpomp van 19 bar, de druk die nodig is om de capsule te doorboren en de 900 verschillende aroma's vrij te laten. De vorm van de capsules van Nespresso is zo ontworpen dat het water gelijkmatig door de gemalen koffie stroomt tijdens de extractie. De temperatuur en de stroomtijd staan ook vast om er zeker van te zijn dat alle mooie aroma's tot uitdrukking komen."
+        }
+      ],
+      "campaign": {
+        "active": true,
+        "discount": 0,
+        "discount_accessory": 0.00,
+        "sticker_visible_on_overview": true,
+        "sticker": "https://dw0w4amzflayh.cloudfront.net/campaigns/lattissima-grande/new-lattisima-grande-button-50euro-NL.svg",
+        "tabimage": "https://dw0w4amzflayh.cloudfront.net/campaigns/coffee-houses/14890_1760a_PSD_NES_coffee_houses_2019_Banner_Button_Koffiekorting_EN.svg",
+        "banner": {
+          "welcomeBanner": "https://dw0w4amzflayh.cloudfront.net/campaigns/lattissima-grande/14890_2090_PSD_NES_Machine_PDP_Gran_Lattissima_Banners_Topbanner_100E_996x115px_NL.jpg",
+          "imageDesktop": "https://dw0w4amzflayh.cloudfront.net/campaigns/lattissima-grande/14890_2090_PSD_NES_Machine_PDP_Gran_Lattissima_Banners_Topbanner_100E_996x115px_NL.jpg",
+          "imageMobile": "https://dw0w4amzflayh.cloudfront.net/campaigns/lattissima-grande/14890_1863a_PSD_NES_Machine_PDP_Gran_Lattissima_Banners_Topbanner_100E_835x449_NL.jpg",
+          "bb_package_desktop": "https://s3.eu-central-1.amazonaws.com/live-nes-b2c-887b-machinesplashpage/img/craftmanschip/14890_1547_NES_B2C_MachineSplash_Craftmanschip_banner_640x200px_30.jpg"
+        },
+        "package": {
+          "header": "Cadeaupakket + algemene voorwaarden",
+          "items": [
+            {
+              "title": "€50 koffiekorting",
+              "description": "Bij aanschaf van minimaal 150 capsules ontvang je €50 koffiekorting",
+              "image": "https://dw0w4amzflayh.cloudfront.net/campaigns/lattissima-grande/new-lattisima-grande-button-50euro-NL.svg"
+            }
+          ]
+        }
+      },
+      "content": [
+        {
+          "renewal": true,
+          "prospect": true,
+          "inStock": true,
+          "machine_name": "Gran Lattissima",
+          "machine_slug": "gran-lattissima",
+          "milkfunction": true,
+          "machine_subline": "Koffierecepten met één vingertop",
+          "machine_description": "Meer koffierecepten betekent niet dat je daar ook meer voor moet doen. De Gran Lattissima vervult al je latte-wensen. Met zes verschillende receptenopties, een one-touch-systeem en een automatisch spoelsysteem, doet de Gran Lattissima het werk, terwijl jij rustig kunt blijven zitten.",
+          "machine_description_full": "Meer koffierecepten betekent niet dat je daar ook meer voor moet doen. Of je nu zin hebt in cappuccino, latte, flat white of gewoon wat extra melk in je koffie: jij mag het zeggen. En de Gran Lattisima doet het werk. Hij brengt de aroma’s van Nespresso naar het recept dat kiest. Met het kenmerkende design en het one-touch-systeem is deze machine fijn om naar te kijken en makkelijk in het gebruik. De machine is verder uitgerust met een spoelsysteem voor automatische reiniging tussen elke twee receptbereidingen, terwijl jij rustig kunt blijven zitten.",
+          "nesOAMachine_price": 349.0,
+          "nesOAInternationalProductId": "F111-EU-WH-DL",
+          "nesOAName": "Gran Lattissima White DLG",
+          "usp": [
+            "0",
+            "14",
+            "16",
+            "9",
+            "3"
+          ],
+          "discover": {
+            "title": "Ontdek de voordelen van de Gran Lattissima",
+            "description": ""
+          },
+          "visualblock": {
+            "title": "BRENGT EENVOUD NAAR EEN HOGER NIVEAU",
+            "description": "Een nieuw en innovatief melksysteem met slechts één knop voor alle koffie- en melkrecepten. Bovendien zeer gemakkelijk schoon te maken: het melkcompartiment kan in de vaatwasser. Het hoogwaardige compacte design gaat mooi samen met de kwalitatieve materialen, zoals de verchroomde hendel en het subtiele patroon van glanzende en matte lijnen."
+          },
+          "machine_gallery": [
+            {
+              "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/white/Lattissima_Grande_White_front.png"
+            },
+            {
+              "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/white/Lattissima_Grande_White_quarter.png"
+            },
+            {
+              "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/white/Lattissima_Grande_White_side.png"
+            },
+            {
+              "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/white/Lattissima_Grande_White_top.png"
+            }
+          ],
+          "machine_colors": [
+            {
+              "inStock": true,
+              "color_id": "F531WH",
+              "color_slug": "white",
+              "color_desc": "white",
+              "color_compare": {
+                "id": "white",
+                "label": "white"
+              },
+              "color_EAN": "7630047686382",
+              "color_dash": "https://dw0w4amzflayh.cloudfront.net/resources/kleuren/color_white.png",
+              "color_show": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/white/Machines_Lattissima_Grande_White.png",
+              "color_main": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/white/Lattissima_Grande_White_front.png",
+              "color_extra_image": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/white/lattissima-Grande-white_600x600.png",
+              "color_price": 349,
+              "color_prospect_discount": 0,
+              "color_renewal_discount": 80,
+              "color_gallery": [
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/white/Lattissima_Grande_White_front.png",
+                  "alt": "Nespresso_Machine_LattissimaGrande_White_Vooraanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/white/Lattissima_Grande_White_quarter.png",
+                  "alt": "Nespresso_Machine_LattissimaGrande_White_Hoekaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/white/Lattissima_Grande_White_side.png",
+                  "alt": "Nespresso_Machine_LattissimaGrande_White_Zijaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/white/Lattissima_Grande_White_top.png",
+                  "alt": "Nespresso_Machine_LattissimaGrande_White_Hoekaanzicht"
+                }
+              ]
+            },
+            {
+              "inStock": true,
+              "color_id": "F531BK",
+              "color_slug": "black",
+              "color_desc": "Black",
+              "color_compare": {
+                "id": "black",
+                "label": "black"
+              },
+              "color_EAN": "7630047686788",
+              "color_dash": "https://dw0w4amzflayh.cloudfront.net/resources/kleuren/color_black.png",
+              "color_show": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/black/Machines_Lattissima_Grande_black.png",
+              "color_main": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/black/Lattissima_Grande_Black_front.png",
+              "color_extra_image": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/black/lattissima-Grande-black_600x600.png",
+              "color_price": 349,
+              "color_prospect_discount": 0,
+              "color_renewal_discount": 80,
+              "color_gallery": [
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/black/Lattissima_Grande_Black_front.png",
+                  "alt": "Nespresso_Machine_LattissimaGrande_Black_Vooraanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/black/Lattissima_Grande_Black_quarter.png",
+                  "alt": "Nespresso_Machine_LattissimaGrande_Black_Hoekaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/black/Lattissima_Grande_black_side.png",
+                  "alt": "Nespresso_Machine_LattissimaGrande_Black_Zijaanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/black/Lattissima_Grande_black_top.png",
+                  "alt": "Nespresso_Machine_LattissimaGrande_Black_Hoekaanzicht"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "functionality": {
+        "uitgifte": {
+          "image": "",
+          "value": "Handmatige capsule inname en uitgifte",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "schakelaar": {
+          "image": "",
+          "value": "Automatische en programmeerbare aan/uit schakelaar",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "kopjesrooster": {
+          "image": "",
+          "value": "Draaibaar kopjesrooster voor latte macchiato-glazen",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "ontkalking": {
+          "image": "",
+          "value": "Automatische melding voor ontkalking",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "kopgroottes": {
+          "image": "",
+          "value": "Programmeerbare kopgroottes",
+          "label": "",
+          "splash": true,
+          "compare": false
+        }
+      },
+      "specifications": {
+        "gewicht": {
+          "image": "",
+          "value": "4.3 Kilogram",
+          "label": "Gewicht",
+          "splash": false,
+          "compare": false
+        },
+        "verwijderbaar_waterreservoir": {
+          "image": "",
+          "value": "1 Liter",
+          "label": "Verwijderbaar waterreservoir",
+          "splash": true,
+          "compare": true
+        },
+        "capaciteit_capsules": {
+          "image": "",
+          "value": "10 - 14 Capsules",
+          "label": "Capaciteit van gebruikte capsules",
+          "splash": true,
+          "compare": false
+        },
+        "vermogen": {
+          "image": "",
+          "value": "A++",
+          "label": "Energielabel",
+          "splash": true,
+          "compare": false
+        },
+        "afmetingen": {
+          "image": "",
+          "value": "203 mm x 367 mm x 275 mm",
+          "value_compare": "203 mm <br />x<br /> 367 mm <br />x<br />275 mm",
+          "label": "Afmetingen (BxHxD)",
+          "splash": true,
+          "compare": true
+        },
+        "druk": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/druk_bar.svg",
+          "value": "19 Bar",
+          "label": "Druk",
+          "splash": true,
+          "compare": true
+        },
+        "water": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/water_opwarmen.svg",
+          "value": "25 Seconden",
+          "label": "Warmt water op in slechts",
+          "splash": true,
+          "compare": true
+        },
+        "kopgrootte": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/kopgrootte_cups.svg",
+          "value": "",
+          "label": "Kopgrootte",
+          "splash": false,
+          "compare": true
+        },
+        "melk": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/melk_geintegreerd.svg",
+          "value": "Geïntegreerde melkfunctie",
+          "label": "Melk",
+          "splash": false,
+          "compare": true
+        }
+      },
+      "video": {
+        "available": true,
+        "poster": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/lifestyle/Lattissima_Grande_1_L.jpg",
+        "yt": "beyJONjmxHI",
+        "loop": "beyJONjmxHI"
+      },
+      "product_type": "machines",
+      "product_group": "BTOC",
+      "product_quantity": 1,
+      "exclusive": {
+        "active": false,
+        "badge": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/resources/badges/barista-schort-offer.svg"
+      },
+      "exclusive_loggedout": {
+        "colors_visible": [
+          "white",
+          "black"
+        ],
+        "active": false,
+        "badge": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/resources/badges/barista-schort-offer.svg"
+      },
+      "exclusive_loggedin": {
+        "colors_visible": [
+          "white",
+          "black"
+        ],
+        "active": false,
+        "badge": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/resources/badges/barista-schort-offer.svg"
+      }
+    }
+  }

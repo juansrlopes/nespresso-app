@@ -1,0 +1,331 @@
+{
+    "machine": {
+      "machineclass": {
+        "lowend": true,
+        "minCapsulesAmount": 100,
+        "multiple_100": "Te bestellen per 50 capsules",
+        "boer": {
+          "id": [
+            "105833",
+            "105834",
+            "105835"
+          ],
+          "min": 100
+        }
+      },
+      "lifestyle": [
+        {
+          "machine_lifestyle_main": "https://dw0w4amzflayh.cloudfront.net/machines/expert/lifestyle/Expert_1.jpg",
+          "machine_lifestylevisual": [
+            "https://dw0w4amzflayh.cloudfront.net/machines/expert/lifestyle/Expert_2.jpg",
+            "https://dw0w4amzflayh.cloudfront.net/machines/expert/lifestyle/Expert_3.jpg",
+            "https://dw0w4amzflayh.cloudfront.net/machines/expert/lifestyle/Expert_4.jpg",
+            "https://dw0w4amzflayh.cloudfront.net/machines/expert/lifestyle/Expert_5.jpg"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "title": "Hoe onderhoudt u de <strong>Nespresso</strong> Expert machine?",
+          "answer": "<<ol><li>Ontkalk uw machine minstens één keer per jaar als u gebruik maakt van zacht water. Let op: voor hard water wordt het aangeraden om twee keer per jaar te ontkalken.</li><li>Verwijder de capsule na gebruik.</li><li>Voor een goede espresso of lungo is de waterkwaliteit essentieel. Daarom raden wij u aan het water in het reservoir dagelijks te verversen.</li><li>Leeg en maak het opvangbakje voor gebruikte capsules en de lekbak regelmatig schoon.</li><li>Laat water door de uitstroomtuit lopen voordat u koffie gaat zetten (zonder een capsule in de machine) door op een willekeurige koffie knop te drukken. Hiermee spoelt u op effectieve wijze het koffiezetgedeelte, stijgt de temperatuur en zorgt u voor een perfect afgemeten hoeveelheid koffie.</li></ol>"
+        },
+        {
+          "title": "Wat betekent 19 bar?",
+          "answer": "Alle <strong>Nespresso</strong> machines zijn uitgerust met een hogedrukpomp van 19 bar voor de kracht die nodig is om de capsule te doorboren en zo de 900 verschillende koffiearoma's vrij te laten komen. De vorm van de <strong>Nespresso</strong> capsule is speciaal ontworpen om ervoor te zorgen dat het water tijdens de extractie onder druk en gelijkmatig door de gemalen koffie stroomt. Ook de temperatuur en doorstroomtijd zijn essentieel om ervoor te zorgen dat alle kostbare aroma's vrijkomen."
+        },
+        {
+          "title": "Welke smartphones zijn bruikbaar met de <strong>Nespresso</strong> <i>Expert</i> machines? Welke <strong>Nespresso</strong> machines kunnen worden aangestuurd door de <strong>Nespresso</strong> app?",
+          "answer": "<b>iOS:</b><br />iPad<br /><ul><li>iPad 3rd generation en hoger</li><li>iPad Air en hoger</li><li>iPad Mini en hoger</li></ul><br />iPhone<br /><ul><li>iPhone 4s en hoger</li></ul><br />Ondersteunende iOS versies:<br /><ul><li>8.1 en hoger</li></ul><br /><b>Android:</b><br />Lijst van compatibele Android apparaten:<br /><ul><li>Samsung Galaxy S4 en hoger</li><li>Nexus 5 en hoger </li></ul><br />Ondersteunende Android OS versies:<br /><ul><li>5.0 en hoger</li></ul><br />"
+        },
+        {
+          "title": "Het lukt mij niet om mijn smartphone te koppelen aan de machine, wat moet ik doen?",
+          "answer": "Zorg ervoor dat Bluetooth is geactiveerd op uw Expert machine, uw machine aan staat en dat u dicht genoeg bij de machine staat. Bekijk de instructievideo over hoe u kunt verbinden met uw machine <a href='https://www.nespresso.com/nl/nl/expert-machines-range'>hier</a>. De volgende stappen kunnen u helpen bij het oplossen van een verbindingsprobleem:<br/><ol><li>Zorg ervoor dat er geen ander mobiel apparaat gebruikmaakt van de applicatie</li><li>Stop de <strong>Nespresso</strong> app</li><li>Verwijder de Expert machine uit de Bluetooth-instellingen</li><li>Start uw machine opnieuw op</li><li>Zet de machine terug naar fabrieksinstellingen: zie onderstaande uitleg</li><li>Zorg ervoor dat uw apparaat compatibel is met de machine</li><li>Het verbinden zou na bovenstaande acties beter moeten werken. Als het nog steeds niet werkt, kan dit te maken hebben met uw omgeving. Bijvoorbeeld, het hebben van veel Bluetooth-apparaten of een magnetron die aanstaat dicht bij de machine zou de verbinding onbetrouwbaar kunnen maken. Als de problemen zich voor blijven doen, neem dan contact op met <strong>Nespresso</strong> voor verdere assistentie.</li></ol>"
+        },
+        {
+          "title": "Mijn machine heeft weinig of geen koffiedoorstroming, wat kan ik doen?",
+          "answer": "Dit kan voorkomen bij het eerste gebruik, na het legen of na een lange periode van niet-gebruik.<br/><ol><li>Zorg dat het waterreservoir voldoende gevuld en goed geplaatst is</li><li>Druk een aantal keer op de koffievolumeknop (bijv. de lungo- of espressoknop) totdat de koffie/het water eruit stroomt</li><br/>Bij een ongebruikelijke koffiedoorstroming controleert u het volgende:<br/>Het waterreservoir is goed geplaatst.<br/>De koffie-uitloop is schoon."
+        },
+        {
+          "title": "Wat betekenen de onderhoudslampjes op mijn machine?",
+          "answer": "- Als het lampje van de koffieknop aanstaat en het onderhoudslampje langzaam knippert, dan is ontkalking nodig. <br/><br/>- Als de koffieknop UIT is en het onderhoudslampje AAN, dan is het waterreservoir leeg en/of het capsule-opvangbakje vol.<br/><br/>- Als het probleem blijft aanhouden, neem contact op met <strong>Nespresso</strong>. <br/><br/>- <strong>Nespresso</strong> lampje is AAN: Dit betekent dat uw capsulevoorraad bijna op is. U kunt <strong>Nespresso</strong> capsules bestellen via de app of op de <strong>Nespresso</strong> website."
+        },
+        {
+          "title": "Hoe zet u de machine terug naar de fabrieksinstellingen / Hoe kan u uw machine opnieuw instellen?",
+          "answer": "Om uw machine terug te zetten naar de fabrieksinstellingen moet u ervoor zorgen dat de machine uit staat en de slider dicht is. Druk 6 seconden op de koffieknop en vervolgens gaan beide draaiknoppen zullen knipperen om te bevestigen dat u zich in de instellingenmodus bevindt.<br/><br/>- Selecteer het lungo-symbool en druk op de koffieknop.<br/>- Het lungo-symbool zal knipperen om te bevestigen dat u zich in de modus bevindt.<br/>- Om deze modus te verlaten zonder de fabrieksinstellingen te resetten, druk op de koffieknop.<br/>Nee / Exit Ja / Bevestig<br/>- Om de fabrieksinstellingen te resetten, draait u de temperatuurselectieknop tot het maximale en vervolgens drukt u de koffieknop in.<br/>- Alle lampjes zullen knipperen ter bevestiging.<br/><br/>Let op dat de fabrieksinstellingen het volgende inhouden:<br/><ol><li>Ristretto (25 ml), espresso (40 ml), lungo (110 ml), americano (25 ml koffie, 125 ml heet water). Of selecteer het druppelsymbool voor heet water (200 ml).</li><li>Automatische UIT modus na 9 minuten.</li><li>De standaardinstelling van de waterhardheid is 'hard'.</li><li>Geen smartphone of tablet gekoppeld.</li></ol>"
+        }
+      ],
+      "campaign": {
+        "active": true,
+        "discount": 0,
+        "discount_accessory": 0.00,
+        "sticker_visible_on_overview": true,
+        "sticker": "https://dw0w4amzflayh.cloudfront.net/campaigns/coffee-houses/14890_1760a_PSD_NES_coffee_houses_2019_Banner_Button_30_ALT.svg",
+        "tabimage": "https://dw0w4amzflayh.cloudfront.net/campaigns/coffee-houses/14890_1760a_PSD_NES_coffee_houses_2019_Banner_Button_Koffiekorting.svg",
+        "banner": {
+          "welcomeBanner": "https://dw0w4amzflayh.cloudfront.net/campaigns/the-milky-world/14890_1863a_NES_Machine_PDP_Creatista_Banners_Topbanner_PDP_30E_996x115px_NL_HRDEF.jpg",
+          "imageDesktop": "https://dw0w4amzflayh.cloudfront.net/campaigns/the-milky-world/14890_1863a_NES_Machine_PDP_Creatista_Banners_Topbanner_PDP_30E_996x115px_NL_HRDEF.jpg",
+          "imageMobile": "https://dw0w4amzflayh.cloudfront.net/campaigns/coffee-houses/14890_1760a_NES_coffee_houses_2019_Banner_835x449_E30_NL_ALT.jpg",
+          "bb_package_desktop": "https://s3.eu-central-1.amazonaws.com/live-nes-b2c-887b-machinesplashpage/img/craftmanschip/14890_1547_NES_B2C_MachineSplash_Craftmanschip_banner_640x200px_30.jpg"
+        },
+        "package": {
+          "header": "Cadeaupakket + algemene voorwaarden",
+          "items": [
+            {
+              "title": "€30 koffiekorting",
+              "description": "Bij aanschaf van minimaal 100 capsules ontvang je €30 koffiekorting",
+              "image": "https://dw0w4amzflayh.cloudfront.net/campaigns/coffee-houses/14890_1760a_PSD_NES_coffee_houses_2019_Banner_Button_30_ALT.svg"
+            }
+          ]
+        }
+      },
+      "badge": {
+        "active": false,
+        "sticker": "https://dw0w4amzflayh.cloudfront.net/resources/badges/FEB-2018_Predicaat-Beste-uit-de-test.svg",
+        "sticker_alt": "Beste uit de test – Nespresso Expert en Expert&Milk",
+        "title": "BESTE UIT DE TEST – <strong>NESPRESSO EXPERT</strong> EN <strong>EXPERT&MILK</strong>",
+        "description": "<strong>Voordelen volgens de Consumentenbond:</strong><br/><br/><ul><li>• Hoogste cijfer van de machine top 10 op gebruiksgemak (9,5)</li><li>• Goede espresso kwaliteit (8,3)</li><li>• Goede temperatuur van de koffie</li><li>• Gescheiden uitloop voor koffie en heet water</li><li>• Fijne bedieningsknoppen</li><ul>"
+      },
+      "content": [
+        {
+          "renewal": true,
+          "prospect": true,
+          "inStock": true,
+          "machine_id": "3",
+          "machine_name": "Expert",
+          "machine_slug": "expert",
+          "milkfunction": false,
+          "machine_subline": "De barista-machine die je kunt afstemmen op jouw smaak",
+          "machine_description": "De keuze is volledig aan jou met de <strong>Nespresso</strong> Expert koffiemachine: je kunt kiezen uit vier kopgroottes - waaronder de milde americano – en drie temperatuurstanden. Alle instellingen kun je helemaal naar je eigen smaak aanpassen. Dankzij het platte design past deze koffiemachine in elke keuken. Dit maakt de Expert een unieke <strong>Nespresso</strong> machine.",
+          "machine_description_full": "De keuze is volledig aan jou met de <strong>Nespresso</strong> Expert koffiemachine: je kunt kiezen uit vier kopgroottes - waaronder de milde americano – en drie temperatuurstanden. Alle instellingen kun je helemaal naar je eigen smaak aanpassen. Dankzij het platte design past deze koffiemachine in elke keuken. Dit maakt de Expert een unieke <strong>Nespresso</strong> machine.",
+          "nesOAMachine_price": 279.0,
+          "nesOAInternationalProductId": "D80-EU-GR-MX",
+          "nesOAName": "11379 - Expert Anthracite MGX",
+          "usp": [
+            "0",
+            "11",
+            "12",
+            "18",
+            "4"
+          ],
+          "discover": {
+            "title": "Ontdek de voordelen van de Expert en de Expert&Milk ",
+            "description": ""
+          },
+          "visualblock": {
+            "title": "Afgestemd op uw koffievoorkeur",
+            "description": "De keuze is volledig aan jou met de slimme <strong>Nespresso</strong> Expert koffiemachine. Met de draaiende draaiknoppen kun je de instellingen net zo lang aanpassen tot je exact jouw perfecte koffie hebt gemaakt. Je kunt kiezen uit vier kopgroottes – van een ristretto tot een milde americano - en drie temperatuurinstellingen, van warm tot uitgesproken heet. Personaliseer je koffie rechtstreeks op de machine of via de mobiele app, waarmee je je koffie kunt voorprogrammeren en je favoriete recepten kunt bewaren."
+          },
+          "machine_gallery": [
+            {
+              "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/expert/off-black/Machines_Expert_Black_376x500_front.png"
+            },
+            {
+              "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/expert/off-black/Machines_Expert_Black_376x500_side.png"
+            }
+          ],
+          "machine_colors": [
+            {
+              "inStock": true,
+              "color_id": "D80GR-N",
+              "color_slug": "anthracite-grey",
+              "color_desc": "Anthracite Grey",
+              "color_compare": {
+                "id": "silver",
+                "label": "silver"
+              },
+              "color_EAN": "7630047625428",
+              "color_dash": "https://dw0w4amzflayh.cloudfront.net/resources/kleuren/color_silver.png",
+              "color_show": "https://dw0w4amzflayh.cloudfront.net/machines/expert/anthracite-grey/Machines_Expert_Grey.png",
+              "color_main": "https://dw0w4amzflayh.cloudfront.net/machines/expert/anthracite-grey/Machines_Expert_Grey_376x500_front.png",
+              "color_extra_image": "https://dw0w4amzflayh.cloudfront.net/machines/expert/anthracite-grey/large/expert_anthracite-grey_600x600.png",
+              "color_price": 279,
+              "color_prospect_discount": 60,
+              "color_renewal_discount": 70,
+              "color_gallery": [
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/expert/anthracite-grey/Machines_Expert_Grey_376x500_front.png",
+                  "alt": "Nespresso_Machine_Expert_AnthraciteGrey_Vooraanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/expert/anthracite-grey/Machines_Expert_Grey_376x500_side.png",
+                  "alt": "Nespresso_Machine_Expert_AnthraciteGrey_Zijaanzicht"
+                }
+              ]
+            },
+            {
+              "inStock": true,
+              "color_id": "C80BK-N",
+              "color_slug": "off-black",
+              "color_desc": "Off Black",
+              "color_compare": {
+                "id": "black",
+                "label": "black"
+              },
+              "color_EAN": "7630047625367",
+              "color_dash": "https://dw0w4amzflayh.cloudfront.net/resources/kleuren/color_black.png",
+              "color_show": "https://dw0w4amzflayh.cloudfront.net/machines/expert/off-black/Machines_Expert_Black.png",
+              "color_main": "https://dw0w4amzflayh.cloudfront.net/machines/expert/off-black/Machines_Expert_Black_376x500_front.png",
+              "color_extra_image": "https://dw0w4amzflayh.cloudfront.net/machines/expert/off-black/large/expert_off-black_600x600.png",
+              "color_price": 279,
+              "color_prospect_discount": 60,
+              "color_renewal_discount": 70,
+              "color_gallery": [
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/expert/off-black/Machines_Expert_Black_376x500_front.png",
+                  "alt": "Nespresso_Machine_Expert_OffBlack_Vooraanzicht"
+                },
+                {
+                  "thumbUrl": "https://dw0w4amzflayh.cloudfront.net/machines/expert/off-black/Machines_Expert_Black_376x500_side.png",
+                  "alt": "Nespresso_Machine_Expert_OffBlack_Zijaanzicht"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "functionality": {
+        "inname": {
+          "image": "",
+          "value": "Automatische capsule inname en uitgifte",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "schakelaar": {
+          "image": "",
+          "value": "Automatische en programmeerbare aan/uit schakelaar",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "zuinig": {
+          "image": "",
+          "value": "Energie zuinig",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "kopjesrooster": {
+          "image": "",
+          "value": "Draaibaar kopjesrooster voor Latte Macchiato-glazen",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "ontkalking": {
+          "image": "",
+          "value": "Automatische melding voor ontkalking",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "programmeerbare": {
+          "image": "",
+          "value": "Programmeerbare kopgroottes",
+          "label": "",
+          "splash": true,
+          "compare": false
+        },
+        "functie": {
+          "image": "",
+          "value": "Heet water functie",
+          "label": "",
+          "splash": true,
+          "compare": false
+        }
+      },
+      "specifications": {
+        "gewicht": {
+          "image": "",
+          "value": "4.4 Kilogram",
+          "label": "Gewicht",
+          "splash": true,
+          "compare": true
+        },
+        "verwijderbaar_waterreservoir": {
+          "image": "",
+          "value": "1.1 Liter",
+          "label": "Verwijderbaar waterreservoir",
+          "splash": true,
+          "compare": true
+        },
+        "capaciteit_capsules": {
+          "image": "",
+          "value": "11 Capsules",
+          "label": "Capaciteit van gebruikte capsules",
+          "splash": true,
+          "compare": false
+        },
+        "vermogen": {
+          "image": "",
+          "value": "1600 Watt",
+          "label": "Vermogen",
+          "splash": true,
+          "compare": false
+        },
+        "afmetingen": {
+          "image": "",
+          "value": "38.1 cm x 22.3 cm x 28.7 cm",
+          "value_compare": "38.1 cm <br />x<br /> 22.3 cm <br />x<br />28.7 cm",
+          "label": "Afmetingen (BxHxD)",
+          "splash": true,
+          "compare": true
+        },
+        "druk": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/druk_bar.svg",
+          "value": "19 Bar",
+          "label": "Druk",
+          "splash": true,
+          "compare": true
+        },
+        "water": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/water_opwarmen.svg",
+          "value": "25 Seconden",
+          "label": "Warmt water op in slechts",
+          "splash": true,
+          "compare": true
+        },
+        "kopgrootte": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/kopgrootte_switch.svg",
+          "value": "",
+          "label": "Kopgrootte",
+          "splash": false,
+          "compare": true
+        },
+        "melk": {
+          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/empty.svg",
+          "value": "",
+          "label": "Melk",
+          "splash": false,
+          "compare": true
+        }
+      },
+      "video": {
+        "available": true,
+        "poster": "https://dw0w4amzflayh.cloudfront.net/machines/expert/lifestyle/Expert_1.jpg",
+        "yt": "-nmSBuLuoXQ",
+        "loop": "MwvCyeYhkfk"
+      },
+      "product_type": "machines",
+      "product_group": "BTOC",
+      "product_quantity": 1,
+      "exclusive": {
+        "active": false,
+        "badge": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/resources/badges/exclusief_voordeel.svg"
+      },
+      "exclusive_loggedout": {
+        "colors_visible": [
+          "black"
+        ],
+        "active": false,
+        "badge": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/resources/badges/moederdag-actie.svg"
+      },
+      "exclusive_loggedin": {
+        "colors_visible": [
+          "black"
+        ],
+        "active": false,
+        "badge": "https://s3.eu-central-1.amazonaws.com/nespresso-cms/resources/badges/exclusief_voordeel_no_arrow.svg"
+      }
+    }
+  }

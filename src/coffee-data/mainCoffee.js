@@ -15,7 +15,7 @@ export const mainCoffeeList = {
             menuIcon:
                 "https://d2hvawivov3jmc.cloudfront.net/img/DeBoerDeBoer/DeBoerButton_15_menu.svg",
             machine_show:
-                "https://d2hvawivov3jmc.cloudfront.net/img/menu/essenza_mini_slide.png",
+                "https://s3.eu-central-1.amazonaws.com/nespresso-cms/machines/essenza/piano-black/Cmodel_black_front.png",
             machine_json: "machine.essenza.json"
         },
         {
@@ -32,7 +32,7 @@ export const mainCoffeeList = {
             menuIcon:
                 "https://d2hvawivov3jmc.cloudfront.net/img/DeBoerDeBoer/DeBoerButton_35_menu.svg",
             machine_show:
-                "https://d2hvawivov3jmc.cloudfront.net/img/menu/citiz_and_milk_slide.png",
+                "https://dw0w4amzflayh.cloudfront.net/machines/citiz-milk/limousine-black/nes_prospect_machines_citizmilk_black_front.png",
             machine_json: "machine.citiz.milk.json"
         },
         {
@@ -50,7 +50,7 @@ export const mainCoffeeList = {
             menuIcon:
                 "https://d2hvawivov3jmc.cloudfront.net/img/DeBoerDeBoer/DeBoerButton_35_menu.svg",
             machine_show:
-                "https://d2hvawivov3jmc.cloudfront.net/img/menu/expert_slide.png",
+                "https://dw0w4amzflayh.cloudfront.net/machines/expert/anthracite-grey/Machines_Expert_Grey_376x500_front.png",
             machine_json: "machine.expert.json"
         },
         {
@@ -69,7 +69,7 @@ export const mainCoffeeList = {
             menuIcon:
                 "https://d2hvawivov3jmc.cloudfront.net/img/DeBoerDeBoer/DeBoerButton_35_menu.svg",
             machine_show:
-                "https://d2hvawivov3jmc.cloudfront.net/img/menu/creatista_plus_slide.png",
+                "https://dw0w4amzflayh.cloudfront.net/machines/creatista/silver/machine_creatista_plus_silver_front.png",
             machine_json: "machine.creatista-plus.json"
         },
         {
@@ -85,6 +85,10 @@ export const mainCoffeeList = {
             order_nieuw: 2,
             milk: true,
             order_milk: 6,
+            menuIcon:
+                "https://d2hvawivov3jmc.cloudfront.net/img/DeBoerDeBoer/DeBoerButton_35_menu.svg",
+            machine_show:
+                "https://dw0w4amzflayh.cloudfront.net/machines/creatista-uno/black/machine_creatista_uno_black_front.png",
             machine_json: "machine.creatista-uno.json"
         },
         {
@@ -102,7 +106,7 @@ export const mainCoffeeList = {
             menuIcon:
                 "https://d2hvawivov3jmc.cloudfront.net/img/DeBoerDeBoer/DeBoerButton_35_menu.svg",
             machine_show:
-                "https://d2hvawivov3jmc.cloudfront.net/img/menu/citiz_slide.png",
+                "https://dw0w4amzflayh.cloudfront.net/machines/citiz/white/nes_prospect_machines_citiz_white_front.png",
             machine_json: "machine.citiz.json"
         },
         {
@@ -120,7 +124,7 @@ export const mainCoffeeList = {
             menuIcon:
                 "https://d2hvawivov3jmc.cloudfront.net/img/DeBoerDeBoer/DeBoerButton_35_menu.svg",
             machine_show:
-                "https://d2hvawivov3jmc.cloudfront.net/img/menu/pixie_slide.png",
+                "https://dw0w4amzflayh.cloudfront.net/machines/pixie/electric-aluminium/nes_prospect_machines_pixie_electricaluminium_front.png",
             machine_json: "machine.pixie.json"
         },
         {
@@ -139,7 +143,7 @@ export const mainCoffeeList = {
             menuIcon:
                 "https://d2hvawivov3jmc.cloudfront.net/img/DeBoerDeBoer/DeBoerButton_35_menu.svg",
             machine_show:
-                "https://d2hvawivov3jmc.cloudfront.net/img/menu/lattissima_one_slide.png",
+                "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-one/silky-white/Lattissima_One_White_front.png",
             machine_json: "machine.lattissima.one.json"
         },
         {
@@ -156,7 +160,7 @@ export const mainCoffeeList = {
             menuIcon:
                 "https://d2hvawivov3jmc.cloudfront.net/img/DeBoerDeBoer/DeBoerButton_35_menu.svg",
             machine_show:
-                "https://d2hvawivov3jmc.cloudfront.net/img/menu/lattissima_touch_2018_slide.png",
+                "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/silver/Machines_Latissima_touch_2018_silver_front.png",
             machine_json: "machine.lattissima-touch.json"
         },
         {
@@ -175,7 +179,7 @@ export const mainCoffeeList = {
             menuIcon:
                 "https://d2hvawivov3jmc.cloudfront.net/img/DeBoerDeBoer/DeBoerButton_35_menu.svg",
             machine_show:
-                "https://d2hvawivov3jmc.cloudfront.net/img/menu/expert_and_milk_slide.png",
+                "https://dw0w4amzflayh.cloudfront.net/machines/expert-milk/anthracite-grey/Machines_Expert_milk_Grey_376x500_front.png",
             machine_json: "machine.expert.milk.json"
         },
         {
@@ -194,7 +198,7 @@ export const mainCoffeeList = {
             menuIcon:
                 "https://d2hvawivov3jmc.cloudfront.net/img/DeBoerDeBoer/DeBoerButton_35_menu.svg",
             machine_show:
-                "https://d2hvawivov3jmc.cloudfront.net/img/menu/lattissima_one_slide.png",
+                "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/white/Lattissima_Grande_White_front.png",
             machine_json: "machine.gran-lattissima.json"
         }
     ]
