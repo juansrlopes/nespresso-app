@@ -27,7 +27,7 @@ export const CoffeeMachine = () => {
     return (
         <Container>
             {noData ? (
-                <div>No coffee yet</div>
+                <div>No coffee yet...</div>
             ) : (
                 <div>
                     Hello {coffeeSlug}
