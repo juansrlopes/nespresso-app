@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import axios from "axios";
-import Container from "react-bootstrap/Container";
 import { CoffeeMachineItem } from "./coffee-machine-item/CoffeeMachineItem";
 
 export const CoffeeMachine = () => {
