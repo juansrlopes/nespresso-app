@@ -7,13 +7,7 @@ export const CoffeeMachineDetails = props => {
     const { usp } = props;
 
     return (
-        <Row
-            style={{
-                backgroundColor: "#26211e",
-                flexDirection: "column",
-                padding: "4%"
-            }}
-        >
+        <Row className="machine-details-wrapper">
             <h3>Ontdek de voordelen van de Lattissima One</h3>
             <ul className="functionality">
                 {usp.map(uspItem => {

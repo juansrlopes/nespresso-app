@@ -1,24 +1,29 @@
-h3{
-    color: #fff;
-    font-size: 14px;
-    text-align: center;
-    letter-spacing: 1px;
-}
-.functionality{
-    display: flex;
-    margin-top: 20px;
-    li{
-        width: calc((100% / 4) - 10px);
+.machine-details-wrapper{
+    background-color: #26211e;
+    flex-direction: column;
+    padding: 4%;
+    h3{
+        color: #fff;
+        font-size: 14px;
         text-align: center;
-        img{
-            width: 70px;
-        }
-        p{
-            max-width: 140px;
-            color: #fff;
-            margin: 8% auto 0;
-            font-size: 13px;
-            line-height: 16px;
+        letter-spacing: 1px;
+    }
+    .functionality{
+        display: flex;
+        margin-top: 20px;
+        li{
+            width: calc((100% / 4) - 10px);
+            text-align: center;
+            img{
+                width: 70px;
+            }
+            p{
+                max-width: 140px;
+                color: #fff;
+                margin: 8% auto 0;
+                font-size: 13px;
+                line-height: 16px;
+            }
         }
     }
 }

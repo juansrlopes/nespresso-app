@@ -1,11 +1,6 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import { Helmet } from "react-helmet";
-import Container from "react-bootstrap/Container";
-import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
-import Image from "react-bootstrap/Image";
-import Button from "react-bootstrap/Button";
+import { CoffeeMachineTop } from "./coffee-machine-top/CoffeeMachineTop";
 import { CoffeeMachineLifestyle } from "./coffee-machine-lifestyle/CoffeeMachineLifestyle";
 import { CoffeeMachineDetails } from "./coffee-machine-details/CoffeeMachineDetails";
 import { CoffeeMachineAbout } from "./coffee-machine-about/CoffeeMachineAbout";
@@ -21,33 +16,12 @@ export const CoffeeMachineItem = props => {
             <Helmet>
                 <title>{machineContent.machine_name}</title>
             </Helmet>
-            <Container>
-                <Link to={"/"}>
-                    <Button variant="dark">Back to machines</Button>
-                </Link>
-                <Row style={{ marginTop: "40px" }}>
-                    <Col md={4}>
-                        <Image
-                            src={machineContent.machine_gallery[0].thumbUrl}
-                            fluid
-                        />
-                    </Col>
-                    <Col md={{ span: 6, offset: 2 }}>
-                        <h1 className="machine-title">
-                            {machineContent.machine_name}
-                        </h1>
-                        <h2 className="machine-subtitle">
-                            {machineContent.machine_subline}
-                        </h2>
-                        <p
-                            dangerouslySetInnerHTML={{
-                                __html: machineContent.machine_description_full
-                            }}
-                            className="machine-description"
-                        ></p>
-                    </Col>
-                </Row>
-            </Container>
+            <CoffeeMachineTop
+                thumbUrl={machineContent.machine_gallery[0].thumbUrl}
+                machineName={machineContent.machine_name}
+                machineSubline={machineContent.machine_subline}
+                machineDescription={machineContent.machine_description_full}
+            />
             <CoffeeMachineLifestyle
                 lifestyleImages={lifestyleImages}
                 machineContent={machineContent}
