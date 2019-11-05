@@ -6,10 +6,8 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Image from "react-bootstrap/Image";
 import Button from "react-bootstrap/Button";
-import Tabs from "react-bootstrap/Tabs";
-import Tab from "react-bootstrap/Tab";
-import { CoffeeMachineSpecs } from "./coffee-machine-specs/CoffeeMachineSpecs";
-import { CoffeeMachineFuncs } from "./coffee-machine-funcs/CoffeeMachineFuncs";
+import { CoffeeMachineDetails } from "./coffee-machine-details/CoffeeMachineDetails";
+import { CoffeeMachineAbout } from "./coffee-machine-about/CoffeeMachineAbout";
 import "./CoffeeMachineItem.scss";
 
 export const CoffeeMachineItem = props => {
@@ -76,58 +74,12 @@ export const CoffeeMachineItem = props => {
                     </div>
                 </Col>
             </Row>
-            <Row
-                style={{
-                    backgroundColor: "#26211e",
-                    flexDirection: "column",
-                    padding: "4%"
-                }}
-            >
-                <h3>Ontdek de voordelen van de Lattissima One</h3>
-                <ul className="functionality">
-                    {machineContent.usp.map(uspItem => {
-                        return (
-                            <li key={uspItem.func_id}>
-                                <Image src={uspItem.func_icon} />
-                                <p>{uspItem.func_title}</p>
-                            </li>
-                        );
-                    })}
-                </ul>
-            </Row>
-            <Row>
-                <Container>
-                    <div className="machine-about-wrapper">
-                        <h3>
-                            Meer weten over de {machineContent.machine_name}
-                        </h3>
-                        <Tabs
-                            defaultActiveKey="specificaties"
-                            id="machine-tabs"
-                        >
-                            <Tab eventKey="specificaties" title="Specificaties">
-                                <h4>Functionele Specificaties</h4>
-                                <CoffeeMachineFuncs
-                                    funcs={machine.functionality}
-                                />
-                                <h4>Technische Specificaties</h4>
-                                <CoffeeMachineSpecs
-                                    specs={machine.specifications}
-                                />
-                            </Tab>
-                            <Tab eventKey="fotogalerij" title="Fotogalerij">
-                                Fotogalerij
-                            </Tab>
-                            <Tab
-                                eventKey="veelgesteldeVragen"
-                                title="Veelgestelde Vragen"
-                            >
-                                Veelgestelde Vragen
-                            </Tab>
-                        </Tabs>
-                    </div>
-                </Container>
-            </Row>
+            <CoffeeMachineDetails usp={machineContent.usp} />
+            <CoffeeMachineAbout
+                machineName={machineContent.machine_name}
+                funcs={machine.functionality}
+                specs={machine.specifications}
+            />
         </>
     );
 };
