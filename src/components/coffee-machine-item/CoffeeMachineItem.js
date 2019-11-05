@@ -6,6 +6,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Image from "react-bootstrap/Image";
 import Button from "react-bootstrap/Button";
+import { CoffeeMachineLifestyle } from "./coffee-machine-lifestyle/CoffeeMachineLifestyle";
 import { CoffeeMachineDetails } from "./coffee-machine-details/CoffeeMachineDetails";
 import { CoffeeMachineAbout } from "./coffee-machine-about/CoffeeMachineAbout";
 import "./CoffeeMachineItem.scss";
@@ -47,33 +48,13 @@ export const CoffeeMachineItem = props => {
                     </Col>
                 </Row>
             </Container>
-            <Row style={{ marginTop: "40px" }}>
-                <Col md={6} className="machine-col machine-lifestyle">
-                    <Image
-                        className="machine-lifestyle-main-iamge"
-                        src={machine.lifestyle[0].machine_lifestyle_main}
-                    />
-                    <div className="machine-photos-banner">
-                        {lifestyleImages.map((image, index) => {
-                            return <Image src={image} key={index} />;
-                        })}
-                    </div>
-                </Col>
-                <Col
-                    md={6}
-                    className="machine-col machine-visualblock-text-wrap"
-                >
-                    <div className="machine-visualblock-text">
-                        <h3>{machineContent.visualblock.title}</h3>
-                        <p
-                            dangerouslySetInnerHTML={{
-                                __html: machineContent.visualblock.description
-                            }}
-                            className="machine-description"
-                        ></p>
-                    </div>
-                </Col>
-            </Row>
+            <CoffeeMachineLifestyle
+                lifestyleImages={lifestyleImages}
+                machineContent={machineContent}
+                machineLifestyleMain={
+                    machine.lifestyle[0].machine_lifestyle_main
+                }
+            />
             <CoffeeMachineDetails usp={machineContent.usp} />
             <CoffeeMachineAbout
                 machineName={machineContent.machine_name}
