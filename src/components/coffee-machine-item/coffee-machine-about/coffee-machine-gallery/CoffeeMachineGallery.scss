@@ -1,0 +1,17 @@
+.gallery-carousel{
+    .carousel-inner{
+        width: 50%;
+        margin: 20px auto;
+        padding: 40px;
+        .carousel-image{
+            display: block;
+            margin: auto;
+            max-width: 450px;
+        }
+    }
+    .carousel-indicators{
+        li{
+            background-color: #000;
+        }
+    }
+}

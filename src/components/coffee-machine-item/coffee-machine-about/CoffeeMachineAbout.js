@@ -5,10 +5,11 @@ import Tabs from "react-bootstrap/Tabs";
 import Tab from "react-bootstrap/Tab";
 import { CoffeeMachineFuncs } from "./coffee-machine-funcs/CoffeeMachineFuncs";
 import { CoffeeMachineSpecs } from "./coffee-machine-specs/CoffeeMachineSpecs";
+import { CoffeeMachineGallery } from "./coffee-machine-gallery/CoffeeMachineGallery";
 import "./CoffeeMachineAbout.scss";
 
 export const CoffeeMachineAbout = props => {
-    const { funcs, specs, machineName } = props;
+    const { funcs, specs, machineGallery, machineName } = props;
 
     return (
         <Row id="machine-about">
@@ -27,7 +28,9 @@ export const CoffeeMachineAbout = props => {
                             <CoffeeMachineSpecs specs={specs} />
                         </Tab>
                         <Tab eventKey="fotogalerij" title="Fotogalerij">
-                            Fotogalerij
+                            <CoffeeMachineGallery
+                                machineGallery={machineGallery}
+                            />
                         </Tab>
                         <Tab
                             eventKey="veelgesteldeVragen"

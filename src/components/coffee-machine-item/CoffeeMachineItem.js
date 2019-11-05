@@ -10,6 +10,7 @@ export const CoffeeMachineItem = props => {
     const { machine } = props;
     const machineContent = machine.content[0];
     const lifestyleImages = machine.lifestyle[0].machine_lifestylevisual;
+    const machineGallery = machine.content[0].machine_gallery;
 
     return (
         <>
@@ -34,6 +35,7 @@ export const CoffeeMachineItem = props => {
                 machineName={machineContent.machine_name}
                 funcs={machine.functionality}
                 specs={machine.specifications}
+                machineGallery={machineGallery}
             />
         </>
     );
