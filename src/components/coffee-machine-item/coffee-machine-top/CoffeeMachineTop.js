@@ -10,11 +10,11 @@ import "./CoffeeMachineTop.scss";
 export const CoffeeMachineTop = props => {
     const { thumbUrl, machineName, machineSubline, machineDescription } = props;
     return (
-        <Container>
+        <Container className="machine-top-wrapper">
             <Link to={"/"}>
                 <Button variant="dark">Back to machines</Button>
             </Link>
-            <Row style={{ marginTop: "40px" }}>
+            <Row className="machine-top-row">
                 <Col md={4}>
                     <Image src={thumbUrl} fluid />
                 </Col>

@@ -7,7 +7,7 @@ import "./CoffeeMachineLifestyle.scss";
 export const CoffeeMachineLifestyle = props => {
     const { lifestyleImages, machineContent, machineLifestyleMain } = props;
     return (
-        <Row style={{ marginTop: "40px" }}>
+        <Row className="machine-lifestyle-row">
             <Col md={6} className="machine-col machine-lifestyle">
                 <Image
                     className="machine-lifestyle-main-iamge"
