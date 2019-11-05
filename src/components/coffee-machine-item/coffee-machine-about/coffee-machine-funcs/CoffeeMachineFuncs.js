@@ -7,9 +7,9 @@ export const CoffeeMachineFuncs = props => {
     return (
         <Table striped hover responsive>
             <tbody>
-                {funcs.map(funcItem => {
+                {funcs.map((funcItem, index) => {
                     return (
-                        <tr>
+                        <tr key={index}>
                             <td>{funcItem.value}</td>
                         </tr>
                     );

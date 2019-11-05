@@ -7,9 +7,9 @@ export const CoffeeMachineSpecs = props => {
     return (
         <Table striped hover responsive>
             <tbody>
-                {specs.map(specItem => {
+                {specs.map((specItem, index) => {
                     return (
-                        <tr>
+                        <tr key={index}>
                             <td>{specItem.label}</td>
                             <td>{specItem.value}</td>
                         </tr>

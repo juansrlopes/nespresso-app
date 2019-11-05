@@ -18,12 +18,11 @@ export const CoffeeMachineGallery = props => {
             onSelect={handleSelect}
             fade={true}
             interval={7000}
-            controls={false}
             className="gallery-carousel"
         >
-            {machineGallery.map(image => {
+            {machineGallery.map((image, imageIndex) => {
                 return (
-                    <Carousel.Item>
+                    <Carousel.Item key={imageIndex}>
                         <img
                             className="carousel-image"
                             src={image.thumbUrl}
