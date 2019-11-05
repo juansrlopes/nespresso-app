@@ -100,11 +100,36 @@
           "nesOAInternationalProductId": "D85-EU-GR-MX",
           "nesOAName": "11380 - Expert & Milk Anthracite MGX",
           "usp": [
-            "0",
-            "11",
-            "12",
-            "5",
-            "4"
+            {
+                "func_id": "0",
+                "func_title": "19 Bar druk",
+                "func_icon": "https://dw0w4amzflayh.cloudfront.net/resources/icons/usp_pressure.svg",
+                "func_desc": "Alle Nespresso machines zijn uitgerust met een hogedrukpomp van 19 bar om de 900 verschillende koffiearoma's vrij te laten komen."
+            },
+            {
+                "func_id": "11",
+                "func_title": "Koppeling met smartphone en tablet",
+                "func_icon": "https://dw0w4amzflayh.cloudfront.net/resources/icons/usp_bluetooth.svg",
+                "func_desc": "Deze machine werkt samen met uw smartphone of tablet. U bereidt uw koffie, controleert de capsule voorraad en ontvangt onderhoudsmeldingen doormiddel van de Nespresso app."
+            },
+            {
+                "func_id": "12",
+                "func_title": "Flexibel in kopgrootte",
+                "func_icon": "https://dw0w4amzflayh.cloudfront.net/resources/icons/usp_pres.svg",
+                "func_desc": "Personaliseer uw koffie naar uw smaak met 6 voorgeprogrammeerde kopgroottes."
+            },
+            {
+                "func_id": "5",
+                "func_title": "De Aeroccino melkopschuimer",
+                "func_icon": "https://dw0w4amzflayh.cloudfront.net/resources/icons/usp_aero.svg",
+                "func_desc": "Met de Aeroccino melkopschuimer maakt u binnen enkele seconden romig en zacht melkschuim. Voor al uw warme en koude melkrecepten."
+            },
+            {
+                "func_id": "4",
+                "func_title": "Snel opgewarmd",
+                "func_icon": "https://dw0w4amzflayh.cloudfront.net/resources/icons/usp_temperature.svg",
+                "func_desc": "Snel klaar voor gebruik: het verwarmingssysteem bereikt binnen 25 seconden de juiste temperatuur."
+            }
           ],
           "discover": {
             "title": "Ontdek de voordelen van de Expert en de Expert&Milk ",

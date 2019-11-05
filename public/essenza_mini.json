@@ -113,11 +113,36 @@
           "nesOAInternationalProductId": "C30-EU-BK-KR",
           "nesOAName": "Essenza Mini Piano Black",
           "usp": [
-            "0",
-            "2",
-            "3",
-            "13",
-            "4"
+            {
+                "func_id": "0",
+                "func_title": "19 Bar druk",
+                "func_icon": "https://dw0w4amzflayh.cloudfront.net/resources/icons/usp_pressure.svg",
+                "func_desc": "Alle Nespresso machines zijn uitgerust met een hogedrukpomp van 19 bar om de 900 verschillende koffiearoma's vrij te laten komen."
+            },
+            {
+                "func_id": "2",
+                "func_title": "2 kopgroottes",
+                "func_icon": "https://dw0w4amzflayh.cloudfront.net/resources/icons/usp_cupsize.svg",
+                "func_desc": "Elke Grand Cru is ontwikkeld voor een bepaalde kopgrootte, om zo een optimale smaak en samenstelling te bieden. Deze machine creëert eenvoudig uw ultieme espresso of lungo. Deze kopgroottes kunt u eventueel wijzigen naar uw favoriete kopgrootte."
+            },
+            {
+                "func_id": "3",
+                "func_title": "Compact design",
+                "func_icon": "https://dw0w4amzflayh.cloudfront.net/resources/icons/usp_compactdesign.svg",
+                "func_desc": "Deze compacte machine past in iedere keuken."
+            },
+            {
+                "func_id": "13",
+                "func_title": "Energie besparend",
+                "func_icon": "https://dw0w4amzflayh.cloudfront.net/resources/icons/usp_energy.svg",
+                "func_desc": "De machine schakelt zichzelf automatisch uit na 9 minuten."
+            },
+            {
+                "func_id": "4",
+                "func_title": "Snel opgewarmd",
+                "func_icon": "https://dw0w4amzflayh.cloudfront.net/resources/icons/usp_temperature.svg",
+                "func_desc": "Snel klaar voor gebruik: het verwarmingssysteem bereikt binnen 25 seconden de juiste temperatuur."
+            }
           ],
           "discover": {
             "title": "Ontdek de voordelen van de Essenza Mini koffiemachine",

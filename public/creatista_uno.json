@@ -82,10 +82,30 @@
           "nesOAInternationalProductId": "J520-EU-ME-NE",
           "nesOAName": "Creatista Plus Metallic Nespresso",
           "usp": [
-            "0",
-            "14",
-            "22",
-            "16"
+            {
+                "func_id": "0",
+                "func_title": "19 Bar druk",
+                "func_icon": "https://dw0w4amzflayh.cloudfront.net/resources/icons/usp_pressure.svg",
+                "func_desc": "Alle Nespresso machines zijn uitgerust met een hogedrukpomp van 19 bar om de 900 verschillende koffiearoma's vrij te laten komen."
+            },
+            {
+                "func_id": "14",
+                "func_title": "Geïntegreerde melkfunctie",
+                "func_icon": "https://dw0w4amzflayh.cloudfront.net/resources/icons/usp_melkfunction.svg",
+                "func_desc": "Met de geïntegreerde melkfunctie bereidt u keer op keer uw favoriete melkrecept met heerlijk romig en zacht melkschuim."
+            },
+            {
+                "func_id": "22",
+                "func_title": "Flexibel in kopgrootte",
+                "func_icon": "https://dw0w4amzflayh.cloudfront.net/resources/icons/usp_pres.svg",
+                "func_desc": "Personaliseer uw koffie naar uw smaak met 3 voorgeprogrammeerde kopgroottes."
+            },
+            {
+                "func_id": "16",
+                "func_title": "Eenvoudig onderhoud",
+                "func_icon": "https://dw0w4amzflayh.cloudfront.net/resources/icons/usp_autoclean.svg",
+                "func_desc": "Het zelfreinigende systeem zorgt ervoor dat de melkcontainer met één druk op de knop wordt schoongemaakt."
+            }
           ],
           "discover": {
             "title": "Ontdek de voordelen van de Creatista Uno",

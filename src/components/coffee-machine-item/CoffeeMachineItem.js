@@ -8,7 +8,7 @@ import Image from "react-bootstrap/Image";
 import Button from "react-bootstrap/Button";
 import Tabs from "react-bootstrap/Tabs";
 import Tab from "react-bootstrap/Tab";
-import Table from "react-bootstrap/Table";
+// import Table from "react-bootstrap/Table";
 import "./CoffeeMachineItem.scss";
 
 export const CoffeeMachineItem = props => {
@@ -106,7 +106,7 @@ export const CoffeeMachineItem = props => {
                         >
                             <Tab eventKey="specificaties" title="Specificaties">
                                 <h4>Functionele Specificaties</h4>
-                                <Table striped hover responsive>
+                                {/* <Table striped hover responsive>
                                     <tbody>
                                         <tr>
                                             <td>
@@ -227,8 +227,50 @@ export const CoffeeMachineItem = props => {
                                                 }
                                             </td>
                                         </tr>
+                                        <tr>
+                                            <td>
+                                                {
+                                                    machine.specifications.druk
+                                                        .label
+                                                }
+                                            </td>
+                                            <td>
+                                                {
+                                                    machine.specifications.druk
+                                                        .value
+                                                }
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                {
+                                                    machine.specifications.water
+                                                        .label
+                                                }
+                                            </td>
+                                            <td>
+                                                {
+                                                    machine.specifications.water
+                                                        .value
+                                                }
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                {
+                                                    machine.specifications.melk
+                                                        .label
+                                                }
+                                            </td>
+                                            <td>
+                                                {
+                                                    machine.specifications.melk
+                                                        .value
+                                                }
+                                            </td>
+                                        </tr>
                                     </tbody>
-                                </Table>
+                                </Table> */}
                             </Tab>
                             <Tab eventKey="fotogalerij" title="Fotogalerij">
                                 Fotogalerij

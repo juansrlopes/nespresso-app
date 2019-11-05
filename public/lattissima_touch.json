@@ -78,11 +78,36 @@
           "nesOAInternationalProductId": "F511-EU-RE-DL",
           "nesOAName": "EN 550.R - Lattissima Touch Red DLG",
           "usp": [
-            "0",
-            "14",
-            "4",
-            "15",
-            "16"
+            {
+                "func_id": "0",
+                "func_title": "19 Bar druk",
+                "func_icon": "https://dw0w4amzflayh.cloudfront.net/resources/icons/usp_pressure.svg",
+                "func_desc": "Alle Nespresso machines zijn uitgerust met een hogedrukpomp van 19 bar om de 900 verschillende koffiearoma's vrij te laten komen."
+            },
+            {
+                "func_id": "14",
+                "func_title": "Geïntegreerde melkfunctie",
+                "func_icon": "https://dw0w4amzflayh.cloudfront.net/resources/icons/usp_melkfunction.svg",
+                "func_desc": "Met de geïntegreerde melkfunctie bereidt u keer op keer uw favoriete melkrecept met heerlijk romig en zacht melkschuim."
+            },
+            {
+                "func_id": "4",
+                "func_title": "Snel opgewarmd",
+                "func_icon": "https://dw0w4amzflayh.cloudfront.net/resources/icons/usp_temperature.svg",
+                "func_desc": "Snel klaar voor gebruik: het verwarmingssysteem bereikt binnen 25 seconden de juiste temperatuur."
+            },
+            {
+                "func_id": "15",
+                "func_title": "Touch Screen",
+                "func_icon": "https://dw0w4amzflayh.cloudfront.net/resources/icons/usp_touch.svg",
+                "func_desc": "Intuïtief touchscreen voor eenvoudige bediening."
+            },
+            {
+                "func_id": "16",
+                "func_title": "Eenvoudig onderhoud",
+                "func_icon": "https://dw0w4amzflayh.cloudfront.net/resources/icons/usp_autoclean.svg",
+                "func_desc": "Het zelfreinigende systeem zorgt ervoor dat de melkcontainer met één druk op de knop wordt schoongemaakt."
+            }
           ],
           "discover": {
             "title": "Ontdek de voordelen van de Lattissima Touch koffiemachine",
