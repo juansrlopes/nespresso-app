@@ -5,7 +5,11 @@ import Navbar from "react-bootstrap/Navbar";
 
 export const HeaderNav = () => {
     return (
-        <Navbar bg="dark" variant="dark" style={{ marginBottom: "40px" }}>
+        <Navbar
+            bg="dark"
+            variant="dark"
+            style={{ marginBottom: "40px", height: "65px" }}
+        >
             <Link to="/" style={{ color: "#fff" }}>
                 Nespresso App
             </Link>

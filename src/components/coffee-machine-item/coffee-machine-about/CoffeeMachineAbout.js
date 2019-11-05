@@ -11,7 +11,7 @@ export const CoffeeMachineAbout = props => {
     const { funcs, specs, machineName } = props;
 
     return (
-        <Row>
+        <Row id="machine-about">
             <Container>
                 <div className="machine-about-wrapper">
                     <h3>Meer weten over de {machineName}</h3>

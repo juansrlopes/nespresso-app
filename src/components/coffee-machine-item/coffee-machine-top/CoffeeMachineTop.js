@@ -27,6 +27,11 @@ export const CoffeeMachineTop = props => {
                         }}
                         className="machine-description"
                     ></p>
+                    <div>
+                        <a href="#machine-about" className="anchor-to">
+                            Meer informatie
+                        </a>
+                    </div>
                 </Col>
             </Row>
         </Container>
