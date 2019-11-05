@@ -8,7 +8,7 @@ import Image from "react-bootstrap/Image";
 import Button from "react-bootstrap/Button";
 import Tabs from "react-bootstrap/Tabs";
 import Tab from "react-bootstrap/Tab";
-// import Table from "react-bootstrap/Table";
+import Table from "react-bootstrap/Table";
 import "./CoffeeMachineItem.scss";
 
 export const CoffeeMachineItem = props => {
@@ -106,171 +106,36 @@ export const CoffeeMachineItem = props => {
                         >
                             <Tab eventKey="specificaties" title="Specificaties">
                                 <h4>Functionele Specificaties</h4>
-                                {/* <Table striped hover responsive>
+                                <Table striped hover responsive>
                                     <tbody>
-                                        <tr>
-                                            <td>
-                                                {
-                                                    machine.functionality
-                                                        .uitgifte.value
-                                                }
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                {
-                                                    machine.functionality
-                                                        .schakelaar.value
-                                                }
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                {
-                                                    machine.functionality
-                                                        .kopjesrooster.value
-                                                }
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                {
-                                                    machine.functionality
-                                                        .ontkalking.value
-                                                }
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                {
-                                                    machine.functionality
-                                                        .kopgroottes.value
-                                                }
-                                            </td>
-                                        </tr>
+                                        {machine.functionality.map(funcItem => {
+                                            return (
+                                                <tr>
+                                                    <td>{funcItem.value}</td>
+                                                </tr>
+                                            );
+                                        })}
                                     </tbody>
                                 </Table>
                                 <h4>Technische Specificaties</h4>
                                 <Table striped hover responsive>
                                     <tbody>
-                                        <tr>
-                                            <td>
-                                                {
-                                                    machine.specifications
-                                                        .gewicht.label
-                                                }
-                                            </td>
-                                            <td>
-                                                {
-                                                    machine.specifications
-                                                        .gewicht.value
-                                                }
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                {
-                                                    machine.specifications
-                                                        .verwijderbaar_waterreservoir
-                                                        .label
-                                                }
-                                            </td>
-                                            <td>
-                                                {
-                                                    machine.specifications
-                                                        .verwijderbaar_waterreservoir
-                                                        .value
-                                                }
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                {
-                                                    machine.specifications
-                                                        .capaciteit_capsules
-                                                        .label
-                                                }
-                                            </td>
-                                            <td>
-                                                {
-                                                    machine.specifications
-                                                        .capaciteit_capsules
-                                                        .value
-                                                }
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                {
-                                                    machine.specifications
-                                                        .vermogen.label
-                                                }
-                                            </td>
-                                            <td>
-                                                {
-                                                    machine.specifications
-                                                        .vermogen.value
-                                                }
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                {
-                                                    machine.specifications
-                                                        .afmetingen.label
-                                                }
-                                            </td>
-                                            <td>
-                                                {
-                                                    machine.specifications
-                                                        .afmetingen.value
-                                                }
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                {
-                                                    machine.specifications.druk
-                                                        .label
-                                                }
-                                            </td>
-                                            <td>
-                                                {
-                                                    machine.specifications.druk
-                                                        .value
-                                                }
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                {
-                                                    machine.specifications.water
-                                                        .label
-                                                }
-                                            </td>
-                                            <td>
-                                                {
-                                                    machine.specifications.water
-                                                        .value
-                                                }
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                {
-                                                    machine.specifications.melk
-                                                        .label
-                                                }
-                                            </td>
-                                            <td>
-                                                {
-                                                    machine.specifications.melk
-                                                        .value
-                                                }
-                                            </td>
-                                        </tr>
+                                        {machine.specifications.map(
+                                            specItem => {
+                                                return (
+                                                    <tr>
+                                                        <td>
+                                                            {specItem.label}
+                                                        </td>
+                                                        <td>
+                                                            {specItem.value}
+                                                        </td>
+                                                    </tr>
+                                                );
+                                            }
+                                        )}
                                     </tbody>
-                                </Table> */}
+                                </Table>
                             </Tab>
                             <Tab eventKey="fotogalerij" title="Fotogalerij">
                                 Fotogalerij

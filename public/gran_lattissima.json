@@ -228,73 +228,73 @@
           ]
         }
       ],
-      "functionality": {
-        "uitgifte": {
+      "functionality": [
+        {
           "image": "",
           "value": "Handmatige capsule inname en uitgifte",
           "label": "",
           "splash": true,
           "compare": false
         },
-        "schakelaar": {
+        {
           "image": "",
           "value": "Automatische en programmeerbare aan/uit schakelaar",
           "label": "",
           "splash": true,
           "compare": false
         },
-        "kopjesrooster": {
+        {
           "image": "",
           "value": "Draaibaar kopjesrooster voor latte macchiato-glazen",
           "label": "",
           "splash": true,
           "compare": false
         },
-        "ontkalking": {
+        {
           "image": "",
           "value": "Automatische melding voor ontkalking",
           "label": "",
           "splash": true,
           "compare": false
         },
-        "kopgroottes": {
+        {
           "image": "",
           "value": "Programmeerbare kopgroottes",
           "label": "",
           "splash": true,
           "compare": false
         }
-      },
-      "specifications": {
-        "gewicht": {
+    ],
+      "specifications": [
+        {
           "image": "",
           "value": "4.3 Kilogram",
           "label": "Gewicht",
           "splash": false,
           "compare": false
         },
-        "verwijderbaar_waterreservoir": {
+        {
           "image": "",
           "value": "1 Liter",
           "label": "Verwijderbaar waterreservoir",
           "splash": true,
           "compare": true
         },
-        "capaciteit_capsules": {
+        {
           "image": "",
           "value": "10 - 14 Capsules",
           "label": "Capaciteit van gebruikte capsules",
           "splash": true,
           "compare": false
         },
-        "vermogen": {
+        {
           "image": "",
           "value": "A++",
           "label": "Energielabel",
           "splash": true,
           "compare": false
         },
-        "afmetingen": {
+        {
           "image": "",
           "value": "203 mm x 367 mm x 275 mm",
           "value_compare": "203 mm <br />x<br /> 367 mm <br />x<br />275 mm",
@@ -302,35 +302,28 @@
           "splash": true,
           "compare": true
         },
-        "druk": {
+        {
           "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/druk_bar.svg",
           "value": "19 Bar",
           "label": "Druk",
           "splash": true,
           "compare": true
         },
-        "water": {
+        {
           "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/water_opwarmen.svg",
           "value": "25 Seconden",
           "label": "Warmt water op in slechts",
           "splash": true,
           "compare": true
         },
-        "kopgrootte": {
-          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/kopgrootte_cups.svg",
-          "value": "",
-          "label": "Kopgrootte",
-          "splash": false,
-          "compare": true
-        },
-        "melk": {
+        {
           "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/melk_geintegreerd.svg",
-          "value": "Geïntegreerde melkfunctie",
+          "value": "Geintegreerde melkfunctie",
           "label": "Melk",
           "splash": false,
           "compare": true
         }
-      },
+    ],
       "video": {
         "available": true,
         "poster": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-grande/lifestyle/Lattissima_Grande_1_L.jpg",

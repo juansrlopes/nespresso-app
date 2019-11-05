@@ -169,73 +169,73 @@
           ]
         }
       ],
-      "functionality": {
-        "koffierecepten": {
+      "functionality": [
+        {
           "image": "",
           "value": "8 koffierecepten",
           "label": "",
           "splash": true,
           "compare": false
         },
-        "opgewarmd": {
+        {
           "image": "",
           "value": "In 3 seconden opgewarmd",
           "label": "",
           "splash": true,
           "compare": false
         },
-        "temparaturen": {
+        {
           "image": "",
           "value": "3 melk temparaturen",
           "label": "",
           "splash": true,
           "compare": false
         },
-        "kopjesrooster": {
+        {
           "image": "",
           "value": "Inklapbaar kopjesrooster voor latte macchiato-glazen",
           "label": "",
           "splash": true,
           "compare": false
         },
-        "melkschuim": {
+        {
           "image": "",
           "value": "Automatische melkschuim - 3 texturen",
           "label": "",
           "splash": true,
           "compare": false
         }
-      },
-      "specifications": {
-        "gewicht": {
+    ],
+      "specifications": [
+        {
           "image": "",
           "value": "5.2 Kilogram",
           "label": "Gewicht",
           "splash": true,
           "compare": true
         },
-        "verwijderbaar_waterreservoir": {
+        {
           "image": "",
           "value": "1.5 Liter",
           "label": "Verwijderbaar waterreservoir",
           "splash": true,
           "compare": true
         },
-        "capaciteit_capsules": {
+        {
           "image": "",
           "value": "10 Capsules",
           "label": "Capaciteit van gebruikte capsules",
           "splash": true,
           "compare": false
         },
-        "vermogen": {
+        {
           "image": "",
           "value": "1600 Watt",
           "label": "Vermogen",
           "splash": true,
           "compare": false
         },
-        "afmetingen": {
+        {
           "image": "",
           "value": "17 cm x 30.8 cm x 39.3 cm",
           "value_compare": "17 cm <br />x<br /> 30.8 cm <br />x<br />39.3 cm",
@@ -243,42 +243,35 @@
           "splash": true,
           "compare": true
         },
-        "druk": {
+        {
           "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/druk_bar.svg",
           "value": "19 Bar",
           "label": "Druk",
           "splash": true,
           "compare": true
         },
-        "water": {
+        {
           "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/water_opwarmen.svg",
           "value": "3 Seconden",
           "label": "Warmt water op in slechts",
           "splash": true,
           "compare": true
         },
-        "lengte snoer": {
+        {
           "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/water_opwarmen.svg",
           "value": "1,5 Meter",
           "label": "Lengte snoer",
           "splash": true,
           "compare": true
         },
-        "kopgrootte": {
-          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/kopgrootte_switch.svg",
-          "value": "",
-          "label": "Kopgrootte",
-          "splash": false,
-          "compare": true
-        },
-        "melk": {
+        {
           "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/melk_geintegreerd.svg",
-          "value": "Geïntegreerde melkfunctie",
+          "value": "Geintegreerde melkfunctie",
           "label": "Melk",
           "splash": false,
           "compare": true
         }
-      },
+    ],
       "video": {
         "available": true,
         "poster": "https://dw0w4amzflayh.cloudfront.net/machines/creatista/lifestyle/LS_creatista_1.jpg",

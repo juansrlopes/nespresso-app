@@ -320,102 +320,88 @@
           ]
         }
       ],
-      "functionality": {
-        "kopgrootte": {
+      "functionality": [
+        {
           "image": "",
           "value": "2 programmeerbare knoppen voor kopgrootte",
           "label": "",
           "splash": true,
           "compare": false
         },
-        "gewicht": {
+        {
           "image": "",
           "value": "Compact en licht van gewicht",
           "label": "",
           "splash": true,
           "compare": false
         },
-        "energie": {
+        {
           "image": "",
           "value": "Energie zuinig",
           "label": "",
           "splash": true,
           "compare": false
         },
-        "kopjesrooster": {
+        {
           "image": "",
           "value": "Draaibaar kopjesrooster voor latte macchiato-glazen",
           "label": "",
           "splash": true,
           "compare": false
         },
-        "uitschakeling": {
+        {
           "image": "",
           "value": "Automatische uitschakeling na 9 minuten",
           "label": "",
           "splash": true,
           "compare": false
         }
-      },
-      "specifications": {
-        "gewicht": {
+    ],
+      "specifications": [
+        {
           "image": "",
           "value": "2.3 Kilogram",
           "label": "Gewicht",
           "splash": true,
           "compare": true
         },
-        "verwijderbaar_waterreservoir": {
+        {
           "image": "",
           "value": "0.6 Liter",
           "label": "Verwijderbaar waterreservoir",
           "splash": true,
           "compare": true
         },
-        "capaciteit_capsules": {
+        {
           "image": "",
           "value": "6 Capsules",
           "label": "Capaciteit van gebruikte capsules",
           "splash": true,
           "compare": false
         },
-        "afmetingen": {
+        {
           "image": "",
-          "value": " 8.4 cm x 33.0 cm x 20.4 cm",
+          "value": "8.4 cm x 33.0 cm x 20.4 cm",
           "value_compare": "8.4 cm <br />x<br /> 33.0 cm <br />x<br /> 20.4 cm",
           "label": "Afmetingen (BxDxH)",
           "splash": true,
           "compare": true
         },
-        "druk": {
+        {
           "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/druk_bar.svg",
           "value": "19 Bar",
           "label": "Druk",
           "splash": true,
           "compare": true
         },
-        "water": {
+        {
           "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/water_opwarmen.svg",
           "value": "25 Seconden",
           "label": "Warmt water op in slechts",
           "splash": true,
           "compare": true
-        },
-        "kopgrootte": {
-          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/kopgrootte_espresso_lungo.svg",
-          "value": "",
-          "label": "Kopgrootte",
-          "splash": false,
-          "compare": true
-        },
-        "melk": {
-          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/empty.svg",
-          "value": "",
-          "label": "Melk",
-          "splash": false,
-          "compare": true
         }
-      },
+    ],
       "video": {
         "available": true,
         "poster": "https://dw0w4amzflayh.cloudfront.net/machines/essenza/lifestyle/LS_Essenza_2.jpg",

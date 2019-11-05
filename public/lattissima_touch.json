@@ -240,73 +240,73 @@
           ]
         }
       ],
-      "functionality": {
-        "uitgifte": {
+      "functionality": [
+        {
           "image": "",
           "value": "Handmatige capsule inname en uitgifte",
           "label": "",
           "splash": true,
           "compare": false
         },
-        "schakelaar": {
+        {
           "image": "",
           "value": "Automatische en programmeerbare aan/uit schakelaar",
           "label": "",
           "splash": true,
           "compare": false
         },
-        "kopjesrooster": {
+        {
           "image": "",
           "value": "3 melkopties: Cappuccino, Latte Macchiato en Latte",
           "label": "",
           "splash": true,
           "compare": false
         },
-        "ontkalking": {
+        {
           "image": "",
           "value": "Automatische melding voor ontkalking",
           "label": "",
           "splash": true,
           "compare": false
         },
-        "kopgroottes": {
+        {
           "image": "",
           "value": "Programmeerbare kopgroottes",
           "label": "",
           "splash": true,
           "compare": false
         }
-      },
-      "specifications": {
-        "gewicht": {
+    ],
+      "specifications": [
+        {
           "image": "",
           "value": "5.6 Kilogram",
           "label": "Gewicht",
           "splash": true,
           "compare": true
         },
-        "verwijderbaar_waterreservoir": {
+        {
           "image": "",
           "value": "0.9 Liter",
           "label": "Verwijderbaar waterreservoir",
           "splash": true,
           "compare": true
         },
-        "capaciteit_capsules": {
+        {
           "image": "",
           "value": "9-11 Capsules",
           "label": "Capaciteit van gebruikte capsules",
           "splash": true,
           "compare": false
         },
-        "vermogen": {
+        {
           "image": "",
           "value": "1400 Watt",
           "label": "Vermogen",
           "splash": true,
           "compare": false
         },
-        "afmetingen": {
+        {
           "image": "",
           "value": "16.7 cm x 31.9 cm x 25.3 cm",
           "value_compare": "16.7 cm <br />x<br /> 31.9 cm <br />x<br />25.3 cm",
@@ -314,35 +314,28 @@
           "splash": true,
           "compare": true
         },
-        "druk": {
+        {
           "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/druk_bar.svg",
           "value": "19 Bar",
           "label": "Druk",
           "splash": true,
           "compare": true
         },
-        "water": {
+        {
           "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/water_opwarmen.svg",
           "value": "25 Seconden",
           "label": "Warmt water op in slechts",
           "splash": true,
           "compare": true
         },
-        "kopgrootte": {
-          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/kopgrootte_espresso_lungo.svg",
-          "value": "",
-          "label": "Kopgrootte",
-          "splash": false,
-          "compare": true
-        },
-        "melk": {
+        {
           "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/melk_geintegreerd.svg",
-          "value": "Geïntegreerde melkfunctie",
+          "value": "Geintegreerde melkfunctie",
           "label": "melk",
           "splash": false,
           "compare": true
         }
-      },
+    ],
       "video": {
         "available": false,
         "poster": "https://dw0w4amzflayh.cloudfront.net/machines/lattissima-touch/lifestyle/Lattissima_touch_1_L_facelift.jpg",

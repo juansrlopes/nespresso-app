@@ -208,87 +208,87 @@
           ]
         }
       ],
-      "functionality": {
-        "inname": {
+      "functionality": [
+        {
           "image": "",
           "value": "Automatische capsule inname en uitgifte",
           "label": "",
           "splash": true,
           "compare": false
         },
-        "schakelaar": {
+        {
           "image": "",
           "value": "Automatische en programmeerbare aan/uit schakelaar",
           "label": "",
           "splash": true,
           "compare": false
         },
-        "zuinig": {
+        {
           "image": "",
           "value": "Energie zuinig",
           "label": "",
           "splash": true,
           "compare": false
         },
-        "kopjesrooster": {
+        {
           "image": "",
           "value": "Draaibaar kopjesrooster voor Latte Macchiato-glazen",
           "label": "",
           "splash": true,
           "compare": false
         },
-        "ontkalking": {
+        {
           "image": "",
           "value": "Automatische melding voor ontkalking",
           "label": "",
           "splash": true,
           "compare": false
         },
-        "programmeerbare": {
+        {
           "image": "",
           "value": "Programmeerbare kopgroottes",
           "label": "",
           "splash": true,
           "compare": false
         },
-        "functie": {
+        {
           "image": "",
           "value": "Heet water functie",
           "label": "",
           "splash": true,
           "compare": false
         }
-      },
-      "specifications": {
-        "gewicht": {
+    ],
+      "specifications": [
+        {
           "image": "",
           "value": "4.4 Kilogram",
           "label": "Gewicht",
           "splash": true,
           "compare": true
         },
-        "verwijderbaar_waterreservoir": {
+        {
           "image": "",
           "value": "1.1 Liter",
           "label": "Verwijderbaar waterreservoir",
           "splash": true,
           "compare": true
         },
-        "capaciteit_capsules": {
+        {
           "image": "",
           "value": "11 Capsules",
           "label": "Capaciteit van gebruikte capsules",
           "splash": true,
           "compare": false
         },
-        "vermogen": {
+        {
           "image": "",
           "value": "1600 Watt",
           "label": "Vermogen",
           "splash": true,
           "compare": false
         },
-        "afmetingen": {
+        {
           "image": "",
           "value": "38.1 cm x 22.3 cm x 28.7 cm",
           "value_compare": "38.1 cm <br />x<br /> 22.3 cm <br />x<br />28.7 cm",
@@ -296,35 +296,21 @@
           "splash": true,
           "compare": true
         },
-        "druk": {
+        {
           "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/druk_bar.svg",
           "value": "19 Bar",
           "label": "Druk",
           "splash": true,
           "compare": true
         },
-        "water": {
+        {
           "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/water_opwarmen.svg",
           "value": "25 Seconden",
           "label": "Warmt water op in slechts",
           "splash": true,
           "compare": true
-        },
-        "kopgrootte": {
-          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/kopgrootte_switch.svg",
-          "value": "",
-          "label": "Kopgrootte",
-          "splash": false,
-          "compare": true
-        },
-        "melk": {
-          "image": "https://dw0w4amzflayh.cloudfront.net/resources/icons/empty.svg",
-          "value": "",
-          "label": "Melk",
-          "splash": false,
-          "compare": true
         }
-      },
+    ],
       "video": {
         "available": true,
         "poster": "https://dw0w4amzflayh.cloudfront.net/machines/expert/lifestyle/Expert_1.jpg",
