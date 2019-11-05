@@ -1,4 +1,7 @@
 .machine-about-wrapper{
+    @media screen and (max-width: 600px) {
+        padding: 10px;
+    }
     h3{
         font-size: 21px;
         line-height: 25px;
@@ -32,6 +35,9 @@
             font-weight: 500;
             border-radius: 0;
             transition: all 0.5s;
+            display: flex;
+            justify-content: center;
+            align-items: center;
             &:hover, &.active{
                 background-color: #000;
                 color: #fff;

@@ -11,9 +11,13 @@
     .functionality{
         display: flex;
         margin-top: 20px;
+        flex-wrap: wrap;
         li{
-            width: calc((100% / 4) - 10px);
+            width: calc((100% / 5) - 10px);
             text-align: center;
+            @media screen and (max-width: 600px) {
+                width: calc((100% / 3) - 10px);
+            }
             img{
                 width: 70px;
             }
