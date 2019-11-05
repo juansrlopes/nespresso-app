@@ -15,7 +15,11 @@ export const CoffeeMachineAbout = props => {
             <Container>
                 <div className="machine-about-wrapper">
                     <h3>Meer weten over de {machineName}</h3>
-                    <Tabs defaultActiveKey="specificaties" id="machine-tabs">
+                    <Tabs
+                        defaultActiveKey="specificaties"
+                        id="machine-tabs"
+                        className="machine-tabs-wrapper"
+                    >
                         <Tab eventKey="specificaties" title="Specificaties">
                             <h4>Functionele Specificaties</h4>
                             <CoffeeMachineFuncs funcs={funcs} />
