@@ -8,7 +8,8 @@ import Image from "react-bootstrap/Image";
 import Button from "react-bootstrap/Button";
 import Tabs from "react-bootstrap/Tabs";
 import Tab from "react-bootstrap/Tab";
-import Table from "react-bootstrap/Table";
+import { CoffeeMachineSpecs } from "./coffee-machine-specs/CoffeeMachineSpecs";
+import { CoffeeMachineFuncs } from "./coffee-machine-funcs/CoffeeMachineFuncs";
 import "./CoffeeMachineItem.scss";
 
 export const CoffeeMachineItem = props => {
@@ -106,36 +107,13 @@ export const CoffeeMachineItem = props => {
                         >
                             <Tab eventKey="specificaties" title="Specificaties">
                                 <h4>Functionele Specificaties</h4>
-                                <Table striped hover responsive>
-                                    <tbody>
-                                        {machine.functionality.map(funcItem => {
-                                            return (
-                                                <tr>
-                                                    <td>{funcItem.value}</td>
-                                                </tr>
-                                            );
-                                        })}
-                                    </tbody>
-                                </Table>
+                                <CoffeeMachineFuncs
+                                    funcs={machine.functionality}
+                                />
                                 <h4>Technische Specificaties</h4>
-                                <Table striped hover responsive>
-                                    <tbody>
-                                        {machine.specifications.map(
-                                            specItem => {
-                                                return (
-                                                    <tr>
-                                                        <td>
-                                                            {specItem.label}
-                                                        </td>
-                                                        <td>
-                                                            {specItem.value}
-                                                        </td>
-                                                    </tr>
-                                                );
-                                            }
-                                        )}
-                                    </tbody>
-                                </Table>
+                                <CoffeeMachineSpecs
+                                    specs={machine.specifications}
+                                />
                             </Tab>
                             <Tab eventKey="fotogalerij" title="Fotogalerij">
                                 Fotogalerij
