@@ -31,7 +31,10 @@ export const CoffeeMachineItem = props => {
                     machine.lifestyle[0].machine_lifestyle_main
                 }
             />
-            <CoffeeMachineDetails usp={machineContent.usp} />
+            <CoffeeMachineDetails
+                usp={machineContent.usp}
+                machineName={machineContent.machine_name}
+            />
             <CoffeeMachineAbout
                 machineName={machineContent.machine_name}
                 funcs={machine.functionality}
