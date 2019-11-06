@@ -6,10 +6,11 @@ import Tab from "react-bootstrap/Tab";
 import { CoffeeMachineFuncs } from "./coffee-machine-funcs/CoffeeMachineFuncs";
 import { CoffeeMachineSpecs } from "./coffee-machine-specs/CoffeeMachineSpecs";
 import { CoffeeMachineGallery } from "./coffee-machine-gallery/CoffeeMachineGallery";
+import { CoffeeMachineFaq } from "./coffee-machine-faq/CoffeeMachineFaq";
 import "./CoffeeMachineAbout.scss";
 
 export const CoffeeMachineAbout = props => {
-    const { funcs, specs, machineGallery, machineName } = props;
+    const { funcs, specs, machineGallery, machineName, machineFaq } = props;
 
     return (
         <Row id="machine-about">
@@ -36,7 +37,7 @@ export const CoffeeMachineAbout = props => {
                             eventKey="veelgesteldeVragen"
                             title="Veelgestelde Vragen"
                         >
-                            Veelgestelde Vragen
+                            <CoffeeMachineFaq machineFaq={machineFaq} />
                         </Tab>
                     </Tabs>
                 </div>
