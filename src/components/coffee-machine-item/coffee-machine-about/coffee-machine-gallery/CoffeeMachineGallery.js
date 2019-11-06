@@ -16,7 +16,6 @@ export const CoffeeMachineGallery = props => {
             activeIndex={index}
             direction={direction}
             onSelect={handleSelect}
-            fade={true}
             interval={7000}
             className="gallery-carousel"
         >
