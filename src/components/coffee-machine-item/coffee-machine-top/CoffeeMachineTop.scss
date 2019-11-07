@@ -39,5 +39,67 @@
                 color: #986f38;
             }
         }
+        .machine-extra-features{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            img{
+                width: 35px;
+                margin-right: 10px;
+            }
+            p{
+                margin: 0;
+                font-weight: 700;
+                font-size: 12px;
+                letter-spacing: 1px;
+                line-height: 18px;
+                text-transform: uppercase;
+                color: #000;
+            }
+        }
+        &.machine-main-tab{
+            .machine-main-tab-col{
+                padding: 0;
+                .machine-main-card{
+                    min-height: 205px;
+                    border: none;
+                    text-align: center;
+                    &.aanbieding-card{
+                        .card-body{
+                            border-left: 1px solid rgba(0,0,0,.08);
+                        }
+                    }
+                    .card-header{
+                        margin: 0;
+                        font-weight: 700;
+                        font-size: 12px;
+                        letter-spacing: 1px;
+                        line-height: 18px;
+                        text-transform: uppercase;
+                        color: #000;
+                        border: none;
+                    }
+                }
+                .card-body{
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: space-between;
+                    .card-title{
+                        color: #a28437;
+                        font-size: 28px;
+                        font-weight: 400;
+                        letter-spacing: 1px;
+                        line-height: 17px;
+                    }
+                    p{
+                        font-size: 14px;
+                    }
+                    button{
+                        width: 50%;
+                        margin: 0 auto;
+                    }
+                }
+            }
+        }
     }
 }

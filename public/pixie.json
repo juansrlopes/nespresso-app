@@ -13,6 +13,20 @@
           "min": 100
         }
       },
+      "nespresso_usp": [
+        {
+          "icon_url": "https://d2hvawivov3jmc.cloudfront.net/img/services/nes_service_24h.svg",
+          "icon_description": "Morgen in huis"
+        },
+        {
+          "icon_url": "https://d2hvawivov3jmc.cloudfront.net/img/services/nes_service_delivery.svg",
+          "icon_description": "Gratis bezorging"
+        },
+        {
+          "icon_url": "https://d2hvawivov3jmc.cloudfront.net/img/services/nes_service_machine.svg",
+          "icon_description": "Gratis 2 jaar machine garantie"
+        }
+      ],
       "lifestyle": [
         {
           "machine_lifestyle_main": "https://dw0w4amzflayh.cloudfront.net/machines/pixie/lifestyle/Pixie_1_L.jpg",
