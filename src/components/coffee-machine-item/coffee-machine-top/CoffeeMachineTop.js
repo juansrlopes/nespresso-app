@@ -98,7 +98,11 @@ export const CoffeeMachineTop = props => {
                         </Card>
                     </Col>
                     <Col md={6} className="machine-main-tab-col">
-                        <Card className="machine-main-card aanbieding-card">
+                        <Card
+                            className={`machine-main-card aanbieding-card ${
+                                shoppingArea ? "aanbieding-card-active" : ""
+                            }`}
+                        >
                             <Card.Header>Machine Aanbieding</Card.Header>
                             <Card.Body>
                                 <Card.Title>&euro;{machinePrice}</Card.Title>
@@ -122,7 +126,7 @@ export const CoffeeMachineTop = props => {
                         <Button
                             variant="outline-secondary"
                             size="sm"
-                            style={{ float: "right" }}
+                            style={{ float: "right", marginTop: "20px" }}
                             onClick={closeShoppingArea}
                         >
                             Sluiten
