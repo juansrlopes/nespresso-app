@@ -98,13 +98,13 @@ export const CoffeeMachineTop = props => {
                         </Card>
                     </Col>
                     <Col md={6} className="machine-main-tab-col">
-                        <Card
-                            className={`machine-main-card aanbieding-card ${
-                                shoppingArea ? "aanbieding-card-active" : ""
-                            }`}
-                        >
+                        <Card className="machine-main-card aanbieding-card">
                             <Card.Header>Machine Aanbieding</Card.Header>
-                            <Card.Body>
+                            <Card.Body
+                                className={`${
+                                    shoppingArea ? "aanbieding-card-active" : ""
+                                }`}
+                            >
                                 <Card.Title>&euro;{machinePrice}</Card.Title>
                                 <Card.Text>
                                     Bij aanschaf van minimaal 200 capsules
