@@ -11,14 +11,15 @@ import "./CoffeeMachineTop.scss";
 
 export const CoffeeMachineTop = props => {
     const [showPurchaseMessage, setShowPurchaseMessage] = useState(false);
-    const [shoppingArea, setshoppingArea] = useState(false);
+    const [shoppingArea, setshoppingArea] = useState(true);
     const {
         thumbUrl,
         machineName,
         machineSubline,
         machineDescription,
         machineTopUsp,
-        machinePrice
+        machinePrice,
+        machineColors
     } = props;
 
     const purchasedMachine = () => {
@@ -133,7 +134,68 @@ export const CoffeeMachineTop = props => {
                         </Button>
                         <Row>
                             <Col md={8} className="shopping-inner">
-                                Shopping
+                                <h3>
+                                    <span className="stepUp">Stap 1</span> Uw
+                                    machinekeuze
+                                </h3>
+                                <Row className="product-choice step1">
+                                    <Col md={6} className="choices-box">
+                                        <div className="choice-box-wrapper choice-box-machine">
+                                            <Image
+                                                className="choice-box-main-image"
+                                                src={thumbUrl}
+                                            />
+                                            <p className="product-name">
+                                                {machineName}
+                                            </p>
+                                            <p className="product-price">
+                                                &euro;{machinePrice}
+                                            </p>
+                                        </div>
+                                    </Col>
+                                    <Col md={6} className="choices-box">
+                                        <div className="choice-box-wrapper choice-box-color">
+                                            <h4>Selecteer uw kleur</h4>
+                                            <ul>
+                                                {machineColors.map(
+                                                    machineColorItem => {
+                                                        return (
+                                                            <li
+                                                                key={
+                                                                    machineColorItem.color_id
+                                                                }
+                                                                onClick={() => {
+                                                                    console.log(
+                                                                        "Clicked Li : ",
+                                                                        machineColorItem
+                                                                    );
+                                                                }}
+                                                            >
+                                                                <Image
+                                                                    src={
+                                                                        machineColorItem.color_dash
+                                                                    }
+                                                                    className="choice-box-color-dash"
+                                                                />
+                                                                <span className="choice-box-color-desc">
+                                                                    {
+                                                                        machineColorItem.color_desc
+                                                                    }
+                                                                </span>
+                                                            </li>
+                                                        );
+                                                    }
+                                                )}
+                                            </ul>
+                                        </div>
+                                    </Col>
+                                </Row>
+                                <Row className="product-choice step2">
+                                    Coffee choice
+                                </Row>
+                                <Row className="product-choice step3">
+                                    Accessories choice
+                                </Row>
                             </Col>
                             <Col md={4} className="shopping-cart">
                                 Cart

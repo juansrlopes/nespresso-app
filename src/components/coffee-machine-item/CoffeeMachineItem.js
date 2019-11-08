@@ -9,6 +9,7 @@ import "./CoffeeMachineItem.scss";
 export const CoffeeMachineItem = props => {
     const { machine } = props;
     const machineContent = machine.content[0];
+    const machineColors = machine.content[0].machine_colors;
     const machineTopUsp = machine.nespresso_usp;
     const lifestyleImages = machine.lifestyle[0].machine_lifestylevisual;
     const machineGallery = machine.content[0].machine_gallery;
@@ -26,6 +27,7 @@ export const CoffeeMachineItem = props => {
                 machineDescription={machineContent.machine_description_full}
                 machineTopUsp={machineTopUsp}
                 machinePrice={machineContent.nesOAMachine_price}
+                machineColors={machineColors}
             />
             <CoffeeMachineLifestyle
                 lifestyleImages={lifestyleImages}

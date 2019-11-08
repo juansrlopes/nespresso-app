@@ -108,4 +108,61 @@
 }
 .machine-shopping-wrapper{
     background-color: rgba(0,0,0,.03);
+    padding: 40px 0;
+    .shopping-inner{
+        .product-choice{
+            .choices-box{
+                .choice-box-wrapper{
+                    background-color: #fff;
+                    padding: 20px;
+                    height: 355px;
+                    margin-top: 20px;
+                    &.choice-box-machine{
+                        text-align: center;
+                        .choice-box-main-image{
+                            max-width: 150px;
+                            display: block;
+                            margin: auto;
+                        }
+                        .product-name{
+                            text-transform: uppercase;
+                            letter-spacing: 1px;
+                            margin-top: 20px;
+                        }
+                        .product-price{
+                            color: #a28437;
+                            font-size: 28px;
+                            font-weight: 400;
+                            letter-spacing: 1px;
+                            line-height: 17px;
+                        }
+                    }
+                    &.choice-box-color{
+                        h4{
+                            font-weight: 700;
+                            font-size: 12px;
+                            letter-spacing: 1px;
+                            line-height: 18px;
+                            text-transform: uppercase;
+                        }
+                        ul{
+                            padding: 0;
+                            margin-top: 20px;
+                            li{
+                                margin-bottom: 10px;
+                                cursor: pointer;
+                                .choice-box-color-dash{
+                                    border-radius: 50%;
+                                    width: 35px;
+                                    margin-right: 20px;
+                                    border: 1px solid #ccc;
+                                    box-shadow: 0 2px 2px 0 rgba(0,0,0,.6);
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
 }
