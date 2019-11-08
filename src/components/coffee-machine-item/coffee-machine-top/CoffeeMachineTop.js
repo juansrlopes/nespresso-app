@@ -127,7 +127,7 @@ export const CoffeeMachineTop = props => {
                         <Button
                             variant="outline-secondary"
                             size="sm"
-                            style={{ float: "right", marginTop: "20px" }}
+                            style={{ float: "right" }}
                             onClick={closeShoppingArea}
                         >
                             Sluiten
