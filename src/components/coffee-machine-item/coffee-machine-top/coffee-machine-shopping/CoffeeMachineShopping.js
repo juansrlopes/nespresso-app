@@ -113,14 +113,21 @@ export const CoffeeMachineShopping = props => {
                                 </div>
                             </Col>
                         </Row>
+                        <h3>
+                            <span className="stepUp">Stap 2</span> Kies Uw
+                            Koffieassortiment
+                        </h3>
                         <Row className="product-choice step2">
                             {resultArray.map(coffeeBoxitem => {
                                 return (
                                     <Col
                                         md={12 / resultArray.length}
                                         className="choices-box"
+                                        key={coffeeBoxitem.sku}
                                     >
-                                        <div>{coffeeBoxitem.name}</div>
+                                        <div className="choice-box-wrapper choice-box-color">
+                                            <div>{coffeeBoxitem.name}</div>
+                                        </div>
                                     </Col>
                                 );
                             })}
