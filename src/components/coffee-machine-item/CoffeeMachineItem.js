@@ -7,14 +7,14 @@ import { CoffeeMachineAbout } from "./coffee-machine-about/CoffeeMachineAbout";
 import "./CoffeeMachineItem.scss";
 
 export const CoffeeMachineItem = props => {
-    const { machine } = props;
+    const { machine, coffee } = props;
     const machineContent = machine.content[0];
     const machineColors = machine.content[0].machine_colors;
     const machineTopUsp = machine.nespresso_usp;
     const lifestyleImages = machine.lifestyle[0].machine_lifestylevisual;
     const machineGallery = machine.content[0].machine_gallery;
     const machineFaq = machine.faq;
-
+    const machineCoffeeIds = machine.machineclass.boer.id;
     return (
         <>
             <Helmet>
@@ -28,6 +28,8 @@ export const CoffeeMachineItem = props => {
                 machineTopUsp={machineTopUsp}
                 machinePrice={machineContent.nesOAMachine_price}
                 machineColors={machineColors}
+                coffee={coffee}
+                machineCoffeeIds={machineCoffeeIds}
             />
             <CoffeeMachineLifestyle
                 lifestyleImages={lifestyleImages}

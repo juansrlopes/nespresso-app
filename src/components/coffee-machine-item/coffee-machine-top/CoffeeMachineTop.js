@@ -20,7 +20,9 @@ export const CoffeeMachineTop = props => {
         machineDescription,
         machineTopUsp,
         machinePrice,
-        machineColors
+        machineColors,
+        coffee,
+        machineCoffeeIds
     } = props;
 
     const purchasedMachine = () => {
@@ -129,6 +131,8 @@ export const CoffeeMachineTop = props => {
                     thumbUrl={thumbUrl}
                     machineName={machineName}
                     machinePrice={machinePrice}
+                    coffee={coffee}
+                    machineCoffeeIds={machineCoffeeIds}
                 />
             )}
         </>

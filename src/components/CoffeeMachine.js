@@ -6,14 +6,18 @@ import { CoffeeMachineItem } from "./coffee-machine-item/CoffeeMachineItem";
 export const CoffeeMachine = () => {
     let { coffeeSlug } = useParams();
     const [machine, setMachine] = useState({});
+    const [coffee, setCoffee] = useState({});
     const [noData, setNoData] = useState(true);
 
     useEffect(() => {
         const dataUrl = `http://localhost:3000/${coffeeSlug}.json`;
+        const coffeeDataUrl = `http://localhost:3000/coffee.json`;
         const fetchData = async () => {
             try {
                 const result = await axios(dataUrl);
+                const coffeeResult = await axios(coffeeDataUrl);
                 setMachine(result.data.machine);
+                setCoffee(coffeeResult.data.coffee);
                 setNoData(false);
             } catch (error) {
                 setNoData(true);
@@ -27,7 +31,7 @@ export const CoffeeMachine = () => {
             {noData ? (
                 <div>No coffee yet...</div>
             ) : (
-                <CoffeeMachineItem machine={machine} />
+                <CoffeeMachineItem machine={machine} coffee={coffee} />
             )}
         </>
     );

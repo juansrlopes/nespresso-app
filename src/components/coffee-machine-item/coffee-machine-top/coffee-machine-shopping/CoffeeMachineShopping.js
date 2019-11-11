@@ -6,16 +6,31 @@ import Image from "react-bootstrap/Image";
 import Button from "react-bootstrap/Button";
 
 export const CoffeeMachineShopping = props => {
-    const { machineColors, machineName, machinePrice } = props;
+    const {
+        machineColors,
+        machineName,
+        machinePrice,
+        coffee,
+        machineCoffeeIds
+    } = props;
     const [currentColorMachine, setCurrentColorMachine] = useState(
         machineColors[0]
     );
     const [currentIndex, setCurrentIndex] = useState(0);
     const functionSetCurrentMachine = (machineColorItem, index) => {
-        console.log(" Params function : ", machineColorItem, index);
         setCurrentColorMachine(machineColorItem);
         setCurrentIndex(index);
     };
+    let resultArray = [];
+    coffee.category.boxes.map(coffeeBoxItem => {
+        machineCoffeeIds.map(machineCoffeeIdsItem => {
+            if (coffeeBoxItem.sku === machineCoffeeIdsItem) {
+                resultArray.push(coffeeBoxItem);
+            }
+            return true;
+        });
+        return true;
+    });
     return (
         <Row className="machine-shopping-wrapper">
             <Container>
@@ -99,7 +114,16 @@ export const CoffeeMachineShopping = props => {
                             </Col>
                         </Row>
                         <Row className="product-choice step2">
-                            Coffee choice
+                            {resultArray.map(coffeeBoxitem => {
+                                return (
+                                    <Col
+                                        md={12 / resultArray.length}
+                                        className="choices-box"
+                                    >
+                                        <div>{coffeeBoxitem.name}</div>
+                                    </Col>
+                                );
+                            })}
                         </Row>
                         <Row className="product-choice step3">
                             Accessories choice

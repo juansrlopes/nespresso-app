@@ -1,0 +1,2517 @@
+{ 
+    "coffee":{ 
+       "category":{ 
+          "boxes":[ 
+             { 
+                "sku":"109436",
+                "inStock":true,
+                "campaign":false,
+                "name":"Creatista pakket Favorites",
+                "name_prospect":"Creatista pakket Favorites",
+                "name_renewal":"Creatista pakket Favorites",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/2018/300+capsules/300_one_pack.png",
+                "show":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/2018/300+capsules/300_one_pack.png",
+                "description":"Ontdek alle favorieten van de Nespresso koffies met dit assortiment van 300 capsules. Je kunt genieten van 300 kopjes koffie die variëren van mild tot intens.",
+                "coffee_description_full":"Ontdek alle favorieten van de Nespresso koffies met dit assortiment van 300 capsules. Je kunt genieten van 300 kopjes koffie die variëren van mild tot intens.",
+                "price":122.70,
+                "price_sleeve":122.70,
+                "unit_pricing_measure":"",
+                "unit_pricing_base_measure":"",
+                "discount":100,
+                "qnt":1,
+                "model":"bundle",
+                "more_info_link":"",
+                "quantity":"300 Kopjes koffie",
+                "content":[ 
+                   { 
+                      "amount":20,
+                      "id":7654.20
+                   },
+                   { 
+                      "amount":20,
+                      "id":7834.20
+                   },
+                   { 
+                      "amount":20,
+                      "id":7622.20
+                   },
+                   { 
+                      "amount":20,
+                      "id":7810.20
+                   },
+                   { 
+                      "amount":20,
+                      "id":7704.20
+                   },
+                   { 
+                      "amount":20,
+                      "id":7691.20
+                   },
+                   { 
+                      "amount":20,
+                      "id":7439.20
+                   },
+                   { 
+                      "amount":20,
+                      "id":7692.20
+                   },
+                   { 
+                      "amount":20,
+                      "id":7435.20
+                   },
+                   { 
+                      "amount":20,
+                      "id":7694.20
+                   },
+                   { 
+                      "amount":20,
+                      "id":7695.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7712.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7715.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7713.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7714.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7711.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7697.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7702.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7645.20
+                   }
+                ],
+                "details":[ 
+                   "- 20x Envivo Lungo",
+                   "- 20x Fortissio Lungo",
+                   "- 20x Linizio Lungo",
+                   "- 20x Vivalto Lungo",
+                   "- 20x Ristretto",
+                   "- 20x Arpeggio",
+                   "- 20x Roma",
+                   "- 20x Livanto",
+                   "- 20x Volluto",
+                   "- 20x Kazaar",
+                   "- 20x Dharkan",
+                   "- 10x Master origin India",
+                   "- 10x Master origin Colombia",
+                   "- 10x Master origin Nicaragua",
+                   "- 10x Master origin Ethiopia",
+                   "- 10x Master origin Indonesia",
+                   "- 10x Arpeggio Decaffeinato",
+                   "- 10x Ristretto Decaffeinato",
+                   "- 10x Volluto Decaffeinato"
+                ],
+                "is_bundle":"yes",
+                "product_quantity":300,
+                "ean":"-",
+                "product_group":"BTOC",
+                "product_type":"capsule_pakket"
+             },
+             { 
+                "sku":"109437",
+                "inStock":true,
+                "google":true,
+                "campaign":false,
+                "name":"Creatista pakket Discovery",
+                "name_prospect":"Creatista pakket Discovery",
+                "name_renewal":"Creatista pakket Discovery",
+                "slug":"assortiment",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/2018/300+capsules/300_two_pack.png",
+                "show":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/2018/300+capsules/300_two_pack.png",
+                "description":"Ontdek de rijkheid van de Nespresso koffies met dit assortiment van 300 capsules. Je kunt genieten van 300 kopjes koffie die variëren van mild tot intens.",
+                "coffee_description_full":"Ontdek de rijkheid van de Nespresso koffies met dit assortiment van 300 capsules. Je kunt genieten van 300 kopjes koffie die variëren van mild tot intens.",
+                "price":125,
+                "price_sleeve":125,
+                "unit_pricing_measure":"",
+                "unit_pricing_base_measure":"",
+                "discount":100,
+                "qnt":1,
+                "model":"bundle",
+                "more_info_link":"",
+                "quantity":"300 Kopjes koffie",
+                "content":[ 
+                   { 
+                      "amount":10,
+                      "id":7413.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7642.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7654.20
+                   },
+                   { 
+                      "amount":20,
+                      "id":7834.20
+                   },
+                   { 
+                      "amount":20,
+                      "id":7622.20
+                   },
+                   { 
+                      "amount":20,
+                      "id":7810.20
+                   },
+                   { 
+                      "amount":20,
+                      "id":7704.20
+                   },
+                   { 
+                      "amount":20,
+                      "id":7691.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7439.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7692.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7435.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7694.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7695.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7711.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7712.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7714.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7715.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7713.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7628.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7699.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7700.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7698.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7697.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7645.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7702.20
+                   }
+                ],
+                "details":[ 
+                   "- 10x Capriccio",
+                   "- 10x Cosi",
+                   "- 10x Envivo Lungo",
+                   "- 20x Fortissio Lungo",
+                   "- 20x Linizio Lungo",
+                   "- 20x Vivalto Lungo",
+                   "- 20x Ristretto",
+                   "- 20x Arpeggio",
+                   "- 10x Roma",
+                   "- 10x Livanto",
+                   "- 10x Volluto",
+                   "- 10x Kazaar",
+                   "- 10x Dharkan",
+                   "- 10x Master origin Indonesia",
+                   "- 10x Master origin India",
+                   "- 10x Master origin Colombia",
+                   "- 10x Master origin Nicaragua",
+                   "- 10x Master origin Ethiopia",
+                   "- 10x Caramelito",
+                   "- 10x Ciocattino",
+                   "- 10x Vanillio",
+                   "- 10x Arpeggio Decaffeinato",
+                   "- 10x Volluto Decaffeinato",
+                   "- 10x Ristretto Decaffeinato"
+                ],
+                "is_bundle":"yes",
+                "product_quantity":200,
+                "ean":"-",
+                "product_group":"BTOC",
+                "product_type":"capsule_pakket"
+             },
+             { 
+                "sku":"103549",
+                "inStock":false,
+                "google":true,
+                "campaign":false,
+                "name":"Lungo assortiment",
+                "name_prospect":"Lungo assortiment",
+                "name_renewal":"Lungo assortiment",
+                "slug":"assortiment",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/2018/50+capsules/sleeve_lungo_50_capsules.png",
+                "show":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/2018/50+capsules/sleeve_lungo_50_capsules.png",
+                "description":"Ontdek de rijkheid van de <strong>Nespresso</strong> koffies met dit assortiment van 50 capsules. U kunt genieten van 50 kopjes koffie met een mild karakter.",
+                "coffee_description_full":"Ontdek de rijkheid van de <strong>Nespresso</strong> koffies met dit assortiment van 50 capsules. U kunt genieten van 50 kopjes koffie met een mild karakter.",
+                "price":20.70,
+                "price_sleeve":20.70,
+                "unit_pricing_measure":"",
+                "unit_pricing_base_measure":"",
+                "discount":4.7,
+                "qnt":1,
+                "model":"bundle",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/envivo-lungo-assortment",
+                "quantity":"50 Kopjes koffie",
+                "content":[ 
+                   { 
+                      "amount":10,
+                      "id":7654.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7834.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7622.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7810.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7646.20
+                   }
+                ],
+                "details":[ 
+                   "- 10x Envivo Lungo",
+                   "- 10x Fortissio Lungo",
+                   "- 10x Linizio Lungo",
+                   "- 10x Vivalto Lungo",
+                   "- 10x Vivalto Lungo Decaffeinato"
+                ],
+                "is_bundle":"yes",
+                "product_quantity":50,
+                "ean":"7630039641283",
+                "product_group":"BTOC",
+                "product_type":"capsule_pakket"
+             },
+             { 
+                "sku":"107360",
+                "inStock":false,
+                "google":true,
+                "campaign":false,
+                "name":"Ontdekkingspakket",
+                "name_prospect":"Ontdekkingspakket",
+                "name_renewal":"Ontdekkingspakket",
+                "slug":"assortiment",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/2018/200+capsules/Sleeves_discovery_200PCK.png",
+                "show":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/2018/200+capsules/Sleeves_discovery_200PCK.png",
+                "description":"Ontdek de rijkheid van de <strong>Nespresso</strong> koffies met dit assortiment van 200 capsules. Je kunt genieten van 200 kopjes koffie die variëren van mild tot intens.",
+                "coffee_description_full":"Ontdek de rijkheid van de <strong>Nespresso</strong> koffies met dit assortiment van 200 capsules. Je kunt genieten van 200 kopjes koffie die variëren van mild tot intens.",
+                "price":83.50,
+                "price_sleeve":83.50,
+                "unit_pricing_measure":"",
+                "unit_pricing_base_measure":"",
+                "discount":70,
+                "qnt":1,
+                "model":"bundle",
+                "more_info_link":"",
+                "quantity":"200 Kopjes koffie",
+                "content":[ 
+                   { 
+                      "amount":10,
+                      "id":7654.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7834.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7622.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7810.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7704.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7691.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7439.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7692.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7435.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7694.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7695.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7712.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7715.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7713.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7628.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7698.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7697.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7645.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7702.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7646.20
+                   }
+                ],
+                "details":[ 
+                   "- 10x Envivo Lungo",
+                   "- 10x Fortissio Lungo",
+                   "- 10x Linizio Lungo",
+                   "- 10x Vivalto Lungo",
+                   "- 10x Ristretto",
+                   "- 10x Arpeggio",
+                   "- 10x Roma",
+                   "- 10x Livanto",
+                   "- 10x Volluto",
+                   "- 10x Kazaar",
+                   "- 10x Dharkan",
+                   "- 10x Master origin India",
+                   "- 10x Master origin Colombia",
+                   "- 10x Master origin Nicaragua",
+                   "- 10x Caramelito",
+                   "- 10x Vanillio",
+                   "- 10x Arpeggio Decaffeinato",
+                   "- 10x Volluto Decaffeinato",
+                   "- 10x Ristretto Decaffeinato",
+                   "- 10x Vivalto Lungo Decaffeinato"
+                ],
+                "is_bundle":"yes",
+                "product_quantity":200,
+                "ean":"-",
+                "product_group":"BTOC",
+                "product_type":"capsule_pakket"
+             },
+             { 
+                "sku":"107361",
+                "inStock":false,
+                "google":true,
+                "campaign":false,
+                "name":"Intens Pakket",
+                "name_prospect":"Intens Pakket",
+                "name_renewal":"Intens Pakket",
+                "slug":"assortiment",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/2018/200+capsules/Sleeves_intense_200PCK.png",
+                "show":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/2018/200+capsules/Sleeves_intense_200PCK.png",
+                "description":"Ontdek de rijkheid van de <strong>Nespresso</strong> koffies met dit assortiment van 200 capsules. Je kunt genieten van 200 kopjes koffie met een hogere intensiteit.",
+                "coffee_description_full":"Ontdek de rijkheid van de <strong>Nespresso</strong> koffies met dit assortiment van 200 capsules. Je kunt genieten van 200 kopjes koffie met een hogere intensiteit.",
+                "price":82.30,
+                "price_sleeve":82.30,
+                "unit_pricing_measure":"",
+                "unit_pricing_base_measure":"",
+                "discount":70,
+                "qnt":1,
+                "model":"bundle",
+                "more_info_link":"",
+                "quantity":"200 Kopjes koffie",
+                "content":[ 
+                   { 
+                      "amount":20,
+                      "id":7654.20
+                   },
+                   { 
+                      "amount":20,
+                      "id":7834.20
+                   },
+                   { 
+                      "amount":20,
+                      "id":7704.20
+                   },
+                   { 
+                      "amount":20,
+                      "id":7691.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7439.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7692.20
+                   },
+                   { 
+                      "amount":20,
+                      "id":7694.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7695.20
+                   },
+                   { 
+                      "amount":20,
+                      "id":7712.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7715.20
+                   },
+                   { 
+                      "amount":20,
+                      "id":7713.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7697.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7702.20
+                   }
+                ],
+                "details":[ 
+                   "- 20x Envivo Lungo",
+                   "- 20x Fortissio Lungo",
+                   "- 20x Ristretto",
+                   "- 20x Arpeggio",
+                   "- 10x Roma",
+                   "- 10x Livanto",
+                   "- 20x Kazaar",
+                   "- 10x Dharkan",
+                   "- 20x Master origin India",
+                   "- 10x Master origin Colombia",
+                   "- 20x Master origin Nicaragua",
+                   "- 10x Arpeggio Decaffeinato",
+                   "- 10x Ristretto Decaffeinato"
+                ],
+                "is_bundle":"yes",
+                "product_quantity":200,
+                "ean":"-",
+                "product_group":"BTOC",
+                "product_type":"capsule_pakket"
+             },
+             { 
+                "sku":"103552",
+                "inStock":false,
+                "google":true,
+                "campaign":false,
+                "name":"Melk assortiment",
+                "name_prospect":"Melk assortiment",
+                "name_renewal":"Melk assortiment",
+                "slug":"assortiment",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/50/14890_NES_Sleeves_Melkpakket_Normaal_50PCK_Piramid_01.png",
+                "show":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/50/14890_NES_Sleeves_Melkpakket_Normaal_50PCK_Piramid_01.png",
+                "description":"Ontdek de rijkheid van de <strong>Nespresso</strong> koffies met dit assortiment van 50 capsules. U kunt genieten van 50 kopjes koffie met een mild karakter.",
+                "coffee_description_full":"Ontdek de rijkheid van de <strong>Nespresso</strong> koffies met dit assortiment van 50 capsules. U kunt genieten van 50 kopjes koffie met een mild karakter.",
+                "price":19.90,
+                "price_sleeve":19.90,
+                "unit_pricing_measure":"",
+                "unit_pricing_base_measure":"",
+                "discount":null,
+                "qnt":1,
+                "model":"bundle",
+                "more_info_link":"",
+                "quantity":"50 Kopjes koffie",
+                "content":[ 
+                   { 
+                      "amount":10,
+                      "id":7413.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7435.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7439.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7622.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7654.20
+                   }
+                ],
+                "details":[ 
+                   "- 10x Capriccio",
+                   "- 10x Volluto",
+                   "- 10x Roma",
+                   "- 10x Linizio Lungo",
+                   "- 10x Envivo Lungo"
+                ],
+                "is_bundle":"yes",
+                "product_quantity":50,
+                "ean":"-",
+                "product_group":"BTOC",
+                "product_type":"capsule_pakket"
+             },
+             { 
+                "sku":"103552",
+                "inStock":false,
+                "google":true,
+                "campaign":true,
+                "name":"Melk assortiment",
+                "name_prospect":"Melk assortiment",
+                "name_renewal":"Melk assortiment",
+                "slug":"assortiment",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/50/14890_NES_Sleeves_Melkpakket_Normaal_50PCK_Piramid_01.png",
+                "show":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/50/14890_NES_Sleeves_Melkpakket_Normaal_50PCK_Piramid_01.png",
+                "description":"Ontdek de rijkheid van de <strong>Nespresso</strong> koffies met dit assortiment van 50 capsules. U kunt genieten van 50 kopjes koffie met een mild karakter.",
+                "coffee_description_full":"Ontdek de rijkheid van de <strong>Nespresso</strong> koffies met dit assortiment van 50 capsules. U kunt genieten van 50 kopjes koffie met een mild karakter.",
+                "price":19.90,
+                "price_sleeve":19.90,
+                "unit_pricing_measure":"",
+                "unit_pricing_base_measure":"",
+                "discount":5,
+                "qnt":1,
+                "model":"bundle",
+                "more_info_link":"",
+                "quantity":"50 Kopjes koffie",
+                "content":[ 
+                   { 
+                      "amount":10,
+                      "id":7413.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7435.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7439.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7622.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7654.20
+                   }
+                ],
+                "details":[ 
+                   "- 10x Capriccio",
+                   "- 10x Volluto",
+                   "- 10x Roma",
+                   "- 10x Linizio Lungo",
+                   "- 10x Envivo Lungo"
+                ],
+                "is_bundle":"yes",
+                "product_quantity":50,
+                "ean":"-",
+                "product_group":"BTOC",
+                "product_type":"capsule_pakket"
+             },
+             { 
+                "sku":"105835",
+                "inStock":true,
+                "google":true,
+                "campaign":true,
+                "name":"Ontdekkings assortiment",
+                "name_prospect":"Ontdekkings assortiment",
+                "name_renewal":"Ontdekkings assortiment",
+                "slug":"assortiment",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/100/14890_1506_NES_B2C_Sleeves_DISCOVERY_MO_10_PACK.png",
+                "show":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/100/14890_1506_NES_B2C_Sleeves_DISCOVERY_MO_10_PACK.png",
+                "description":"Ontdek de rijkheid van de Nespresso Grand Cru koffies met dit assortiment van 100 capsules. U kunt genieten van 100 kopjes koffie die variëren van mild tot intens.",
+                "coffee_description_full":"Ontdek de rijkheid van de Nespresso Grand Cru koffies met dit assortiment van 100 capsules. U kunt genieten van 100 kopjes koffie die variëren van mild tot intens.",
+                "price":41.90,
+                "price_sleeve":41.90,
+                "unit_pricing_measure":"",
+                "unit_pricing_base_measure":"",
+                "discount":30,
+                "qnt":1,
+                "model":"bundle",
+                "more_info_link":"",
+                "quantity":"100 Kopjes koffie",
+                "content":[ 
+                   { 
+                      "amount":10,
+                      "id":7622.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7646.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7691.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7692.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7699.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7702.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7704.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7711.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7715.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7834.20
+                   }
+                ],
+                "details":[ 
+                   "- 10x Linizio Lungo",
+                   "- 10x Vivalto Lungo decaffeinato",
+                   "- 10x Arpeggio",
+                   "- 10x Livanto",
+                   "- 10x Caramelito",
+                   "- 10x Ristretto Decaffeinato",
+                   "- 10x Ristretto",
+                   "- 10x Master Orgin Indonesia",
+                   "- 10x Master Orgin Colombia",
+                   "- 10x Fortissio Lungo"
+                ],
+                "is_bundle":"yes",
+                "product_quantity":100,
+                "ean":"7630030364754",
+                "product_group":"BTOC",
+                "product_type":"capsule_pakket"
+             },
+             { 
+                "sku":"105833",
+                "inStock":true,
+                "google":true,
+                "campaign":true,
+                "name":"Intens pakket",
+                "name_prospect":"Intens pakket",
+                "name_renewal":"Intens pakket",
+                "slug":"assortiment",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/100/14890_1506_NES_B2C_Sleeves_INTENS_MO_10_PACK.png",
+                "show":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/100/14890_1506_NES_B2C_Sleeves_INTENS_MO_10_PACK.png",
+                "description":"Ontdek de rijkheid van de Nespresso Grand Cru koffies met dit assortiment van 100 capsules. U kunt genieten van 100 kopjes koffie met een hogere intensiteit.",
+                "coffee_description_full":"Ontdek de rijkheid van de Nespresso Grand Cru koffies met dit assortiment van 100 capsules. U kunt genieten van 100 kopjes koffie met een hogere intensiteit.",
+                "price":40.50,
+                "price_sleeve":40.50,
+                "unit_pricing_measure":"",
+                "unit_pricing_base_measure":"",
+                "discount":30,
+                "qnt":1,
+                "model":"bundle",
+                "more_info_link":"",
+                "quantity":"100 Kopjes koffie",
+                "content":[ 
+                   { 
+                      "amount":10,
+                      "id":7439.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7654.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7691.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7692.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7694.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7695.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7697.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7704.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7712.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7834.20
+                   }
+                ],
+                "details":[ 
+                   "- 10x Roma",
+                   "- 10x Envivo Lungo",
+                   "- 10x Arpeggio",
+                   "- 10x Livanto",
+                   "- 10x Kazaar",
+                   "- 10x dharkan",
+                   "- 10x Arpeggio Decaffeinato",
+                   "- 10x ristretto",
+                   "- 10x Master Origin India",
+                   "- 10x fortissio lungo"
+                ],
+                "is_bundle":"yes",
+                "product_quantity":100,
+                "ean":"-",
+                "product_group":"BTOC",
+                "product_type":"capsule_pakket"
+             },
+             { 
+                "sku":"105834",
+                "inStock":true,
+                "google":true,
+                "campaign":true,
+                "name":"Mild assortiment",
+                "name_prospect":"Mild assortiment",
+                "name_renewal":"Mild assortiment",
+                "slug":"assortiment",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/100/14890_1506_NES_B2C_Sleeves_MILD_MO_10_PACK.png",
+                "show":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/100/14890_1506_NES_B2C_Sleeves_MILD_MO_10_PACK.png",
+                "description":"Ontdek de rijkheid van de Nespresso Grand Cru koffies met dit assortiment van 100 capsules. U kunt genieten van 100 kopjes koffie met een mild karakter.",
+                "coffee_description_full":"Ontdek de rijkheid van de Nespresso Grand Cru koffies met dit assortiment van 100 capsules. U kunt genieten van 100 kopjes koffie met een mild karakter.",
+                "price":40.60,
+                "price_sleeve":40.60,
+                "unit_pricing_measure":"",
+                "unit_pricing_base_measure":"",
+                "discount":30,
+                "qnt":1,
+                "model":"bundle",
+                "more_info_link":"",
+                "quantity":"100 Kopjes koffie",
+                "content":[ 
+                   { 
+                      "amount":10,
+                      "id":7413.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7435.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7622.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7642.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7645.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7691.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7692.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7713.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7714.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7810.20
+                   }
+                ],
+                "details":[ 
+                   "- 10x Capriccio",
+                   "- 10x Volluto",
+                   "- 10x Linizio Lungo",
+                   "- 10x cosi",
+                   "- 10x Volluto Decaffeinato",
+                   "- 10x Arpeggio",
+                   "- 10x Livanto",
+                   "- 10x Master Orgin Nicaragua",
+                   "- 10x Master Orgin Ethiopia",
+                   "- 10x Vivalto"
+                ],
+                "is_bundle":"yes",
+                "product_quantity":100,
+                "ean":"-",
+                "product_group":"BTOC",
+                "product_type":"capsule_pakket"
+             },
+             { 
+                "sku":"105836",
+                "inStock":false,
+                "google":true,
+                "campaign":false,
+                "name":"Intens pakket",
+                "name_prospect":"Intens pakket",
+                "name_renewal":"Intens pakket",
+                "slug":"assortiment",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/50/14890_1506_NES_B2C_Sleeves_INTENS_MO_5_PACK.png",
+                "show":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/50/14890_1506_NES_B2C_Sleeves_INTENS_MO_5_PACK.png",
+                "description":"Ontdek de rijkheid van de <strong>Nespresso</strong> koffies met dit assortiment van 100 capsules. U kunt genieten van 100 kopjes koffie met een mild karakter.",
+                "coffee_description_full":"Ontdek de rijkheid van de <strong>Nespresso</strong> koffies met dit assortiment van 50 capsules. U kunt genieten van 50 kopjes koffie met een mild karakter.",
+                "price":20.40,
+                "price_sleeve":20.40,
+                "unit_pricing_measure":"",
+                "unit_pricing_base_measure":"",
+                "discount":4.7,
+                "qnt":1,
+                "model":"bundle",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/intenso-koffie-assortiment",
+                "quantity":"50 Kopjes koffie",
+                "content":[ 
+                   { 
+                      "amount":10,
+                      "id":7691.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7694.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7697.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7704.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7712.20
+                   }
+                ],
+                "details":[ 
+                   "- 10x Arpeggio",
+                   "- 10x Kazaar",
+                   "- 10x Arpeggio Decaffeinato",
+                   "- 10x Ristretto",
+                   "- 10x Master Origin India"
+                ],
+                "is_bundle":"yes",
+                "product_quantity":50,
+                "ean":"7630054417870",
+                "product_group":"BTOC",
+                "product_type":"capsule_pakket"
+             },
+             { 
+                "sku":"105837",
+                "inStock":false,
+                "google":true,
+                "campaign":false,
+                "name":"Mild assortiment",
+                "name_prospect":"Mild assortiment",
+                "name_renewal":"Mild assortiment",
+                "slug":"assortiment",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/50/14890_1506_NES_B2C_Sleeves_MILD_MO_5_PACK-1.png",
+                "show":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/50/14890_1506_NES_B2C_Sleeves_MILD_MO_5_PACK-1.png",
+                "description":"Ontdek de rijkheid van de <strong>Nespresso</strong> koffies met dit assortiment van 50 capsules. U kunt genieten van 50 kopjes koffie met een mild karakter.",
+                "coffee_description_full":"Ontdek de rijkheid van de <strong>Nespresso</strong> koffies met dit assortiment van 50 capsules. U kunt genieten van 50 kopjes koffie met een mild karakter.",
+                "price":20.90,
+                "price_sleeve":20.90,
+                "unit_pricing_measure":"",
+                "unit_pricing_base_measure":"",
+                "discount":4.7,
+                "qnt":1,
+                "model":"bundle",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/gebalanceerd-koffie-assortiment",
+                "quantity":"50 Kopjes koffie",
+                "content":[ 
+                   { 
+                      "amount":10,
+                      "id":7435.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7646.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7692.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7713.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7715.20
+                   }
+                ],
+                "details":[ 
+                   "- 10x Volluto",
+                   "- 10x Vivalto Lungo Decaffeinato",
+                   "- 10x Livanto",
+                   "- 10x Master Origin Nicaragua",
+                   "- 10x Master Origin Colombia"
+                ],
+                "is_bundle":"yes",
+                "product_quantity":50,
+                "ean":"7630054417887",
+                "product_group":"BTOC",
+                "product_type":"capsule_pakket"
+             },
+             { 
+                "sku":"105836",
+                "inStock":false,
+                "google":true,
+                "campaign":false,
+                "name":"Intens pakket",
+                "name_prospect":"Intens pakket",
+                "name_renewal":"Intens pakket",
+                "slug":"assortiment",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/50/14890_1506_NES_B2C_Sleeves_VALUEPACK_INTENS_MO_5_PACK.png",
+                "show":"https://dw0w4amzflayh.cloudfront.net/coffee/packages/50/14890_1506_NES_B2C_Sleeves_VALUEPACK_INTENS_MO_5_PACK.png",
+                "description":"Ontdek de rijkheid van de <strong>Nespresso</strong> koffies met dit assortiment van 100 capsules. U kunt genieten van 100 kopjes koffie met een mild karakter.",
+                "coffee_description_full":"Ontdek de rijkheid van de <strong>Nespresso</strong> koffies met dit assortiment van 50 capsules. U kunt genieten van 50 kopjes koffie met een mild karakter.",
+                "price":20.40,
+                "price_sleeve":20.40,
+                "unit_pricing_measure":"",
+                "unit_pricing_base_measure":"",
+                "discount":5.7,
+                "qnt":1,
+                "model":"bundle",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/intenso-koffie-assortiment",
+                "quantity":"50 Kopjes koffie",
+                "content":[ 
+                   { 
+                      "amount":10,
+                      "id":7691.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7694.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7697.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7704.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7712.20
+                   }
+                ],
+                "details":[ 
+                   "- 10x Arpeggio",
+                   "- 10x Kazaar",
+                   "- 10x Arpeggio Decaffeinato",
+                   "- 10x Ristretto",
+                   "- 10x Master Origin India"
+                ],
+                "is_bundle":"yes",
+                "product_quantity":50,
+                "ean":"7630054417870",
+                "product_group":"BTOC",
+                "product_type":"capsule_pakket"
+             },
+             { 
+                "sku":"105841",
+                "inStock":false,
+                "google":true,
+                "campaign":true,
+                "name":"Meest gekozen assortiment",
+                "name_prospect":"Meest gekozen assortiment",
+                "name_renewal":"Meest gekozen assortiment",
+                "slug":"assortiment",
+                "image":"https://s3.eu-central-1.amazonaws.com/live-nes-b2c-887b-machinesplashpage/img/Assortiments/1214e_NES_B2C_meest_gekozen_assortiment.png",
+                "show":"https://s3.eu-central-1.amazonaws.com/live-nes-b2c-887b-machinesplashpage/img/Assortiments/1214e_NES_B2C_meest_gekozen_assortiment.png",
+                "description":"Ontdek 15 koffies in verschillende varieteiten, met elk een eigen karakter. Verdeeld in de smaakfamilies intens, gebalanceerd en fruitig.",
+                "coffee_description_full":"Ontdek de rijkheid van de <strong>Nespresso</strong> koffies met dit assortiment van 150 capsules. U kunt genieten van 150 kopjes koffie met een mild karakter.",
+                "price":62.90,
+                "price_sleeve":62.90,
+                "unit_pricing_measure":"",
+                "unit_pricing_base_measure":"",
+                "discount":12.7,
+                "qnt":1,
+                "model":"bundle",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/ontdekking-150",
+                "quantity":"150 Kopjes koffie",
+                "content":[ 
+                   { 
+                      "amount":10,
+                      "id":7704.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7691.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7692.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7435.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7693.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7701.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7530.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7654.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7834.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7810.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7622.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7697.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7645.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7646.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7699.20
+                   }
+                ],
+                "details":[ 
+                   "- 10x Ristretto",
+                   "- 10x Arpeggio",
+                   "- 10x Livanto",
+                   "- 10x Volluto",
+                   "- 10x Indriya from India",
+                   "- 10x Rosabaya de Colombia",
+                   "- 10x Dulsão do Brasil",
+                   "- 10x Envivo Lungo",
+                   "- 10x Fortissio Lungo",
+                   "- 10x Vivalto Lungo",
+                   "- 10x Linizio Lungo",
+                   "- 10x Arpeggio Decaffeinato",
+                   "- 10x Volluto Decaffeinato",
+                   "- 10x Vivalto Lungo Decaffeinato",
+                   "- 10x Indriya Caramelito"
+                ],
+                "is_bundle":"yes",
+                "product_quantity":150,
+                "ean":"7630054417931",
+                "product_group":"BTOC",
+                "product_type":"capsule_pakket"
+             },
+             { 
+                "sku":"105842",
+                "inStock":true,
+                "google":true,
+                "campaign":true,
+                "name":"Mild assortiment",
+                "name_prospect":"Mild assortiment",
+                "name_renewal":"Mild assortiment",
+                "slug":"assortiment",
+                "image":"https://s3.eu-central-1.amazonaws.com/live-nes-b2c-887b-machinesplashpage/img/Assortiments/1214e_NES_B2C_mild_assortiment.png",
+                "show":"https://s3.eu-central-1.amazonaws.com/live-nes-b2c-887b-machinesplashpage/img/Assortiments/1214e_NES_B2C_mild_assortiment.png",
+                "description":"Ontdek 15 koffies in milde varieteiten, met elk een eigen karakter. Gebrand van 1% tot 2% van 's werelds beste kwaliteit koffiebonen.",
+                "coffee_description_full":"Ontdek de rijkheid van de <strong>Nespresso</strong> koffies met dit assortiment van 150 capsules. U kunt genieten van 150 kopjes koffie met een mild karakter.",
+                "price":62.80,
+                "price_sleeve":62.80,
+                "unit_pricing_measure":"",
+                "unit_pricing_base_measure":"",
+                "discount":50,
+                "qnt":1,
+                "model":"bundle",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/mild-150",
+                "quantity":"150 Kopjes koffie",
+                "content":[ 
+                   { 
+                      "amount":10,
+                      "id":7704.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7691.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7692.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7413.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7435.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7642.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7701.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7530.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7696.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7810.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7622.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7645.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7646.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7699.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7698.20
+                   }
+                ],
+                "details":[ 
+                   "- 10x Ristretto",
+                   "- 10x Arpeggio",
+                   "- 10x Livanto",
+                   "- 10x Capriccio",
+                   "- 10x Volluto",
+                   "- 10x Cosi",
+                   "- 10x Rosabaya de Colombia",
+                   "- 10x Dulsão do Brasil",
+                   "- 10x Bukeela ka Ethiopia",
+                   "- 10x Vivalto Lungo",
+                   "- 10x Linizio Lungo",
+                   "- 10x Volluto Decaffeinato",
+                   "- 10x Vivalto Lungo Decaffeinato",
+                   "- 10x Vivalto Caramelito",
+                   "- 10x Indriya Vanilio"
+                ],
+                "is_bundle":"yes",
+                "product_quantity":150,
+                "ean":"7630054417931",
+                "product_group":"BTOC",
+                "product_type":"capsule_pakket"
+             },
+             { 
+                "sku":"105840",
+                "inStock":true,
+                "google":true,
+                "campaign":true,
+                "name":"Intens pakket",
+                "name_prospect":"Intens pakket",
+                "name_renewal":"Intens pakket",
+                "slug":"assortiment",
+                "image":"https://s3.eu-central-1.amazonaws.com/live-nes-b2c-887b-machinesplashpage/img/Assortiments/1214e_NES_B2C_intens_assortiment.png",
+                "show":"https://s3.eu-central-1.amazonaws.com/live-nes-b2c-887b-machinesplashpage/img/Assortiments/1214e_NES_B2C_intens_assortiment.png",
+                "description":"Ontdek 13 verschillende koffies in intense varieteiten, met elk een eigen karakter.",
+                "coffee_description_full":"Ontdek de rijkheid van de <strong>Nespresso</strong> koffies met dit assortiment van 150 capsules. U kunt genieten van 150 kopjes koffie met een intens karakter.",
+                "price":61.40,
+                "price_sleeve":61.40,
+                "unit_pricing_measure":"",
+                "unit_pricing_base_measure":"",
+                "discount":50,
+                "qnt":1,
+                "model":"bundle",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/intens-150",
+                "quantity":"150 Kopjes koffie",
+                "content":[ 
+                   { 
+                      "amount":10,
+                      "id":7694.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7695.20
+                   },
+                   { 
+                      "amount":20,
+                      "id":7704.20
+                   },
+                   { 
+                      "amount":20,
+                      "id":7691.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7439.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7692.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7693.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7654.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7834.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7810.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7697.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7645.20
+                   },
+                   { 
+                      "amount":10,
+                      "id":7646.20
+                   }
+                ],
+                "details":[ 
+                   "- 10x Kazaar",
+                   "- 10x Dharkan",
+                   "- 20x Ristretto",
+                   "- 20x Arpeggio",
+                   "- 10x Roma",
+                   "- 10x Livanto",
+                   "- 10x Indriya from India",
+                   "- 10x Envivo Lungo",
+                   "- 10x Fortissio Lungo",
+                   "- 10x Vivalto Lungo",
+                   "- 10x Arpeggio Decaffeinato",
+                   "- 10x Volluto Decaffeinato",
+                   "- 10x Vivalto Lungo Decaffeinato"
+                ],
+                "is_bundle":"yes",
+                "product_quantity":150,
+                "ean":"7630054417917",
+                "product_group":"BTOC",
+                "product_type":"capsule_pakket"
+             }
+          ],
+          "classic":[ 
+             { 
+                "sku":"7712.20",
+                "ean":"07630039695156",
+                "inStock":true,
+                "google":true,
+                "name":"Master Origin India",
+                "name_prospect":"Master Origin India",
+                "name_renewal":"Master Origin India",
+                "slug":"Master_Origin_India",
+                "range":"classic",
+                "filter":"Master Origin",
+                "capacity":"espresso",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_05.svg",
+                "title":"KRUIDIG EN INTENS",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/master-origin/front_india.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/master-origin/india/large/master-origin_india_600x600.png",
+                "description":"De Master Origin India wordt na het oogsten bewerkt volgens een techniek die ‘monsooning’ wordt genoemd en die vooral Indiase koffiemeesters goed beheersen. En dat proef je: het levert een bijzondere koffie op, met een zware body en een kruidig karakter.",
+                "intensity":11,
+                "price":0.44,
+                "price_sleeve":4.40,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/master-origin-india",
+                "ingredients":[ 
+                   "<p>10 MASTER ORIGIN India capsules, gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   "<h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>55g - 1.94oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2> <p>EAN: 7630030336775</p>"
+                ],
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7711.20",
+                "ean":"07630039695057",
+                "inStock":true,
+                "google":true,
+                "name":"Master Origin Indonesia",
+                "name_prospect":"Master Origin Indonesia",
+                "name_renewal":"Master Origin Indonesia",
+                "slug":"Master_Origin_Indonesia",
+                "range":"classic",
+                "filter":"Master Origin",
+                "capacity":"espresso",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_05.svg",
+                "title":"RIJK EN HOUTACHTIG",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/master-origin/front_indonesia.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/master-origin/indonesia/large/master-origin_indonesia_600x600.png",
+                "description":"Begint er nog niks te dagen bij de term ‘wet-hulled methode’? Dat zal veranderen zodra je onze Master Origin Indonesia proeft. Bij de eerste slok ervaar je een zachte textuur en een rijke smaak. Deze zijn ontstaan doordat de gebruikte wet-hulled methode ervoor zorgt dat de bonen sneller drogen, wat leidt tot een verscheidenheid aan aroma’s.",
+                "intensity":8,
+                "price":0.44,
+                "price_sleeve":4.40,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/master-origin-indonesia",
+                "ingredients":[ 
+                   "<p>10 MASTER ORIGIN Indonesia capsules, gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>55g - 1.94oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2> <p>EAN: 7630030336775</p> "
+                ],
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7715.20",
+                "ean":"07630039695637",
+                "inStock":true,
+                "google":true,
+                "name":"Master Origin Colombia",
+                "name_prospect":"Master Origin Colombia",
+                "name_renewal":"Master Origin Colombia",
+                "slug":"Master Origin Colombia",
+                "range":"classic",
+                "filter":"Master Origin",
+                "capacity":"espresso",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_05.svg",
+                "title":"Espresso met vanille-aroma",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/master-origin/front_colombia.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/master-origin/colombia/large/master-origin_colombia_600x600.png",
+                "description":"Proef jij de fruittonen in onze Master Origin Colombia? Door het laat oogsten van de Colombiaanse Arabica hebben onze koffieboeren een fruitige, heldere en sprankelende koffie gecreëerd",
+                "intensity":6,
+                "price":0.44,
+                "price_sleeve":4.40,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/master-origin-colombia",
+                "ingredients":[ 
+                   "<p>10 MASTER ORIGIN Colombia capsules, gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>57g - 2.01oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2> <p>EAN: 7630039686796</p>"
+                ],
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7713.20",
+                "ean":"07630039695354",
+                "inStock":true,
+                "google":true,
+                "name":"Master Origin Nicaragua",
+                "name_prospect":"Master Origin Nicaragua",
+                "name_renewal":"Master Origin Nicaragua",
+                "slug":"Master Origin Nicaragua",
+                "range":"classic",
+                "filter":"Master Origin",
+                "capacity":"espresso",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_05.svg",
+                "title":"een zoete manier",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/master-origin/front_nicaragua.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/master-origin/nicaragua/large/master-origin_nicaragua_600x600.png",
+                "description":"Ken jij de ‘black-honey’-methode al? Onze Master Origin Nicaragua is gemaakt volgens deze zeldzame methode, waarbij de koffiebessen in een hun dunne vliesje te drogen worden gelegd, waardoor ze erg plakkerig worden, net als honing. Dit leidt tot een heerlijk zachte koffie met een gebalanceerde en lichtzoete smaak.",
+                "intensity":5,
+                "price":0.44,
+                "price_sleeve":4.40,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/master-origin-nicaragua",
+                "ingredients":[ 
+                   "<p>10 MASTER ORIGIN Nicaragua capsules, gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   "<h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>50g - 1.76oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2> <p>EAN: 7630030336775</p> "
+                ],
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7714.20",
+                "ean":"07630039695538",
+                "inStock":true,
+                "google":true,
+                "name":"Master Origin Ethiopia",
+                "name_prospect":"Master Origin Ethiopia",
+                "name_renewal":"Master Origin Ethiopia",
+                "slug":"Master Origin Ethiopia",
+                "range":"classic",
+                "filter":"Master Origin",
+                "capacity":"espresso",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_05.svg",
+                "title":"In het zonlicht geboren",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/master-origin/front_ethiopia.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/master-origin/ethiopia/large/master-origin_ethiopia_600x600.png",
+                "description":"Master Origin Ethiopia bestaat uit een droog verwerkte Arabica die wordt verbouwd door Ethiopische koffieboeren die deze methode al vele jaren hanteren. Het resultaat is aromatische koffie, met een hint van jam en oranjebloesem.",
+                "intensity":4,
+                "price":0.44,
+                "price_sleeve":4.40,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/master-origin-ethiopia",
+                "ingredients":[ 
+                   "<p>10 MASTER ORIGIN Ethiopia capsules, gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>57g - 2.01oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2> <p>EAN: 7640140337333</p>"
+                ],
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7654.20",
+                "ean":"7630030336775",
+                "inStock":true,
+                "google":true,
+                "name":"envivo lungo",
+                "name_prospect":"envivo lungo",
+                "name_renewal":"envivo lungo",
+                "slug":"envivo_lungo",
+                "range":"classic",
+                "filter":"lungo",
+                "capacity":"lungo",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_07.svg",
+                "title":"Krachtig en gekarameliseerd",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/lungo/envivo/front_envivo.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/lungo/envivo/large/lungo_evivo_600x600.png",
+                "origin":"Envivo Lungo is een blend van een bijzondere Arabica uit India en een Robusta uit Mexico die donker is gebrand. Hierdoor ontstaan geroosterde tonen met een rijke geur van hout en peperkoek.",
+                "description":"De Envivo Lungo is speciaal ontwikkeld door onze koffie-experts om in de ochtend te drinken. Deze intense koffie heeft de kracht om de toon te zetten voor de rest van uw dag. Het is een sensatie voor uw smaakpapillen en de perfecte manier om de dag te beginnen.",
+                "intensity":9,
+                "roasting_description":"De blend bestaat uit een grotere hoeveelheid gourmet Robusta uit Mexico. Deze is apart gebrand, en vervolgens samengevoegd met speciaal verwerkte Arabica.",
+                "aromatic_profile":"Een krachtige en verfijnde smaak, met een rijke geur van hout en peperkoek.",
+                "price":0.41,
+                "price_sleeve":4.10,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/envivo-lungo-koffie-capsule",
+                "ingredients":[ 
+                   "<p>10 Envivo Lungo capsules gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie. Verpakt onder beschermende atmosfeer.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>55g - 1.94oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2><p>EAN: 7630030336775</p>"
+                ],
+                "main_color":"#882905",
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7834.20",
+                "ean":"7640159924791",
+                "inStock":true,
+                "google":true,
+                "name":"fortissio lungo",
+                "name_prospect":"fortissio lungo",
+                "name_renewal":"fortissio lungo",
+                "slug":"fortissio_lungo",
+                "range":"classic",
+                "filter":"lungo",
+                "capacity":"lungo",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_07.svg",
+                "title":"Rijk met volle body",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/lungo/fortissio_lungo/front_fortissio_lungo.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/lungo/fortissio_lungo/large/lungo_fortissio_lungo_600x600.png",
+                "origin":"Deze melange bestaat uit een fijne basis van de volle Monsoon Malabar Arabica uit India, die zorgt voor een intens karakter, en een gewassen Colombiaanse Arabica voor de ronde textuur.",
+                "description":"Fortissio Lungo is een Grand Cru met een rijke smaak, een volle body en intense, geroosterde en graanachtige tonen. Deze melange is samengesteld uit een combinatie van koffiebonen uit Midden- en Zuid-Amerika en een kostbare volle Monsoon Malabar Arabica uit India. Nespresso heeft oog voor detail; van het zorgvuldig selecteren van bonen tot technieken voor branden en malen. Zodat ú kunt genieten van deze op het hoogtepunt van zijn intensiteit!",
+                "intensity":8,
+                "roasting_description":"De Indiase Monsoon Malabar Arabica en de koffiebonen uit Midden- en Zuid Amerika vormen de basis van de Fortissio Lungo en worden apart van elkaar gebrand om de prominente body te behouden in combinatie met de rijke koffiesmaak, zonder ongewenste bitterheid.",
+                "aromatic_profile":"Een rijke koffie, met zoete en gemoute graantonen heeft een fijne bitterheid en uitgesproken volle smaak dankzij de ronde en zachte textuur.",
+                "price":0.41,
+                "price_sleeve":4.10,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/fortissio-lungo-koffie-capsule",
+                "ingredients":[ 
+                   "<p>10 Fortissio Lungo capsules gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie. Verpakt onder beschermende atmosfeer.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>60g - 2.12oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2><p>EAN: 7640159924791</p>"
+                ],
+                "main_color":"#273a3b",
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7810.20",
+                "ean":"7640140337654",
+                "inStock":true,
+                "google":true,
+                "name":"vivalto lungo",
+                "name_prospect":"vivalto lungo",
+                "name_renewal":"vivalto lungo",
+                "slug":"vivalto_lungo",
+                "range":"classic",
+                "filter":"lungo",
+                "capacity":"lungo",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_07.svg",
+                "title":"Complex en evenwichtig",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/lungo/vivalto_lungo/front_vivalto_lungo.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/lungo/vivalto_lungo/large/lungo_vivalto_lungo_600x600.png",
+                "origin":"Een complexe en contrastrijke melange. Op grote hoogte verbouwde Arabica’s uit Zuid-Amerika zorgen voor de lichte zuurheid en een Arabica uit Ethiopië verrijkt de blend met een noot van bloemen. De toegevoegde koffie uit het zuiden van het Braziliaanse Minas versterkt het karakter en zorgt voor de bittere smaakaccenten.",
+                "description":"Vivalto Lungo is een evenwichtige koffie die gemaakt wordt van een complexe blend van afzonderlijk gebrande Zuid-Amerikaanse en Oost-Afrikaanse Arabica’s, en die gebrande noten met subtiele bloemachtige noten combineert.",
+                "intensity":4,
+                "roasting_description":"Doordat de koffiesoorten apart worden gebrand, komt elke soort perfect tot zijn recht. De maling is speciaal aangepast om de koffie in een grote kop te bereiden.",
+                "aromatic_profile":"Dankzij de perfecte combinatie van de verschillende koffiesoorten ontstaat een rijk en complex karakter met een heerlijke geroosterde noot, een lichte houttoets, een milde noot van granen en een subtiel accent van bloemen.",
+                "price":0.41,
+                "price_sleeve":4.10,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/vivalto-lungo-koffie-capsule",
+                "ingredients":[ 
+                   "<p>10 Vivalto Lungo capsules gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie. Verpakt onder beschermende atmosfeer.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>60g - 2.12oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2><p>EAN: 7640140337654</p>"
+                ],
+                "main_color":"#3b5892",
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7622.20",
+                "ean":"7640154061569",
+                "inStock":true,
+                "google":true,
+                "name":"linizio lungo",
+                "name_prospect":"linizio lungo",
+                "name_renewal":"linizio lungo",
+                "slug":"linizio_lungo",
+                "range":"classic",
+                "filter":"lungo",
+                "capacity":"lungo",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_07.svg",
+                "title":"Rond en zijdezacht",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/lungo/linizio_lungo/front_linizio_lungo.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/lungo/linizio_lungo/large/lungo_linizio_lungo_600x600.png",
+                "origin":"De Arabica's uit Brazilië en Colombia in Linizio Lungo worden met de hand geplukt.  Ze worden echter anders behandeld. De Bourbon uit Brazilië wordt met de slijmlaag gewassen, ontdaan van het vruchtvlees en in de zon gedroogd in tegenstelling tot de Arabica uit Colombia, die met de slijmlaag gist en daarna pas wordt gewassen.",
+                "description":"Linizio Lungo is een melange van fijne Arabica’s die worden versterkt door mout- en graantonen. Dit geeft een milde koffie met een mooie ronde smaak.",
+                "intensity":4,
+                "roasting_description":"Door de split-roasting van koffie van verschillende herkomst komen de specifieke aroma's goed tot hun recht. Enerzijds een langere branding om een​ donkerdere boon te verkrijgen waarin de gemoute granen van de Bourbon duidelijk zijn te herkennen. Anderzijds een kortere branding voor de Arabica uit Colombia die een heldere boon geeft en de zachtere tonen accentueert die doen denken aan suikerriet, dat zo karakteristiek is voor de regio van herkomst.",
+                "aromatic_profile":"Gemoute graantonen op een zachte basis die doet denken aan suikerriet.",
+                "price":0.41,
+                "price_sleeve":4.10,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/linizio-lungo-koffie-capsule",
+                "ingredients":[ 
+                   "<p>10 Linizio Lungo capsules gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie. Verpakt onder beschermende atmosfeer.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>55g - 1.94oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2><p>EAN: 7640154061569</p>"
+                ],
+                "main_color":"#b25f25",
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7692.20",
+                "ean":"7630039685416",
+                "inStock":true,
+                "google":true,
+                "name":"livanto",
+                "name_prospect":"livanto",
+                "name_renewal":"livanto",
+                "slug":"livanto",
+                "range":"classic",
+                "filter":"espresso",
+                "capacity":"espresso",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_06.svg",
+                "title":"Rond en evenwichtig",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/espresso/livanto/front_livanto.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/espresso/livanto/large/espresso_livanto_600x600.png",
+                "origin":"Deze melange is samengesteld uit de beste Arabica’s uit Midden- en Zuid-Amerikaanse landen, zoals Costa Rica en Colombia. Dankzij de traditionele verwerkingsmethoden blijven de typische fruitige en moutachtige profielen bewaard.",
+                "description":"Livanto is een uitgebalanceerde Espresso, gemaakt van zuivere Arabica uit Zuid- en Centraal-Amerika, die wordt gekenmerkt door zijn gebrande karamelachtige toon.",
+                "intensity":6,
+                "roasting_description":"Dankzij de gemiddelde brandgraad komen de moutachtige noten naar voren, terwijl de fruitige accenten zich ontwikkelen tot een subtiel, complex en gekarameliseerd bouquet.",
+                "aromatic_profile":"Een voor versgebrande koffie kenmerkende ronde en evenwichtige smaak die het resultaat is van een combinatie van gekarameliseerde, graan- en moutachtige noten en subtiele fruitige accenten.",
+                "price":0.39,
+                "price_sleeve":3.90,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/livanto-koffie-capsule",
+                "ingredients":[ 
+                   "<p>10 Livanto capsules gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie. Verpakt onder beschermende atmosfeer.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>53g - 1.87oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2>"
+                ],
+                "main_color":"#744321",
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7413.20",
+                "ean":"7640140337173",
+                "inStock":true,
+                "google":true,
+                "name":"capriccio",
+                "name_prospect":"capriccio",
+                "name_renewal":"capriccio",
+                "slug":"capriccio",
+                "range":"classic",
+                "filter":"espresso",
+                "capacity":"espresso",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_06.svg",
+                "title":"Rijk en uniek",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/espresso/capriccio/front_capriccio.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/espresso/capriccio/large/espresso_capriccio_600x600.png",
+                "origin":"Op grote hoogte verbouwde Arabica’s uit Zuid-Amerika geven deze melange een subtiele zuurheid die in evenwicht wordt gebracht door de juiste dosering Arabica uit Brazilië en een vleugje Robusta.",
+                "description":"Bij het blenden van Zuid-Amerikaanse Arabica’s met een vleugje Robusta, ontstaat Capriccio – een Espresso met een rijk aroma en een uitgesproken, kenmerkende graantoon.",
+                "intensity":5,
+                "roasting_description":"Door de lichte brandgraad van de melange ontwikkelt zich een rijk smaakprofiel met een subtiele zuurheid.",
+                "aromatic_profile":"Een typische, reeds ‘in de neus’ waarneembare graanachtige toon, in evenwicht gebracht door een subtiele zuurheid.",
+                "price":0.39,
+                "price_sleeve":3.90,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/capriccio-koffie-capsule",
+                "ingredients":[ 
+                   "<p>10 Capriccio capsules gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie. Verpakt onder beschermende atmosfeer.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>50g - 1.76oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2>"
+                ],
+                "main_color":"#14301e",
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7435.20",
+                "ean":"7640140337272",
+                "inStock":true,
+                "google":true,
+                "name":"volluto",
+                "name_prospect":"volluto",
+                "name_renewal":"volluto",
+                "slug":"volluto",
+                "range":"classic",
+                "filter":"espresso",
+                "capacity":"espresso",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_06.svg",
+                "title":"Zacht en licht",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/espresso/volluto/front_volluto.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/espresso/volluto/large/espresso_volluto_600x600.png",
+                "origin":"Volluto is samengesteld uit Braziliaanse en Colombiaanse Arabica’s die afkomstig zijn van kleine plantages waar koffie van uitmuntende kwaliteit wordt verbouwd. Bij de teelt staan natuurbehoud en tradities centraal.",
+                "description":"Een zuivere en licht gebrande Arabica uit Zuid-Amerika is de basis voor Volluto die de smaak van biscuit versterkt met een lichte zuurgraad en fruitachtige tonen.",
+                "intensity":4,
+                "roasting_description":"Dankzij de lichte brandgraad blijven de graanachtige noot van de Braziliaanse Arabica en het frisse, fruitige accent van de Colombiaanse koffie behouden.",
+                "aromatic_profile":"De verschillende, duidelijk waarneembare fruitachtige tonen zijn volkomen in evenwicht met de zachte, koekjesachtige accenten.",
+                "price":0.39,
+                "price_sleeve":3.90,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/volluto-koffie-capsule",
+                "ingredients":[ 
+                   "<p>10 Volluto capsules gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie. Verpakt onder beschermende atmosfeer.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>50g - 1.76oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2><p>EAN: 7640140337272</p>"
+                ],
+                "main_color":"#f5d072",
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7642.20",
+                "ean":"7640159925514",
+                "inStock":true,
+                "google":true,
+                "name":"cosi",
+                "name_prospect":"cosi",
+                "name_renewal":"cosi",
+                "slug":"cosi",
+                "range":"classic",
+                "filter":"espresso",
+                "capacity":"espresso",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_06.svg",
+                "title":"Licht en citroenachtig",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/espresso/cosi/front_cosi.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/espresso/cosi/large/espresso_cosi_600x600.png",
+                "origin":"De Arabica-variëteit uit Costa Rica geeft deze blend zijn karakteristieke graan- en licht geroosterde tonen, waarbij de Keniaanse Arabica de delicate fruitachtige tonen geeft, in perfecte harmonie met de Arabica-variëteit uit Latijns-Amerika.",
+                "description":"Deze delicate en gebalanceerde melange van pure Arabica-variëteiten uit Oost-Afrika, Centraal- en Zuid-Amerika kenmerkt zich door graantonen en licht geroosterde tonen versterkt door subtiele fruitachtige accenten.",
+                "intensity":4,
+                "roasting_description":"Een lichte branding, in perfectie uitgevoerd door de Nespresso koffie-experts, die resulteert in een delicate, gebalanceerde koffie met lichte graan- en fruitachtige tonen.",
+                "aromatic_profile":"Lichte geroosterde graantonen, aangevuld met subtiele fruitachtige tonen.",
+                "price":0.39,
+                "price_sleeve":3.90,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/cosi-koffie-capsule",
+                "main_color":"#392119",
+                "ingredients":[ 
+                   "<p>10 Cosi capsules gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie. Verpakt onder beschermende atmosfeer.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>50g - 1.76oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2><p>EAN: 7640159925514</p>"
+                ],
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7694.20",
+                "ean":"7630039685614",
+                "inStock":true,
+                "google":true,
+                "name":"kazaar",
+                "name_prospect":"kazaar",
+                "name_renewal":"kazaar",
+                "slug":"kazaar",
+                "range":"classic",
+                "filter":"intenso",
+                "capacity":"espresso",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_03.svg",
+                "title":"Buitengewoon intens en stroperig",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/intenso/kazaar/front_kazaar.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/intenso/kazaar/large/intenso_kazaar_600x600.png",
+                "origin":"Een Conillon-robusta uit Brazilië die speciaal voor Nespresso op een natuurlijke manier in de zon is gedroogd, en een vrijwel niet gewassen Robusta uit Guatemala maken de melange uiterst intens, zonder de typisch wrange smaak die Robusta's normaal hebben.",
+                "description":"Kazaar is een gedurfde melange van twee Robusta's uit Brazilië en Guatemala, speciaal bereid voor Nespresso, en een apart gebrande Arabica uit Zuid-Amerika. Kazaar is koffie met een uitzonderlijke intensiteit. Deze Ristretto met een volle body is rijk aan gebrande tonen. In de kop ontwikkelt deze een krachtige bitterheid en tonen van peper die worden gecompenseerd door een dichte en romige textuur.",
+                "intensity":12,
+                "roasting_description":"De Robusta's worden sterk gebrand, zodat de bitterheid volledig tot uitdrukking komt en de koffie een krachtige body ontwikkelt. De Arabica-componenten worden daarentegen langer en voorzichtiger gebrand om de verfijnde tonen en natuurlijke zoetheid beter uit te laten komen.",
+                "aromatic_profile":"Kazaar is koffie met een uitzonderlijke intensiteit. In de kop ontwikkelt Kazaar een krachtige bitterheid en pittige tonen die in evenwicht worden gebracht door een volle en romige textuur.",
+                "price":0.41,
+                "price_sleeve":4.10,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/kazaar-koffie-capsule",
+                "ingredients":[ 
+                   "<p>10 Kazaar capsules gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie. Verpakt onder beschermende atmosfeer.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>60g - 2.12oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2>"
+                ],
+                "main_color":"#0d0f25",
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7695.20",
+                "ean":"7630039685713",
+                "inStock":true,
+                "google":true,
+                "name":"dharkan",
+                "name_prospect":"dharkan",
+                "name_renewal":"dharkan",
+                "slug":"dharkan",
+                "range":"classic",
+                "filter":"intenso",
+                "capacity":"espresso",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_03.svg",
+                "title":"Intens met een vleugje cacao",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/intenso/dharkan/front_dharkan.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/intenso/dharkan/large/intenso_dharkan_600x600.png",
+                "origin":"Dharkan is een melange van vier variëteiten uit Latijns-Amerika en Azië, onder ander Costa Rica, Java en twee andere Latijns-Amerikaanse landen.",
+                "description":"Deze melange van gewassen Arabica's uit Latijns-Amerika en Azië onthult zijn karakter volledig dankzij de techniek van lang branden op een lage temperatuur. Zijn krachtige persoonlijkheid onthult intens gebrande tonen met een vleugje bitter cacaopoeder en geroosterde granen die tot uitdrukking komen in een fluweelzachte textuur. In de kop creëert deze koffie een subtiele balans en een aangename bitterheid die lang blijft hangen in de mond.",
+                "intensity":11,
+                "roasting_description":"Door het lange branden van Dharkan op een lage temperatuur verspreidt de hitte zich direct naar het kern van elke boon en onthult intens geroosterde tonen met een verrassend rond karakter.",
+                "aromatic_profile":"Het betoverende karakter heeft intens gebrande tonen, een vleugje bittere cacaopoeder en geroosterde granen, die tot uitdrukking komen in een zijdezachte textuur.",
+                "price":0.41,
+                "price_sleeve":4.10,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/dharkan-koffie-capsule",
+                "ingredients":[ 
+                   "<p>10 Dharkan capsules gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie. Verpakt onder beschermende atmosfeer.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>60g - 2.12oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2>"
+                ],
+                "main_color":"#2b383e",
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7704.20",
+                "ean":"7630039686796",
+                "inStock":true,
+                "google":true,
+                "name":"ristretto",
+                "name_prospect":"ristretto",
+                "name_renewal":"ristretto",
+                "slug":"ristretto",
+                "range":"classic",
+                "filter":"intenso",
+                "capacity":"espresso",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_03.svg",
+                "title":"Krachtig en contrastrijk",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/intenso/ristretto/front_ristretto.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/intenso/ristretto/large/intenso_ristretto_600x600.png",
+                "origin":"Ristretto is hoofdzakelijk samengesteld uit de beste Arabica’s uit Zuid-Amerikaanse landen, zoals Colombia en Brazilië, en bevat bovendien hoogwaardige, lichtzure Arabica’s uit Oost-Afrika en een vleugje krachtigere Robusta.",
+                "description":"Ristretto heeft een sterke smaak en body. Het is een melange van de beste Zuid-Amerikaanse Arabica's, uit landen als Colombia en Brazilië, met fantastische Oost-Afrikaanse Arabica's die worden geroemd om hun citrussmaak en een vleugje Robusta voor wat extra pit. De koffiebonen worden langzaam en apart gebrand, waardoor een contrasterend bouquet ontstaat van subtiele lichtzure, fruitige en intens gebrande accenten, verrijkt met chocoladetonen.",
+                "intensity":10,
+                "roasting_description":"De koffiesoorten worden langzaam en apart gebrand, waardoor een origineel bouquet ontstaat van lichtzure, fruitige en gebrande accenten. De zeer fijne maling zorgt voor een sterke, typisch Italiaanse espresso met een volle smaak en een intense body.",
+                "aromatic_profile":"Sterke geroosterde tonen verzacht door het tonen van chocolade. Een subtiele contrast tussen kracht en bitterheid, zure en fruitige tonen.",
+                "price":0.39,
+                "price_sleeve":3.90,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/ristretto-koffie-capsule",
+                "ingredients":[ 
+                   "<p>10 Ristretto capsules gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie. Verpakt onder beschermende atmosfeer.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>55g - 1.94oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2><p>EAN: 7630039686796</p>"
+                ],
+                "main_color":"#0e130f",
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7691.20",
+                "ean":"7630039685317",
+                "inStock":true,
+                "google":true,
+                "name":"arpeggio",
+                "name_prospect":"arpeggio",
+                "name_renewal":"arpeggio",
+                "slug":"arpeggio",
+                "range":"classic",
+                "filter":"intenso",
+                "capacity":"espresso",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_03.svg",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/intenso/arpeggio/front_arpeggio.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/intenso/arpeggio/large/intenso_arpeggio_600x600.png",
+                "title":"Intens en smeuïg",
+                "origin":"Een selectie van de beste Arabica’s uit Midden- en Zuid-Amerika met fruitige of moutachtige profielen, zoals de koffiesoorten uit Costa Rica.",
+                "description":"Arpeggio ontleent zijn onderscheidende karakter en volle body aan een melange van Midden- en Zuid-Amerikaanse Arabica's. Door het lange branden ontwikkelt elk type koffieboon zich tot een intens bouquet met een combinatie van gebrande, houtachtige en cacaotonen.",
+                "intensity":9,
+                "roasting_description":"Het constante brandproces is zodanig afgestemd dat het karakter van elke koffiesoort volledig tot uitdrukking komt. Door de fijne maling krijgt de koffie zijn intense body.",
+                "aromatic_profile":"Geroosterde, intense nuances in combinatie met een houtachtige noot en een subtiel cacaoaccent.",
+                "price":0.39,
+                "price_sleeve":3.90,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/arpeggio-koffie-capsule",
+                "ingredients":[ 
+                   "<p>10 Arpeggio capsules gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie. Verpakt onder beschermende atmosfeer.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>53g - 1.87oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2>"
+                ],
+                "main_color":"#2d164a",
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7439.20",
+                "ean":"7640140337333",
+                "inStock":true,
+                "google":true,
+                "name":"roma",
+                "name_prospect":"roma",
+                "name_renewal":"roma",
+                "slug":"roma",
+                "range":"classic",
+                "filter":"intenso",
+                "capacity":"espresso",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_03.svg",
+                "title":"Vol en evenwichtig",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/intenso/roma/front_roma.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/intenso/roma/large/intenso_roma_600x600.png",
+                "origin":"De balans van de lichtgebrande Zuid- en Centraal-Amerikaanse Arabica’s met Robusta, geeft Roma haar zoete en houtachtige tonen en haar volle, lang aanhoudende smaaksensatie. ",
+                "description":"Een subtiel evenwicht tussen kracht, diepte en finesse, dat zich onderscheidt door zijn houtachtige en gebrande tonen. De Midden- en Zuid-Amerikaanse Arabica's in combinatie met Robusta zijn licht gebrand om het delicate aroma van de melange te behouden. Roma is de ideale koffie voor wie op zoek is naar een Espresso die zowel sterk als zacht is.",
+                "intensity":8,
+                "roasting_description":"Dankzij de lichte brandgraad en de zeer fijne maling ontstaat een melange met subtiele aroma’s. Een espresso voor een klein kopje, zonder dat de koffie te sterk is.",
+                "aromatic_profile":"De houtachtige en geroosterde accenten zijn te danken aan verschillende lichtgebrande koffiesoorten met intense smaken.",
+                "price":0.39,
+                "price_sleeve":3.90,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/roma-koffie-capsule",
+                "ingredients":[ 
+                   "<p>10 Roma capsules gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie. Verpakt onder beschermende atmosfeer.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>50g - 1.76oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2><p>EAN: 7640140337333</p>"
+                ],
+                "main_color":"#383431",
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7547.20",
+                "ean":"7630047675874",
+                "inStock":true,
+                "google":true,
+                "name":"Chiaro",
+                "name_prospect":"Chiaro",
+                "name_renewal":"Chiaro",
+                "slug":"Chiaro",
+                "range":"classic",
+                "filter":"Barista Creations",
+                "capacity":"espresso",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_05.svg",
+                "title":"Voor zoete en soepele melkrecepten",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/barista_creations/chiaro/front_chiaro.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/barista_creations/chiaro/front_chiaro.png",
+                "description":"Zin om te echt te genieten? De BARISTA CREATIONS Chiaro hebben we gemaakt met de heerlijke combinatie van melk en koffie in het achterhoofd. Een zorgvuldig geselecteerde blend van Arabica’s uit Kenia en Indonesië gecombineerd met de lichtste branding die er bestaat, zodat de koffie de warme tonen van caramel en zoet biscuit onthult als je melk toevoegt.",
+                "price":0.44,
+                "price_sleeve":4.40,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/nespresso-barista-creations-chiaro-coffee-capsules ",
+                "ingredients":[ 
+                   "<p>10 <strong>BARISTA CREATIONS Chiaro</strong> capsules, gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie. Verpakt onder beschermende atmosfeer.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>48g - 1.69 oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2><p>EAN: 7630047675874</p>"
+                ],
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7716.20",
+                "ean":"7630054457074",
+                "inStock":true,
+                "google":true,
+                "name":"Scuro",
+                "name_prospect":"Scuro",
+                "name_renewal":"Scuro",
+                "slug":"Scuro",
+                "range":"classic",
+                "filter":"Barista Creations",
+                "capacity":"espresso",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_05.svg",
+                "title":"Voor gebalanceerde en intense melkrecepten",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/barista_creations/scuro/front_scuro.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/barista_creations/scuro/front_scuro.png",
+                "description":"Ben je op zoek naar de perfecte balans tussen koffie en opgeschuimde melk? Met de BARISTA CREATIONS Scuro geniet je van het smaakvolle karakter van de koffie, dat ontstaat door het toevoegen van de zoete smaak van melk. Het geheim hierachter zit hem in de split-roasting-techniek bij de Arabica’s uit Colombia en Ethiopië. Voeg wat melk aan deze koffie toe en de geroosterde tonen van graan en noten komen je vanuit je kopje tegemoet. Serveersuggestie: bereid 25 ml koffie (ristretto) en schenk daarop 60 ml opgeschuimde melk.",
+                "price":0.44,
+                "price_sleeve":4.40,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/nespresso-barista-creations-scuro-coffee-capsules ",
+                "ingredients":[ 
+                   "<p>10 <strong>BARISTA CREATIONS Chiaro</strong> capsules, gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie. Verpakt onder beschermende atmosfeer.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>55g - 1.94 oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2><p>EAN: 7630054457074</p>"
+                ],
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7546.20",
+                "ean":"7630047675775",
+                "inStock":true,
+                "google":true,
+                "name":"Corto",
+                "name_prospect":"Corto",
+                "name_renewal":"Corto",
+                "slug":"Corto",
+                "range":"classic",
+                "filter":"Barista Creations",
+                "capacity":"espresso",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_05.svg",
+                "title":"Voor zoete en soepele melkrecepten",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/barista_creations/chiaro/front_chiaro.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/barista_creations/chiaro/front_chiaro.png",
+                "description":"Zin om te echt te genieten? De BARISTA CREATIONS Chiaro hebben we gemaakt met de heerlijke combinatie van melk en koffie in het achterhoofd. Een zorgvuldig geselecteerde blend van Arabica’s uit Kenia en Indonesië gecombineerd met de lichtste branding die er bestaat, zodat de koffie de warme tonen van caramel en zoet biscuit onthult als je melk toevoegt.",
+                "price":0.44,
+                "price_sleeve":4.40,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/nespresso-barista-creations-corto-coffee-capsules",
+                "ingredients":[ 
+                   "<p>10 <strong>BARISTA CREATIONS Chiaro</strong> capsules, gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie. Verpakt onder beschermende atmosfeer.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>58g - 2.04 oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2><p>EAN: 7630047675775</p>"
+                ],
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7628.20",
+                "ean":"7640154061927",
+                "inStock":true,
+                "google":true,
+                "name":"caramelito",
+                "name_prospect":"caramelito",
+                "name_renewal":"caramelito",
+                "slug":"caramelito",
+                "range":"classic",
+                "filter":"variations",
+                "capacity":"espresso",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_06.svg",
+                "title":"Caramel",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/variation/caramelito/front_caramelito.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/variation/caramelito/large/variation_caramelito_600x600.png",
+                "origin":"Deze melange is samengesteld uit de beste Arabica’s uit Midden- en Zuid-Amerikaanse landen, zoals Costa Rica en Colombia. Dankzij de traditionele verwerkingsmethoden blijven de typische fruitige en moutachtige profielen bewaard.",
+                "description":"Caramelito is koffie op basis van de Grand Cru Livanto, een melange van Midden- en Zuid-Amerikaanse Arabica's met een rond en zeer evenwichtig bouquet. De zoete smaak van karamel maakt de gebrande noten zacht. Een heerlijke combinatie die doet denken aan zachte, romige toffees.",
+                "intensity":6,
+                "roasting_description":"Dankzij de gemiddelde brandgraad komen de moutachtige noten naar voren, terwijl de fruitige accenten zich ontwikkelen tot een subtiel, complex en gekarameliseerd bouquet.",
+                "aromatic_profile":"Een voor versgebrande koffie kenmerkende ronde en evenwichtige smaak die het resultaat is van een combinatie van gekarameliseerde, graan- en moutachtige noten en subtiele fruitige accenten.",
+                "price":0.48,
+                "price_sleeve":4.80,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/caramelito-koffie-capsule",
+                "ingredients":[ 
+                   "<p>10 Caramelito capsules gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie, natuurlijk karamelaromas met andere natuurlijke aromas's. Bevat verwaarloosbare hoeveelheden energie, koolhydraten, vet, eiwitten en zout. Verpakt onder beschermende atmosfeer.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>53g - 1.87oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2><p>EAN: 7640154061927</p>"
+                ],
+                "main_color":"#af7d39",
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7700.20",
+                "ean":"7630039686215",
+                "inStock":true,
+                "google":true,
+                "name":"ciocattino",
+                "name_prospect":"ciocattino",
+                "name_renewal":"ciocattino",
+                "slug":"ciocattino",
+                "range":"classic",
+                "filter":"variations",
+                "capacity":"espresso",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_06.svg",
+                "title":"Pure chocolade",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/variation/ciocattino/front_ciocattino.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/variation/ciocattino/large/variation_ciocattino_600x600.png",
+                "origin":"Deze melange is samengesteld uit de beste Arabica’s uit Midden- en Zuid-Amerikaanse landen, zoals Costa Rica en Colombia. Dankzij de traditionele verwerkingsmethoden blijven de typische fruitige en moutachtige profielen bewaard.",
+                "description":"Ciocattino is koffie op basis van de Grand Cru Livanto, een melange van Midden- en Zuid-Amerikaanse Arabica's met een rond en zeer evenwichtig bouquet. De pure en bittere chocoladenoten vormen een sensationele harmonie met de gebrande noten van Livanto. Een volle smaak die doet denken aan een tablet pure chocolade.",
+                "intensity":6,
+                "roasting_description":"Dankzij de gemiddelde brandgraad komen de moutachtige noten naar voren, terwijl de fruitige accenten zich ontwikkelen tot een subtiel, complex en gekarameliseerd bouquet.",
+                "aromatic_profile":"Een voor versgebrande koffie kenmerkende ronde en evenwichtige smaak die het resultaat is van een combinatie van gekarameliseerde, graan- en moutachtige noten en subtiele fruitige accenten.",
+                "price":0.48,
+                "price_sleeve":4.80,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/ciocattino-koffie-capsule",
+                "ingredients":[ 
+                   "<p>10 Ciocattino capsules gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Een voor versgebrande koffie kenmerkende ronde en evenwichtige smaak die het resultaat is van een combinatie van gekarameliseerde, graan- en moutachtige noten en subtiele fruitige accenten.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>53g - 1.87oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2><p>EAN: 7640154061927</p>"
+                ],
+                "main_color":"#53483f",
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7698.20",
+                "ean":"7630039686017",
+                "inStock":true,
+                "google":true,
+                "name":"vanilio",
+                "name_prospect":"vanilio",
+                "name_renewal":"vanilio",
+                "slug":"vanilio",
+                "range":"classic",
+                "filter":"variations",
+                "capacity":"espresso",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_06.svg",
+                "title":"Vanille",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/variation/vanilio/front_vanilio.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/variation/vanilio/large/variation_vanilio_600x600.png",
+                "origin":"Deze melange is samengesteld uit de beste Arabica’s uit Midden- en Zuid-Amerikaanse landen, zoals Costa Rica en Colombia. Dankzij de traditionele verwerkingsmethoden blijven de typische fruitige en moutachtige profielen bewaard. ",
+                "description":"Vanilio is koffie op basis van de Grand Cru Livanto, een melange van Midden- en Zuid-Amerikaanse Arabica's met een rond en zeer evenwichtig bouquet. De rijke en fluweelzachte aroma's van vanille komen subtiel tot uiting in een zachte textuur. Een tongstrelende melange met een volle en uiterst verfijnde smaak.",
+                "intensity":4,
+                "roasting_description":"Dankzij de gemiddelde brandgraad komen de moutachtige noten naar voren, terwijl de fruitige accenten zich ontwikkelen tot een subtiel, complex en gekarameliseerd bouquet.",
+                "aromatic_profile":"Een voor versgebrande koffie kenmerkende ronde en evenwichtige smaak die het resultaat is van een combinatie van gekarameliseerde, graan- en moutachtige noten en subtiele fruitige accenten.",
+                "lungo":false,
+                "ristretto":false,
+                "espresso":true,
+                "price":0.48,
+                "price_sleeve":4.80,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/vanilio-koffie-capsule",
+                "ingredients":[ 
+                   "<p>10 Vanilio capsules gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie, natuurlijk vanille-aromas met andere natuurlijke aromas's. Bevat verwaarloosbare hoeveelheden energie, koolhydraten, vet, eiwitten en zout. Verpakt onder beschermende atmosfeer.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>53g - 1.87oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2>"
+                ],
+                "main_color":"#f4eccf",
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7702.20",
+                "ean":"7630039635251",
+                "inStock":true,
+                "google":true,
+                "name":"ristretto decaffeinato",
+                "name_prospect":"ristretto decaffeinato",
+                "name_renewal":"ristretto decaffeinato",
+                "slug":"ristretto_decaffeinato",
+                "range":"classic",
+                "filter":"decaffeinato",
+                "capacity":"espresso",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_03.svg",
+                "title":"Krachtig en contrastrijk",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/decaffeinato/ristretto-decaf/front_ristretto_decaf.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/decaffeinato/ristretto-decaf/large/decaffeinato_ristretto-decaf_600x600.png",
+                "origin":"Ristretto Decaffeinato is een verfijnde blend van de beste Arabica-bonen uit Latijns - Amerika en Oost-Afrika, met een vleugje Robusta voor wat extra pit.",
+                "description":"Ristretto Decaffeinato is de nieuwe gedecafeïneerde variant van de Ristretto. Net zo intens gebrand en met dezelfde rijke, krachtige smaak en contrasterende aroma’s. Ristretto Decaffeinato is een verfijnde blend van de beste Arabica-bonen uit Latijns - Amerika en Oost-Afrika, met een vleugje Robusta voor wat extra pit.",
+                "intensity":10,
+                "roasting_description":"De bonen zijn afzonderlijk gebrand om de subtiele fruitaccenten van deze intense espresso te onthullen.",
+                "aromatic_profile":"Sterke geroosterde tonen verzacht door het tonen van chocolade. Een subtiele contrast tussen kracht en bitterheid, zure en fruitige tonen.",
+                "price":0.41,
+                "price_sleeve":4.10,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/ristretto-decaffeinato-koffie-capsule",
+                "ingredients":[ 
+                   "<p>10 Ristretto Decaffeinato capsules gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie. Verpakt onder beschermende atmosfeer.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>55g - 1.94oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2>"
+                ],
+                "main_color":"#030804",
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7697.20",
+                "ean":"7630039685911",
+                "inStock":true,
+                "google":true,
+                "name":"arpeggio decaffeinato",
+                "name_prospect":"arpeggio decaffeinato",
+                "name_renewal":"arpeggio decaffeinato",
+                "slug":"arpeggio_decaffeinato",
+                "range":"classic",
+                "filter":"decaffeinato",
+                "capacity":"espresso",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_03.svg",
+                "title":"Intens en smeuig",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/decaffeinato/arpeggio_decaf/front_arpeggio_decaf.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/decaffeinato/arpeggio_decaf/large/decaffeinato_arpeggio_decaf_600x600.png",
+                "origin":"Een selectie van de beste Arabica-variëteiten uit Brazilië en Costa Rica. Tijdens het decafeïneringsproces worden deze kenmerkende tonen zorgvuldig beschermd, zodat dezelfde intense cacaotonen en gebrande tonen worden behouden.",
+                "description":"Donker gebrand en rijk in smaak, heeft Arpeggio Decaffeinato hetzelfde onderscheidende karakter en volle body als de originele Arpeggio Grand Cru. Arpeggio Decaffeinato is een melange van donker gebrande Arabica-variëteiten uit Midden- en Zuid-Amerika, met een sterk karakter, een intense body en cacaotonen. Een split-roastingtechniek is toegepast om de specifieke tonen van de verschillen in herkomst te onthullen. Tijdens het decafeïneringsproces worden deze kenmerkende tonen zorgvuldig beschermd, zodat dezelfde intense cacaotonen en gebrande tonen worden behouden.",
+                "intensity":9,
+                "roasting_description":"De split-roastingtechniek onthult de specifieke tonen van de herkomst van de bonen: langer branden onthult de intense, cacao-achtige smaak uit Brazilië en Costa Rica; een kortere, lichtere branding onthult de zachtere tonen van de Arabica uit Zuid-Amerika.",
+                "aromatic_profile":"Arpeggio Decaffeinato heeft, net zoals de originele Grand Cru, hetzelfde sterke karakter met intense cacaotonen en gebrande houtachtige tonen.",
+                "price":0.41,
+                "price_sleeve":4.10,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/arpeggio-decaffeinato-koffie-capsule",
+                "ingredients":[ 
+                   "<p>10 Arpeggio Decaffeinato capsules gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie. Verpakt onder beschermende atmosfeer.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>55g - 1.94oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2>"
+                ],
+                "main_color":"#24163a",
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7645.20",
+                "ean":"7630030322976",
+                "inStock":true,
+                "google":true,
+                "name":"volluto decaffeinato",
+                "name_prospect":"volluto decaffeinato",
+                "name_renewal":"volluto decaffeinato",
+                "slug":"volluto_decaffeinato",
+                "range":"classic",
+                "filter":"decaffeinato",
+                "capacity":"espresso",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_06.svg",
+                "title":"Zacht en zoet",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/decaffeinato/volluto_decaf/front_volluto_decaf.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/decaffeinato/volluto_decaf/large/decaffeinato_volluto_decaf_600x600.png",
+                "origin":"Volluto Decaffeinato is een pure melange van gedecafeïneerde Arabica-variëteiten uit Brazilië en Colombia. Tijdens het decafeïneringsproces worden de natuurlijke kenmerken van de koffie zorgvuldig beschermd, zodat de zachte biscuitachtige accenten en subtiele fruitachtige tonen worden behouden.",
+                "description":"Met haar zachte en zoete accenten heeft Volluto Decaffeinato hetzelfde delicate aroma en ronde body als de orginele Volluto Grand Cru. De Braziliaanse en Colombiaanse Arabica-bonen in deze melange worden licht en apart gebrand om hun karakteristieken te accentueren en de subtiele biscuitachtige accenten en fruitachtige tonen te onthullen. Het aromatisch profiel van deze koffies wordt tijdens het decafeïneringsproces zorgvuldig beschermd, zodat de natuurlijke kenmerken van de koffie worden behouden.",
+                "intensity":4,
+                "roasting_description":"Deze pure Arabica-bonen worden apart van elkaar gebrand om zo de specifieke tonen van verschillen in herkomst te onthullen: een kortere branding onthult de zachte biscuitachtige tonen van de Braziliaanse Arabica en een langere, lichte branding van de bonen uit Colombia geeft de Grand Cru haar subtiele fruitachtige tonen.",
+                "aromatic_profile":"Gekenmerkt door de zachte biscuitachtige accenten en subtiele fruitachtige tonen, heeft Volluto Decaffeinato hetzelfde delicate aroma en ronde body als de originele Volluto Grand Cru.",
+                "price":0.41,
+                "price_sleeve":4.10,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/vivalto-lungo-decaffeinato-koffie-capsule",
+                "ingredients":[ 
+                   "<p>10 Volluto Lungo Decaffeinato capsules gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie. Verpakt onder beschermende atmosfeer.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>50g - 1.76oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2><p>EAN: 7630030323058</p>"
+                ],
+                "main_color":"#f1ca64",
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             },
+             { 
+                "sku":"7646.20",
+                "ean":"7630030323058",
+                "inStock":true,
+                "google":true,
+                "name":"vivalto lungo decaffeinato",
+                "name_prospect":"vivalto lungo decaffeinato",
+                "name_renewal":"vivalto lungo decaffeinato",
+                "slug":"vivalto_lungo_decaffeinato",
+                "range":"classic",
+                "filter":"decaffeinato",
+                "capacity":"lungo",
+                "capacity_image":"https://dw0w4amzflayh.cloudfront.net/resources/capacity/Kopjes_07.svg",
+                "title":"Complex en gebalanceerd",
+                "image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/decaffeinato/vivalto_lungo_decaf/front_vivalto_lungo_decaf.png",
+                "color_extra_image":"https://dw0w4amzflayh.cloudfront.net/coffee/classic/decaffeinato/vivalto_lungo_decaf/large/decaffeinato_vivalto_lungo_decaf_600x600.png",
+                "origin":"Vivalto Lungo Decaffeinato is een complexe melange van gedecafeïneerde Arabica-variëteiten uit Colombia en Ethiopië met een zoete graantoon en subtiele bloemachtige tonen. Het aromaprofiel van deze koffies wordt tijdens het decafeïneringsproces zorgvuldig beschermd, zodat deze natuurlijke kenmerken worden behouden.",
+                "description":"Met haar complexe maar evenwichtige melange heeft Vivalto Lungo Decaffeinato hetzelfde rijke karakter als de orginele Vivalto Lungo Grand Cru: gebrand, houtachtig, een zoete graantoon en subtiele bloementonen. De 100% Arabica is een melange van Arabica-variëteiten uit Zuid-Amerika en Oost-Afrika. Tijdens het decafeïneringsproces worden deze kenmerkende tonen zorgvuldig beschermd, zodat dezelfde sterkte en rijke aroma's worden behouden.",
+                "intensity":4,
+                "roasting_description":"De split-roastingtechniek die wordt toegepast zorgt dat de specifieke tonen van verschillen in herkomst naar voren komen, waardoor er een complexiteit ontstaat in de melange. Een korte, lichtere branding onthult de subtiele bloemachtige tonen van de bonen uit Ethiopië en de fruitachtige toon van de Colombiaanse boon, en een donkere en langere branding ontwikkelt de bitterheid.",
+                "aromatic_profile":"Vivalto Lungo Decaffeinato heeft hetzelfde rijke en complexe karakter als de originele Vivalto Lungo Grand Cru, die gebrande tonen combineert met subtiele bloemachtige tonen.",
+                "price":0.43,
+                "price_sleeve":4.30,
+                "unit_pricing_measure":"10ct",
+                "unit_pricing_base_measure":"1ct",
+                "more_info_link":"https://www.nespresso.com/nl/nl/order/capsules/vivalto-lungo-decaffeinato-koffie-capsule",
+                "ingredients":[ 
+                   "<p>10 Volluto Lungo Decaffeinato capsules gebrande en gemalen koffie voor het <strong>NESPRESSO</strong> systeem.</p>",
+                   " <h2 class='bold'>ingrediënten &amp; allergenen</h2> <p>Gebrande en gemalen koffie. Verpakt onder beschermende atmosfeer.</p>",
+                   "<h2 class='bold'>nettogewicht (voor 10 capsules)</h2> <p>50g - 1.76oz e</p>",
+                   "<h2 class='bold'>Geproduceerd in Zwitserland</h2><p>EAN: 7630030323058</p>"
+                ],
+                "main_color":"#5977b4",
+                "model":"single",
+                "is_bundle":"no",
+                "product_quantity":10,
+                "product_group":"BTOC",
+                "product_type":"capsule_los"
+             }
+          ]
+       }
+    },
+    "campaign":{ 
+       "boer":{ 
+          "id":[ 
+             "105833",
+             "105834",
+             "105835"
+          ],
+          "min":100
+       },
+       "boer2":{ 
+          "id":[ 
+             "103006",
+             "100494"
+          ],
+          "min":300
+       }
+    },
+    "options":{ 
+       "min":0,
+       "max":300,
+       "range":[ 
+          0,
+          10,
+          20,
+          30,
+          40,
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          150,
+          200,
+          250,
+          300
+       ]
+    }
+ }
