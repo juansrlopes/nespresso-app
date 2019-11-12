@@ -41,12 +41,12 @@ export const CoffeeMachineShopping = props => {
         <Row className="machine-shopping-wrapper">
             <Container>
                 <Button
-                    variant="outline-secondary"
+                    variant="outline-danger"
                     size="sm"
                     style={{ float: "right" }}
                     onClick={props.closeShoppingArea}
                 >
-                    Sluiten
+                    X
                 </Button>
                 <Row>
                     <Col md={8} className="shopping-inner">
@@ -155,23 +155,72 @@ export const CoffeeMachineShopping = props => {
                                                 {coffeeBoxitem.quantity}
                                             </p>
                                             <p className="product-price">
-                                                &euro;{coffeeBoxitem.price}
+                                                <span className="price-was">
+                                                    &euro;{coffeeBoxitem.price}
+                                                </span>{" "}
+                                                &euro;
+                                                {parseFloat(
+                                                    coffeeBoxitem.price -
+                                                        coffeeBoxitem.discount
+                                                ).toFixed(2)}
                                             </p>
                                         </div>
                                     </Col>
                                 );
                             })}
                         </Row>
+                        <h3>
+                            <span className="stepUp">Stap 3</span> Kies Uw
+                            Accessoire
+                        </h3>
                         <Row className="product-choice step3">
                             Accessories choice
                         </Row>
                     </Col>
                     <Col md={4} className="shopping-cart">
-                        <div>
-                            {machineName} : {currentColorMachine.color_price}
+                        <div className="shopping-cart-inner">
+                            <div>
+                                {machineName} : &euro;
+                                {currentColorMachine.color_price}
+                            </div>
+                            <div>{currentColorMachine.color_desc}</div>
+                            <div>
+                                {currentCoffee.name} : &euro;
+                                {parseFloat(
+                                    currentCoffee.price - currentCoffee.discount
+                                ).toFixed(2)}
+                            </div>
+                            <div>
+                                Total: &euro;
+                                {parseFloat(
+                                    currentColorMachine.color_price +
+                                        (currentCoffee.price -
+                                            currentCoffee.discount)
+                                ).toFixed(2)}
+                            </div>
+                            <br />
+                            <div>
+                                <Button
+                                    variant="outline-secondary"
+                                    onClick={() => {
+                                        console.log("Open access area");
+                                    }}
+                                >
+                                    Voeg Accessoire toe
+                                </Button>
+                            </div>
+                            <br />
+                            <div>
+                                <Button
+                                    variant="success"
+                                    onClick={() => {
+                                        console.log("You bought a machine");
+                                    }}
+                                >
+                                    Bestelling Afrekenen
+                                </Button>
+                            </div>
                         </div>
-                        <div>{currentColorMachine.color_desc}</div>
-                        <div>{currentCoffee.name}</div>
                     </Col>
                 </Row>
             </Container>

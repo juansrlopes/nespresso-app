@@ -165,11 +165,16 @@
                     }
                     .product-price{
                         color: #a28437;
-                        font-size: 28px;
+                        font-size: 22px;
                         font-weight: 400;
                         letter-spacing: 1px;
                         line-height: 17px;
                         text-align: center;
+                        .price-was{
+                            color: #000;
+                            font-size: 16px;
+                            text-decoration: line-through;
+                        }
                     }
                     &.choice-box-machine{
                         text-align: center;
@@ -229,6 +234,12 @@
                     }
                 }
             }
+        }
+    }
+    .shopping-cart{
+        .shopping-cart-inner{
+            padding: 10px;
+            background-color: #fff;
         }
     }
 }
