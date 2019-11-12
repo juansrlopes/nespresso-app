@@ -16,10 +16,15 @@ export const CoffeeMachineShopping = props => {
     const [currentColorMachine, setCurrentColorMachine] = useState(
         machineColors[0]
     );
-    const [currentIndex, setCurrentIndex] = useState(0);
+    const [currentMachineIndex, setCurrentMachineIndex] = useState(0);
+    const [currentCoffeeIndex, setCurrentCoffeeIndex] = useState(0);
     const functionSetCurrentMachine = (machineColorItem, index) => {
         setCurrentColorMachine(machineColorItem);
-        setCurrentIndex(index);
+        setCurrentMachineIndex(index);
+    };
+    const functionSetCurrentCoffee = (coffeeBoxitem, index) => {
+        setCurrentCoffee(coffeeBoxitem);
+        setCurrentCoffeeIndex(index);
     };
     let resultArray = [];
     coffee.category.boxes.map(coffeeBoxItem => {
@@ -31,6 +36,7 @@ export const CoffeeMachineShopping = props => {
         });
         return true;
     });
+    const [currentCoffee, setCurrentCoffee] = useState(resultArray[0]);
     return (
         <Row className="machine-shopping-wrapper">
             <Container>
@@ -88,7 +94,7 @@ export const CoffeeMachineShopping = props => {
                                                             );
                                                         }}
                                                         className={
-                                                            currentIndex ===
+                                                            currentMachineIndex ===
                                                             index
                                                                 ? "color-list-active"
                                                                 : ""
@@ -118,15 +124,39 @@ export const CoffeeMachineShopping = props => {
                             Koffieassortiment
                         </h3>
                         <Row className="product-choice step2">
-                            {resultArray.map(coffeeBoxitem => {
+                            {resultArray.map((coffeeBoxitem, index) => {
                                 return (
                                     <Col
                                         md={12 / resultArray.length}
                                         className="choices-box"
                                         key={coffeeBoxitem.sku}
                                     >
-                                        <div className="choice-box-wrapper choice-box-color">
-                                            <div>{coffeeBoxitem.name}</div>
+                                        <div
+                                            className={`choice-box-wrapper choice-box-coffee ${
+                                                currentCoffeeIndex === index
+                                                    ? "coffee-list-active"
+                                                    : ""
+                                            }`}
+                                            onClick={() => {
+                                                functionSetCurrentCoffee(
+                                                    coffeeBoxitem,
+                                                    index
+                                                );
+                                            }}
+                                        >
+                                            <Image
+                                                src={coffeeBoxitem.show}
+                                                className="choice-box-main-image"
+                                            />
+                                            <p className="product-name">
+                                                {coffeeBoxitem.name}
+                                            </p>
+                                            <p className="product-quantity">
+                                                {coffeeBoxitem.quantity}
+                                            </p>
+                                            <p className="product-price">
+                                                &euro;{coffeeBoxitem.price}
+                                            </p>
                                         </div>
                                     </Col>
                                 );
@@ -141,6 +171,7 @@ export const CoffeeMachineShopping = props => {
                             {machineName} : {currentColorMachine.color_price}
                         </div>
                         <div>{currentColorMachine.color_desc}</div>
+                        <div>{currentCoffee.name}</div>
                     </Col>
                 </Row>
             </Container>

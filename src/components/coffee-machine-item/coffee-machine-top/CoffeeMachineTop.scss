@@ -124,6 +124,15 @@
         }
         .product-choice{
             margin-bottom: 40px;
+            &.step2{
+                .choice-box-wrapper{
+                    cursor: pointer;
+                    border: 1px solid #fff;
+                    &.coffee-list-active{
+                        border: 1px solid #000;
+                    }
+                }
+            }
             .choices-box{
                 max-width: 250px;
                 box-sizing: border-box;
@@ -132,25 +141,38 @@
                     padding: 10px;
                     min-height: 355px;
                     margin-top: 20px;
+                    box-shadow: 0 0 4px 2px rgba(160,160,160,.2);
+                    .choice-box-main-image{
+                        max-width: 150px;
+                        display: block;
+                        margin: auto;
+                    }
+                    .product-name{
+                        text-transform: uppercase;
+                        letter-spacing: 1px;
+                        margin-top: 20px;
+                        font-size: 12px;
+                        text-align: center;
+                        font-weight: bold;
+                    }
+                    .product-quantity{
+                        color: #000;
+                        font-size: 12px;
+                        font-weight: 400;
+                        letter-spacing: 1px;
+                        text-transform: uppercase;
+                        text-align: center;
+                    }
+                    .product-price{
+                        color: #a28437;
+                        font-size: 28px;
+                        font-weight: 400;
+                        letter-spacing: 1px;
+                        line-height: 17px;
+                        text-align: center;
+                    }
                     &.choice-box-machine{
                         text-align: center;
-                        .choice-box-main-image{
-                            max-width: 150px;
-                            display: block;
-                            margin: auto;
-                        }
-                        .product-name{
-                            text-transform: uppercase;
-                            letter-spacing: 1px;
-                            margin-top: 20px;
-                        }
-                        .product-price{
-                            color: #a28437;
-                            font-size: 28px;
-                            font-weight: 400;
-                            letter-spacing: 1px;
-                            line-height: 17px;
-                        }
                     }
                     &.choice-box-color{
                         h4{
