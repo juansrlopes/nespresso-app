@@ -22,7 +22,8 @@ export const CoffeeMachineTop = props => {
         machinePrice,
         machineColors,
         coffee,
-        machineCoffeeIds
+        machineCoffeeIds,
+        accessories
     } = props;
 
     const purchasedMachine = () => {
@@ -49,13 +50,22 @@ export const CoffeeMachineTop = props => {
                     </Alert>
                 )}
                 <Link to={"/"}>
-                    <Button variant="dark">Back to machines</Button>
+                    <Button variant="outline-secondary">
+                        {"Overzicht machines"}
+                    </Button>
                 </Link>
                 <Row className="machine-top-row">
-                    <Col md={4}>
-                        <Image src={thumbUrl} fluid />
+                    <Col md={6}>
+                        <Image
+                            src={thumbUrl}
+                            fluid
+                            style={{
+                                marginTop: "-100px",
+                                pointerEvents: "none"
+                            }}
+                        />
                     </Col>
-                    <Col md={{ span: 6, offset: 2 }}>
+                    <Col md={6}>
                         <h1 className="machine-title">{machineName}</h1>
                         <h2 className="machine-subtitle">{machineSubline}</h2>
                         <p
@@ -133,6 +143,7 @@ export const CoffeeMachineTop = props => {
                     machinePrice={machinePrice}
                     coffee={coffee}
                     machineCoffeeIds={machineCoffeeIds}
+                    accessories={accessories}
                 />
             )}
         </>

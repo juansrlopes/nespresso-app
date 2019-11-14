@@ -7,7 +7,7 @@ import { CoffeeMachineAbout } from "./coffee-machine-about/CoffeeMachineAbout";
 import "./CoffeeMachineItem.scss";
 
 export const CoffeeMachineItem = props => {
-    const { machine, coffee } = props;
+    const { machine, coffee, accessories } = props;
     const machineContent = machine.content[0];
     const machineColors = machine.content[0].machine_colors;
     const machineTopUsp = machine.nespresso_usp;
@@ -21,7 +21,7 @@ export const CoffeeMachineItem = props => {
                 <title>{machineContent.machine_name}</title>
             </Helmet>
             <CoffeeMachineTop
-                thumbUrl={machineContent.machine_gallery[0].thumbUrl}
+                thumbUrl={machineContent.machine_colors[0].color_show}
                 machineName={machineContent.machine_name}
                 machineSubline={machineContent.machine_subline}
                 machineDescription={machineContent.machine_description_full}
@@ -30,6 +30,7 @@ export const CoffeeMachineItem = props => {
                 machineColors={machineColors}
                 coffee={coffee}
                 machineCoffeeIds={machineCoffeeIds}
+                accessories={accessories}
             />
             <CoffeeMachineLifestyle
                 lifestyleImages={lifestyleImages}

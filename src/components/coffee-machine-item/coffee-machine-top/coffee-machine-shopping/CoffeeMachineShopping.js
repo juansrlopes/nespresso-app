@@ -4,6 +4,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Image from "react-bootstrap/Image";
 import Button from "react-bootstrap/Button";
+import Slider from "react-slick";
 
 export const CoffeeMachineShopping = props => {
     const {
@@ -11,7 +12,8 @@ export const CoffeeMachineShopping = props => {
         machineName,
         machinePrice,
         coffee,
-        machineCoffeeIds
+        machineCoffeeIds,
+        accessories
     } = props;
     const [currentColorMachine, setCurrentColorMachine] = useState(
         machineColors[0]
@@ -37,6 +39,20 @@ export const CoffeeMachineShopping = props => {
         return true;
     });
     const [currentCoffee, setCurrentCoffee] = useState(resultArray[0]);
+    const settings = {
+        dots: false,
+        controls: true,
+        infinite: false,
+        speed: 500,
+        slidesToShow: 3,
+        slidesToScroll: 1
+    };
+    let accessoriesArray = [];
+    accessories.map(accessoriesItem => {
+        if (accessoriesItem.inStock === true) {
+            accessoriesArray.push(accessoriesItem);
+        }
+    });
     return (
         <Row className="machine-shopping-wrapper">
             <Container>
@@ -59,14 +75,8 @@ export const CoffeeMachineShopping = props => {
                                 <div className="choice-box-wrapper choice-box-machine">
                                     <Image
                                         className="choice-box-main-image"
-                                        src={
-                                            currentColorMachine.color_gallery[0]
-                                                .thumbUrl
-                                        }
-                                        alt={
-                                            currentColorMachine.color_gallery[0]
-                                                .alt
-                                        }
+                                        src={currentColorMachine.color_show}
+                                        alt={`Machine color ${currentColorMachine.color_desc}`}
                                     />
                                     <p className="product-name">
                                         {machineName}
@@ -156,7 +166,10 @@ export const CoffeeMachineShopping = props => {
                                             </p>
                                             <p className="product-price">
                                                 <span className="price-was">
-                                                    &euro;{coffeeBoxitem.price}
+                                                    &euro;
+                                                    {parseFloat(
+                                                        coffeeBoxitem.price
+                                                    ).toFixed(2)}
                                                 </span>{" "}
                                                 &euro;
                                                 {parseFloat(
@@ -174,7 +187,42 @@ export const CoffeeMachineShopping = props => {
                             Accessoire
                         </h3>
                         <Row className="product-choice step3">
-                            Accessories choice
+                            {accessoriesArray.length > 0 && (
+                                <Slider {...settings}>
+                                    {accessoriesArray.map(
+                                        (accessoriesArrayItem, index) => {
+                                            return (
+                                                <>
+                                                    {accessoriesArrayItem.inStock ===
+                                                        true && (
+                                                        <div
+                                                            className="sliderItem"
+                                                            key={index}
+                                                        >
+                                                            <Image
+                                                                src={
+                                                                    accessoriesArrayItem.show
+                                                                }
+                                                                fluid
+                                                            />
+                                                            <h3>
+                                                                {
+                                                                    accessoriesArrayItem.name_prospect
+                                                                }
+                                                            </h3>
+                                                            <p>
+                                                                {parseFloat(
+                                                                    accessoriesArrayItem.price
+                                                                ).toFixed(2)}
+                                                            </p>
+                                                        </div>
+                                                    )}
+                                                </>
+                                            );
+                                        }
+                                    )}
+                                </Slider>
+                            )}
                         </Row>
                     </Col>
                     <Col md={4} className="shopping-cart">
