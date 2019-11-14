@@ -20,6 +20,7 @@ export const CoffeeMachineShopping = props => {
     );
     const [currentMachineIndex, setCurrentMachineIndex] = useState(0);
     const [currentCoffeeIndex, setCurrentCoffeeIndex] = useState(0);
+    const [accessoriesArea, setAccessoriesArea] = useState(false);
     const functionSetCurrentMachine = (machineColorItem, index) => {
         setCurrentColorMachine(machineColorItem);
         setCurrentMachineIndex(index);
@@ -182,48 +183,57 @@ export const CoffeeMachineShopping = props => {
                                 );
                             })}
                         </Row>
-                        <h3>
-                            <span className="stepUp">Stap 3</span> Kies Uw
-                            Accessoire
-                        </h3>
-                        <Row className="product-choice step3">
-                            {accessoriesArray.length > 0 && (
-                                <Slider {...settings}>
-                                    {accessoriesArray.map(
-                                        (accessoriesArrayItem, index) => {
-                                            return (
-                                                <>
-                                                    {accessoriesArrayItem.inStock ===
-                                                        true && (
-                                                        <div
-                                                            className="sliderItem"
-                                                            key={index}
-                                                        >
-                                                            <Image
-                                                                src={
-                                                                    accessoriesArrayItem.show
-                                                                }
-                                                                fluid
-                                                            />
-                                                            <h3>
-                                                                {
-                                                                    accessoriesArrayItem.name_prospect
-                                                                }
-                                                            </h3>
-                                                            <p>
-                                                                {parseFloat(
-                                                                    accessoriesArrayItem.price
-                                                                ).toFixed(2)}
-                                                            </p>
-                                                        </div>
-                                                    )}
-                                                </>
-                                            );
-                                        }
+                        {accessoriesArea && (
+                            <>
+                                <h3>
+                                    <span className="stepUp">Stap 3</span> Kies
+                                    Uw Accessoire
+                                </h3>
+                                <Row className="product-choice step3">
+                                    {accessoriesArray.length > 0 && (
+                                        <Slider {...settings}>
+                                            {accessoriesArray.map(
+                                                (
+                                                    accessoriesArrayItem,
+                                                    index
+                                                ) => {
+                                                    return (
+                                                        <>
+                                                            {accessoriesArrayItem.inStock ===
+                                                                true && (
+                                                                <div
+                                                                    className="sliderItem"
+                                                                    key={index}
+                                                                >
+                                                                    <Image
+                                                                        src={
+                                                                            accessoriesArrayItem.show
+                                                                        }
+                                                                        fluid
+                                                                    />
+                                                                    <h3>
+                                                                        {
+                                                                            accessoriesArrayItem.name_prospect
+                                                                        }
+                                                                    </h3>
+                                                                    <p>
+                                                                        {parseFloat(
+                                                                            accessoriesArrayItem.price
+                                                                        ).toFixed(
+                                                                            2
+                                                                        )}
+                                                                    </p>
+                                                                </div>
+                                                            )}
+                                                        </>
+                                                    );
+                                                }
+                                            )}
+                                        </Slider>
                                     )}
-                                </Slider>
-                            )}
-                        </Row>
+                                </Row>
+                            </>
+                        )}
                     </Col>
                     <Col md={4} className="shopping-cart">
                         <div className="shopping-cart-inner">
@@ -251,7 +261,7 @@ export const CoffeeMachineShopping = props => {
                                 <Button
                                     variant="outline-secondary"
                                     onClick={() => {
-                                        console.log("Open access area");
+                                        setAccessoriesArea(true);
                                     }}
                                 >
                                     Voeg Accessoire toe
