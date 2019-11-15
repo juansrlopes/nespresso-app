@@ -243,6 +243,7 @@
                 width: 720px;
                 overflow: hidden;
                 height: 355px;
+                margin-top: 20px;
                 .slick-next, .slick-prev {
                     z-index: 99;
                     &::before{
@@ -257,13 +258,18 @@
                     right: 5px;
                 }
                 .slick-slide{
-                    width: 250px !important;
                     .sliderItem{
-                        width: 205px !important;
+                        width: 210px !important;
                         background-color: #fff;
                         padding: 10px;
                         text-align: center;
-                        height: 355px;
+                        height: 350px;
+                        box-shadow: 0 0 4px 2px rgba(160, 160, 160, 0.2);
+                        margin-bottom: 20px;
+                        cursor: pointer;
+                        &.sliderItem-active{
+                            border: 1px solid #000;
+                        }
                     }
                 }
             }

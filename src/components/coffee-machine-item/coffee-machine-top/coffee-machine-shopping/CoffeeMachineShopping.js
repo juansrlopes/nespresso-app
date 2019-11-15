@@ -20,7 +20,9 @@ export const CoffeeMachineShopping = props => {
     );
     const [currentMachineIndex, setCurrentMachineIndex] = useState(0);
     const [currentCoffeeIndex, setCurrentCoffeeIndex] = useState(0);
+    const [currentAccessoriesIndex, setCurrentAccessoriesIndex] = useState(0);
     const [accessoriesArea, setAccessoriesArea] = useState(false);
+    const [currentAccessoriesArray, setCurrentAccessoriesArray] = useState([]);
     const functionSetCurrentMachine = (machineColorItem, index) => {
         setCurrentColorMachine(machineColorItem);
         setCurrentMachineIndex(index);
@@ -53,6 +55,7 @@ export const CoffeeMachineShopping = props => {
         if (accessoriesItem.inStock === true) {
             accessoriesArray.push(accessoriesItem);
         }
+        return true;
     });
     return (
         <Row className="machine-shopping-wrapper">
@@ -198,12 +201,34 @@ export const CoffeeMachineShopping = props => {
                                                     index
                                                 ) => {
                                                     return (
-                                                        <>
+                                                        <React.Fragment
+                                                            key={index}
+                                                        >
                                                             {accessoriesArrayItem.inStock ===
                                                                 true && (
                                                                 <div
                                                                     className="sliderItem"
                                                                     key={index}
+                                                                    onClick={() => {
+                                                                        if (
+                                                                            currentAccessoriesArray.length ===
+                                                                            0
+                                                                        ) {
+                                                                            currentAccessoriesArray.push(
+                                                                                accessoriesArrayItem
+                                                                            );
+                                                                        }
+                                                                        setCurrentAccessoriesArray(
+                                                                            [
+                                                                                ...currentAccessoriesArray,
+                                                                                accessoriesArrayItem
+                                                                            ]
+                                                                        );
+                                                                        console.log(
+                                                                            "currentAccessoriesArray : ",
+                                                                            currentAccessoriesArray
+                                                                        );
+                                                                    }}
                                                                 >
                                                                     <Image
                                                                         src={
@@ -225,7 +250,7 @@ export const CoffeeMachineShopping = props => {
                                                                     </p>
                                                                 </div>
                                                             )}
-                                                        </>
+                                                        </React.Fragment>
                                                     );
                                                 }
                                             )}
