@@ -6,6 +6,15 @@ import Image from "react-bootstrap/Image";
 import Button from "react-bootstrap/Button";
 import Slider from "react-slick";
 
+const settings = {
+    dots: false,
+    controls: true,
+    infinite: false,
+    speed: 500,
+    slidesToShow: 3,
+    slidesToScroll: 1
+};
+
 export const CoffeeMachineShopping = props => {
     const {
         machineColors,
@@ -30,26 +39,18 @@ export const CoffeeMachineShopping = props => {
         setCurrentCoffee(coffeeBoxitem);
         setCurrentCoffeeIndex(index);
     };
-    let resultArray = [];
+    let coffeeArray = [];
+    let accessoriesArray = [];
     coffee.category.boxes.map(coffeeBoxItem => {
         machineCoffeeIds.map(machineCoffeeIdsItem => {
             if (coffeeBoxItem.sku === machineCoffeeIdsItem) {
-                resultArray.push(coffeeBoxItem);
+                coffeeArray.push(coffeeBoxItem);
             }
             return true;
         });
         return true;
     });
-    const [currentCoffee, setCurrentCoffee] = useState(resultArray[0]);
-    const settings = {
-        dots: false,
-        controls: true,
-        infinite: false,
-        speed: 500,
-        slidesToShow: 3,
-        slidesToScroll: 1
-    };
-    let accessoriesArray = [];
+    const [currentCoffee, setCurrentCoffee] = useState(coffeeArray[0]);
     accessories.map(accessoriesItem => {
         if (accessoriesItem.inStock === true) {
             accessoriesArray.push(accessoriesItem);
@@ -137,10 +138,10 @@ export const CoffeeMachineShopping = props => {
                             Koffieassortiment
                         </h3>
                         <Row className="product-choice step2">
-                            {resultArray.map((coffeeBoxitem, index) => {
+                            {coffeeArray.map((coffeeBoxitem, index) => {
                                 return (
                                     <Col
-                                        md={12 / resultArray.length}
+                                        md={12 / coffeeArray.length}
                                         className="choices-box"
                                         key={coffeeBoxitem.sku}
                                     >
